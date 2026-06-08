@@ -1,0 +1,379 @@
+{
+  "lesson": 11,
+  "jlpt": "N5",
+  "vocabulary": [
+    {
+      "japanese": "います ［子どもが～］",
+      "reading": "います ［こどもが～］",
+      "romaji": "imasu [kodomo ga ~]",
+      "meaning": ["have [a child]"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "います ［日本に～］",
+      "reading": "います ［にほんに～］",
+      "romaji": "imasu [nihon ni ~]",
+      "meaning": ["stay, be [in Japan]"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "かかります",
+      "reading": "かかります",
+      "romaji": "kakarimasu",
+      "meaning": ["take (referring to time or money)"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "休みます ［会社を～］",
+      "reading": "やすみます ［かいしゃを～］",
+      "romaji": "yasumimasu [kaisha o ~]",
+      "meaning": ["take a day off [work]"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "１つ",
+      "reading": "ひとつ",
+      "romaji": "hitotsu",
+      "meaning": ["one (used when counting things)"]
+    },
+    {
+      "japanese": "２つ",
+      "reading": "ふたつ",
+      "romaji": "futatsu",
+      "meaning": ["two"]
+    },
+    {
+      "japanese": "３つ",
+      "reading": "みっつ",
+      "romaji": "mittsu",
+      "meaning": ["three"]
+    },
+    {
+      "japanese": "４つ",
+      "reading": "よっつ",
+      "romaji": "yottsu",
+      "meaning": ["four"]
+    },
+    {
+      "japanese": "５つ",
+      "reading": "いつつ",
+      "romaji": "itsutsu",
+      "meaning": ["five"]
+    },
+    {
+      "japanese": "６つ",
+      "reading": "むっつ",
+      "romaji": "muttsu",
+      "meaning": ["six"]
+    },
+    {
+      "japanese": "７つ",
+      "reading": "ななつ",
+      "romaji": "nanatsu",
+      "meaning": ["seven"]
+    },
+    {
+      "japanese": "８つ",
+      "reading": "やっつ",
+      "romaji": "yattsu",
+      "meaning": ["eight"]
+    },
+    {
+      "japanese": "９つ",
+      "reading": "ここのつ",
+      "romaji": "kokonotsu",
+      "meaning": ["nine"]
+    },
+    {
+      "japanese": "10",
+      "reading": "とお",
+      "romaji": "too",
+      "meaning": ["ten"]
+    },
+    {
+      "japanese": "いくつ",
+      "reading": "いくつ",
+      "romaji": "ikutsu",
+      "meaning": ["how many"]
+    },
+    {
+      "japanese": "１人",
+      "reading": "ひとり",
+      "romaji": "hitori",
+      "meaning": ["one person"]
+    },
+    {
+      "japanese": "２人",
+      "reading": "ふたり",
+      "romaji": "futari",
+      "meaning": ["two persons"]
+    },
+    {
+      "japanese": "ー人",
+      "reading": "ーにん",
+      "romaji": "-nin",
+      "meaning": ["ー people"]
+    },
+    {
+      "japanese": "ー台",
+      "reading": "ーだい",
+      "romaji": "-dai",
+      "meaning": ["(counter for machines, cars, etc.)"]
+    },
+    {
+      "japanese": "ー枚",
+      "reading": "ーまい",
+      "romaji": "-mai",
+      "meaning": ["(counter for paper, stamps, etc.)"]
+    },
+    {
+      "japanese": "ー回",
+      "reading": "ーかい",
+      "romaji": "-kai",
+      "meaning": ["ー times"]
+    },
+    {
+      "japanese": "りんご",
+      "reading": "りんご",
+      "romaji": "ringo",
+      "meaning": ["apple"]
+    },
+    {
+      "japanese": "みかん",
+      "reading": "みかん",
+      "romaji": "mikan",
+      "meaning": ["mandarin orange"]
+    },
+    {
+      "japanese": "サンドイッチ",
+      "reading": "サンドイッチ",
+      "romaji": "sandoitchi",
+      "meaning": ["sandwich"]
+    },
+    {
+      "japanese": "カレー［ライス］",
+      "reading": "カレー［ライス］",
+      "romaji": "karee [raisu]",
+      "meaning": ["curry [and rice]"]
+    },
+    {
+      "japanese": "アイスクリーム",
+      "reading": "アイスクリーム",
+      "romaji": "aisukuriimu",
+      "meaning": ["ice cream"]
+    },
+    {
+      "japanese": "切手",
+      "reading": "きって",
+      "romaji": "kitte",
+      "meaning": ["postage stamp"]
+    },
+    {
+      "japanese": "はがき",
+      "reading": "はがき",
+      "romaji": "hagaki",
+      "meaning": ["post card"]
+    },
+    {
+      "japanese": "封筒",
+      "reading": "ふうとう",
+      "romaji": "fuutou",
+      "meaning": ["envelope"]
+    },
+    {
+      "japanese": "速達",
+      "reading": "そくたつ",
+      "romaji": "sokutatsu",
+      "meaning": ["special delivery"]
+    },
+    {
+      "japanese": "書留",
+      "reading": "かきとめ",
+      "romaji": "kakitome",
+      "meaning": ["registered mail"]
+    },
+    {
+      "japanese": "エアメール （航空便）",
+      "reading": "エアメール （こうくうびん）",
+      "romaji": "eameeru (koukuubin)",
+      "meaning": ["airmail"]
+    },
+    {
+      "japanese": "船便",
+      "reading": "ふなびん",
+      "romaji": "funabin",
+      "meaning": ["sea mail"]
+    },
+    {
+      "japanese": "両親",
+      "reading": "りょうしん",
+      "romaji": "ryoushin",
+      "meaning": ["parents"]
+    },
+    {
+      "japanese": "兄弟",
+      "reading": "きょうだい",
+      "romaji": "kyoudai",
+      "meaning": ["brothers and sisters"]
+    },
+    {
+      "japanese": "兄",
+      "reading": "あに",
+      "romaji": "ani",
+      "meaning": ["(my) elder brother"]
+    },
+    {
+      "japanese": "お兄さん",
+      "reading": "おにいさん",
+      "romaji": "oniisan",
+      "meaning": ["(someone else's) elder brother"]
+    },
+    {
+      "japanese": "姉",
+      "reading": "あね",
+      "romaji": "ane",
+      "meaning": ["(my) elder sister"]
+    },
+    {
+      "japanese": "お姉さん",
+      "reading": "おねえさん",
+      "romaji": "oneesan",
+      "meaning": ["(someone else's) elder sister"]
+    },
+    {
+      "japanese": "弟",
+      "reading": "おとうと",
+      "romaji": "otouto",
+      "meaning": ["(my) younger brother"]
+    },
+    {
+      "japanese": "弟さん",
+      "reading": "おとうとさん",
+      "romaji": "otoutosan",
+      "meaning": ["(someone else's) younger brother"]
+    },
+    {
+      "japanese": "妹",
+      "reading": "いもうと",
+      "romaji": "imouto",
+      "meaning": ["(my) younger sister"]
+    },
+    {
+      "japanese": "妹さん",
+      "reading": "いもうとさん",
+      "romaji": "imoutosan",
+      "meaning": ["(someone else's) younger sister"]
+    },
+    {
+      "japanese": "外国",
+      "reading": "がいこく",
+      "romaji": "gaikoku",
+      "meaning": ["foreign country"]
+    },
+    {
+      "japanese": "ー時間",
+      "reading": "ーじかん",
+      "romaji": "-jikan",
+      "meaning": ["ー hours"]
+    },
+    {
+      "japanese": "ー週間",
+      "reading": "ーしゅうかん",
+      "romaji": "-shuukan",
+      "meaning": ["ー weeks"]
+    },
+    {
+      "japanese": "ーか月",
+      "reading": "ーかげつ",
+      "romaji": "-kagetsu",
+      "meaning": ["ー months"]
+    },
+    {
+      "japanese": "ー年",
+      "reading": "ーねん",
+      "romaji": "-nen",
+      "meaning": ["ー years"]
+    },
+    {
+      "japanese": "～ぐらい",
+      "reading": "～ぐらい",
+      "romaji": "~gurai",
+      "meaning": ["about ~"]
+    },
+    {
+      "japanese": "どのくらい",
+      "reading": "どのくらい",
+      "romaji": "dono kurai",
+      "meaning": ["how long"]
+    },
+    {
+      "japanese": "全部で",
+      "reading": "ぜんぶで",
+      "romaji": "zenbu de",
+      "meaning": ["in total"]
+    },
+    {
+      "japanese": "みんな",
+      "reading": "みんな",
+      "romaji": "minna",
+      "meaning": ["all, everything"]
+    },
+    {
+      "japanese": "～だけ",
+      "reading": "～だけ",
+      "romaji": "~dake",
+      "meaning": ["only ~"]
+    },
+    {
+      "japanese": "いらっしゃいませ。",
+      "reading": "いらっしゃいませ。",
+      "romaji": "irasshaimase.",
+      "meaning": [
+        "Welcome.",
+        "May I help you? (a greeting to a customer or a guest entering a shop, etc.)"
+      ]
+    },
+    {
+      "japanese": "いい ［お］天気ですね。",
+      "reading": "いい ［お］てんきですね。",
+      "romaji": "ii [o]tenki desu ne.",
+      "meaning": ["Nice weather, isn't it?"]
+    },
+    {
+      "japanese": "お出かけですか。",
+      "reading": "おでかけですか。",
+      "romaji": "odekake desu ka.",
+      "meaning": ["Are you going out?"]
+    },
+    {
+      "japanese": "ちょっと ～まで。",
+      "reading": "ちょっと ～まで。",
+      "romaji": "chotto ~made.",
+      "meaning": ["I'm just going to ~."]
+    },
+    {
+      "japanese": "行って いらっしゃい。",
+      "reading": "いって いらっしゃい。",
+      "romaji": "itte irasshai.",
+      "meaning": ["So long. (lit. Go and come back.)"]
+    },
+    {
+      "japanese": "行って まいります。",
+      "reading": "いって まいります。",
+      "romaji": "itte mairimasu.",
+      "meaning": ["So long. (lit. I'm going and coming back.)"]
+    },
+    {
+      "japanese": "それから",
+      "reading": "それから",
+      "romaji": "sorekara",
+      "meaning": ["and, furthermore"]
+    },
+    {
+      "japanese": "オーストラリア",
+      "reading": "オーストラリア",
+      "romaji": "oosutoraria",
+      "meaning": ["Australia"]
+    }
+  ]
+}

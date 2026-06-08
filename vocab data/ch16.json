@@ -1,0 +1,340 @@
+{
+  "lesson": 16,
+  "jlpt": "N5",
+  "vocabulary": [
+    {
+      "japanese": "乗ります ［電車に～］",
+      "reading": "のります ［でんしゃに～］",
+      "romaji": "norimasu [densha ni ~]",
+      "meaning": ["ride", "get on [a train]"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "降ります ［電車を～］",
+      "reading": "おります ［でんしゃを～］",
+      "romaji": "orimasu [densha o ~]",
+      "meaning": ["get off [a train]"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "乗り換えます",
+      "reading": "のりかえます",
+      "romaji": "norikaemasu",
+      "meaning": ["change (trains, etc.)"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "浴びます ［シャワーを～］",
+      "reading": "あびます ［シャワーを～］",
+      "romaji": "abimasu [shawaa o ~]",
+      "meaning": ["take [a shower]"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "入れます",
+      "reading": "いれます",
+      "romaji": "iremasu",
+      "meaning": ["put in", "insert"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "出します",
+      "reading": "だします",
+      "romaji": "dashimasu",
+      "meaning": ["take out", "withdraw"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "入ります ［大学に～］",
+      "reading": "はいります ［だいがくに～］",
+      "romaji": "hairimasu [daigaku ni ~]",
+      "meaning": ["enter [university]"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "出ます ［大学を～］",
+      "reading": "でます ［だいがくを～］",
+      "romaji": "demasu [daigaku o ~]",
+      "meaning": ["graduate from [university]"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "やめます ［会社を～］",
+      "reading": "やめます ［かいしゃを～］",
+      "romaji": "yamemasu [kaisha o ~]",
+      "meaning": ["quit or retire from [a company]", "stop", "give up"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "押します",
+      "reading": "おします",
+      "romaji": "oshimasu",
+      "meaning": ["push", "press"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "若い",
+      "reading": "わかい",
+      "romaji": "wakai",
+      "meaning": ["young"]
+    },
+    {
+      "japanese": "長い",
+      "reading": "ながい",
+      "romaji": "nagai",
+      "meaning": ["long"]
+    },
+    {
+      "japanese": "短い",
+      "reading": "みじかい",
+      "romaji": "mijikai",
+      "meaning": ["short"]
+    },
+    {
+      "japanese": "明るい",
+      "reading": "あかるい",
+      "romaji": "akarui",
+      "meaning": ["bright", "light"]
+    },
+    {
+      "japanese": "暗い",
+      "reading": "くらい",
+      "romaji": "kurai",
+      "meaning": ["dark"]
+    },
+    {
+      "japanese": "背が 高い",
+      "reading": "せが たかい",
+      "romaji": "se ga takai",
+      "meaning": ["tall (referring to person)"]
+    },
+    {
+      "japanese": "頭が いい",
+      "reading": "あたまが いい",
+      "romaji": "atama ga ii",
+      "meaning": ["clever", "smart"]
+    },
+    {
+      "japanese": "体",
+      "reading": "からだ",
+      "romaji": "karada",
+      "meaning": ["body"]
+    },
+    {
+      "japanese": "頭",
+      "reading": "あたま",
+      "romaji": "atama",
+      "meaning": ["head"]
+    },
+    {
+      "japanese": "髪",
+      "reading": "かみ",
+      "romaji": "kami",
+      "meaning": ["hair"]
+    },
+    {
+      "japanese": "顔",
+      "reading": "かお",
+      "romaji": "kao",
+      "meaning": ["face"]
+    },
+    {
+      "japanese": "目",
+      "reading": "め",
+      "romaji": "me",
+      "meaning": ["eye"]
+    },
+    {
+      "japanese": "耳",
+      "reading": "みみ",
+      "romaji": "mimi",
+      "meaning": ["ear"]
+    },
+    {
+      "japanese": "口",
+      "reading": "くち",
+      "romaji": "kuchi",
+      "meaning": ["mouth"]
+    },
+    {
+      "japanese": "歯",
+      "reading": "は",
+      "romaji": "ha",
+      "meaning": ["tooth"]
+    },
+    {
+      "japanese": "おなか",
+      "reading": "おなか",
+      "romaji": "onaka",
+      "meaning": ["stomach"]
+    },
+    {
+      "japanese": "足",
+      "reading": "あし",
+      "romaji": "ashi",
+      "meaning": ["leg", "foot"]
+    },
+    {
+      "japanese": "サービス",
+      "reading": "サービス",
+      "romaji": "saabisu",
+      "meaning": ["service"]
+    },
+    {
+      "japanese": "ジョギング",
+      "reading": "ジョギング",
+      "romaji": "jogingu",
+      "meaning": ["jogging (～を します: jog)"]
+    },
+    {
+      "japanese": "シャワー",
+      "reading": "シャワー",
+      "romaji": "shawaa",
+      "meaning": ["shower"]
+    },
+    {
+      "japanese": "緑",
+      "reading": "みどり",
+      "romaji": "midori",
+      "meaning": ["green", "greenery"]
+    },
+    {
+      "japanese": "［お］寺",
+      "reading": "［お］てら",
+      "romaji": "[o]tera",
+      "meaning": ["Buddhist temple"]
+    },
+    {
+      "japanese": "神社",
+      "reading": "じんじゃ",
+      "romaji": "jinja",
+      "meaning": ["Shinto shrine"]
+    },
+    {
+      "japanese": "留学生",
+      "reading": "りゅうがくせい",
+      "romaji": "ryuugakusei",
+      "meaning": ["foreign student"]
+    },
+    {
+      "japanese": "ー番",
+      "reading": "ーばん",
+      "romaji": "-ban",
+      "meaning": ["number ー"]
+    },
+    {
+      "japanese": "どうやって",
+      "reading": "どうやって",
+      "romaji": "douyatte",
+      "meaning": ["in what way", "how"]
+    },
+    {
+      "japanese": "どの～",
+      "reading": "どの～",
+      "romaji": "dono~",
+      "meaning": ["which ~ (used for three or more)"]
+    },
+    {
+      "japanese": "［いいえ、］まだまだです。",
+      "reading": "［いいえ、］まだまだです。",
+      "romaji": "[iie,] madamada desu.",
+      "meaning": ["[No,] I still have a long way to go."]
+    },
+    {
+      "japanese": "お引き出しですか。",
+      "reading": "おひきだしですか。",
+      "romaji": "ohikidashi desu ka.",
+      "meaning": ["Are you making a withdrawal?"]
+    },
+    {
+      "japanese": "まず",
+      "reading": "まず",
+      "romaji": "mazu",
+      "meaning": ["first of all"]
+    },
+    {
+      "japanese": "キャッシュカード",
+      "reading": "キャッシュカード",
+      "romaji": "kyasshukaado",
+      "meaning": ["cash dispensing card"]
+    },
+    {
+      "japanese": "暗証番号",
+      "reading": "あんしょうばんごう",
+      "romaji": "anshoubangou",
+      "meaning": ["personal identification number", "PIN"]
+    },
+    {
+      "japanese": "次に",
+      "reading": "つぎに",
+      "romaji": "tsugini",
+      "meaning": ["next", "as a next step"]
+    },
+    {
+      "japanese": "金額",
+      "reading": "きんがく",
+      "romaji": "kingaku",
+      "meaning": ["amount of money"]
+    },
+    {
+      "japanese": "確認",
+      "reading": "かくにん",
+      "romaji": "kakunin",
+      "meaning": ["confirmation (～ します: confirm)"]
+    },
+    {
+      "japanese": "ボタン",
+      "reading": "ボタン",
+      "romaji": "botan",
+      "meaning": ["button"]
+    },
+    {
+      "japanese": "ＪＲ",
+      "reading": "ＪＲ",
+      "romaji": "JR",
+      "meaning": ["Japan Railway"]
+    },
+    {
+      "japanese": "アジア",
+      "reading": "アジア",
+      "romaji": "ajia",
+      "meaning": ["Asia"]
+    },
+    {
+      "japanese": "バンドン",
+      "reading": "バンドン",
+      "romaji": "bandon",
+      "meaning": ["Bandung (in Indonesia)"]
+    },
+    {
+      "japanese": "ベラクルス",
+      "reading": "ベラクルス",
+      "romaji": "berakurusu",
+      "meaning": ["Veracruz (in Mexico)"]
+    },
+    {
+      "japanese": "フランケン",
+      "reading": "フランケン",
+      "romaji": "furanken",
+      "meaning": ["Franken (in Germany)"]
+    },
+    {
+      "japanese": "ベトナム",
+      "reading": "ベトナム",
+      "romaji": "betonamu",
+      "meaning": ["Vietnam"]
+    },
+    {
+      "japanese": "フエ",
+      "reading": "フエ",
+      "romaji": "fue",
+      "meaning": ["Hue (in Vietnam)"]
+    },
+    {
+      "japanese": "大学前",
+      "reading": "だいがくまえ",
+      "romaji": "daigakumae",
+      "meaning": ["fictitious bus stop"]
+    }
+  ]
+}

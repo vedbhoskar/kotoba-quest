@@ -1,0 +1,396 @@
+{
+  "lesson": 4,
+  "jlpt": "N5",
+  "vocabulary": [
+    {
+      "japanese": "起きます",
+      "reading": "おきます",
+      "romaji": "okimasu",
+      "meaning": ["get up", "wake up"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "寝ます",
+      "reading": "ねます",
+      "romaji": "nemasu",
+      "meaning": ["sleep", "go to bed"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "働きます",
+      "reading": "はたらきます",
+      "romaji": "hatarakimasu",
+      "meaning": ["work"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "休みます",
+      "reading": "やすみます",
+      "romaji": "yasumimasu",
+      "meaning": ["take a rest", "take a holiday"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "勉強します",
+      "reading": "べんきょうします",
+      "romaji": "benkyoushimasu",
+      "meaning": ["study"],
+      "verb_group": "III"
+    },
+    {
+      "japanese": "終わります",
+      "reading": "おわります",
+      "romaji": "owarimasu",
+      "meaning": ["finish"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "デパート",
+      "reading": "デパート",
+      "romaji": "depaato",
+      "meaning": ["department store"]
+    },
+    {
+      "japanese": "銀行",
+      "reading": "ぎんこう",
+      "romaji": "ginkou",
+      "meaning": ["bank"]
+    },
+    {
+      "japanese": "郵便局",
+      "reading": "ゆうびんきょく",
+      "romaji": "yuubinkyoku",
+      "meaning": ["post office"]
+    },
+    {
+      "japanese": "図書館",
+      "reading": "としょかん",
+      "romaji": "toshokan",
+      "meaning": ["library"]
+    },
+    {
+      "japanese": "美術館",
+      "reading": "びじゅつかん",
+      "romaji": "bijutsukan",
+      "meaning": ["art museum"]
+    },
+    {
+      "japanese": "今",
+      "reading": "いま",
+      "romaji": "ima",
+      "meaning": ["now"]
+    },
+    {
+      "japanese": "ー時",
+      "reading": "ーじ",
+      "romaji": "-ji",
+      "meaning": ["ー o'clock"]
+    },
+    {
+      "japanese": "ー分",
+      "reading": "ーふん (ーぷん)",
+      "romaji": "-fun (-pun)",
+      "meaning": ["ー minute"]
+    },
+    {
+      "japanese": "半",
+      "reading": "はん",
+      "romaji": "han",
+      "meaning": ["half"]
+    },
+    {
+      "japanese": "何時",
+      "reading": "なんじ",
+      "romaji": "nanji",
+      "meaning": ["what time"]
+    },
+    {
+      "japanese": "何分",
+      "reading": "なんぷん",
+      "romaji": "nanpun",
+      "meaning": ["what minute"]
+    },
+    {
+      "japanese": "午前",
+      "reading": "ごぜん",
+      "romaji": "gozen",
+      "meaning": ["a.m.", "morning"]
+    },
+    {
+      "japanese": "午後",
+      "reading": "ごご",
+      "romaji": "gogo",
+      "meaning": ["p.m.", "afternoon"]
+    },
+    {
+      "japanese": "朝",
+      "reading": "あさ",
+      "romaji": "asa",
+      "meaning": ["morning"]
+    },
+    {
+      "japanese": "昼",
+      "reading": "ひる",
+      "romaji": "hiru",
+      "meaning": ["daytime", "noon"]
+    },
+    {
+      "japanese": "晩 (夜)",
+      "reading": "ばん (よる)",
+      "romaji": "ban (yoru)",
+      "meaning": ["night", "evening"]
+    },
+    {
+      "japanese": "おととい",
+      "reading": "おととい",
+      "romaji": "ototoi",
+      "meaning": ["the day before yesterday"]
+    },
+    {
+      "japanese": "きのう",
+      "reading": "きのう",
+      "romaji": "kinou",
+      "meaning": ["yesterday"]
+    },
+    {
+      "japanese": "きょう",
+      "reading": "きょう",
+      "romaji": "kyou",
+      "meaning": ["today"]
+    },
+    {
+      "japanese": "あした",
+      "reading": "あした",
+      "romaji": "ashita",
+      "meaning": ["tomorrow"]
+    },
+    {
+      "japanese": "あさって",
+      "reading": "あさって",
+      "romaji": "asatte",
+      "meaning": ["the day after tomorrow"]
+    },
+    {
+      "japanese": "けさ",
+      "reading": "けさ",
+      "romaji": "kesa",
+      "meaning": ["this morning"]
+    },
+    {
+      "japanese": "今晩",
+      "reading": "こんばん",
+      "romaji": "konban",
+      "meaning": ["this evening", "tonight"]
+    },
+    {
+      "japanese": "休み",
+      "reading": "やすみ",
+      "romaji": "yasumi",
+      "meaning": ["rest", "a holiday", "a day off"]
+    },
+    {
+      "japanese": "昼休み",
+      "reading": "ひるやすみ",
+      "romaji": "hiruyasumi",
+      "meaning": ["lunchtime"]
+    },
+    {
+      "japanese": "毎朝",
+      "reading": "まいあさ",
+      "romaji": "maiasa",
+      "meaning": ["every morning"]
+    },
+    {
+      "japanese": "毎晩",
+      "reading": "まいばん",
+      "romaji": "maiban",
+      "meaning": ["every night"]
+    },
+    {
+      "japanese": "毎日",
+      "reading": "まいにち",
+      "romaji": "mainichi",
+      "meaning": ["every day"]
+    },
+    {
+      "japanese": "月曜日",
+      "reading": "げつようび",
+      "romaji": "getsuyoubi",
+      "meaning": ["Monday"]
+    },
+    {
+      "japanese": "火曜日",
+      "reading": "かようび",
+      "romaji": "kayoubi",
+      "meaning": ["Tuesday"]
+    },
+    {
+      "japanese": "水曜日",
+      "reading": "すいようび",
+      "romaji": "suiyoubi",
+      "meaning": ["Wednesday"]
+    },
+    {
+      "japanese": "木曜日",
+      "reading": "もくようび",
+      "romaji": "mokuyoubi",
+      "meaning": ["Thursday"]
+    },
+    {
+      "japanese": "金曜日",
+      "reading": "きんようび",
+      "romaji": "kinyoubi",
+      "meaning": ["Friday"]
+    },
+    {
+      "japanese": "土曜日",
+      "reading": "どようび",
+      "romaji": "doyoubi",
+      "meaning": ["Saturday"]
+    },
+    {
+      "japanese": "日曜日",
+      "reading": "にちようび",
+      "romaji": "nichiyoubi",
+      "meaning": ["Sunday"]
+    },
+    {
+      "japanese": "何曜日",
+      "reading": "なんようび",
+      "romaji": "nanyoubi",
+      "meaning": ["what day of the week"]
+    },
+    {
+      "japanese": "番号",
+      "reading": "ばんごう",
+      "romaji": "bangou",
+      "meaning": ["number"]
+    },
+    {
+      "japanese": "何番",
+      "reading": "なんばん",
+      "romaji": "nanban",
+      "meaning": ["what number"]
+    },
+    {
+      "japanese": "〜から",
+      "reading": "〜から",
+      "romaji": "~kara",
+      "meaning": ["from 〜"]
+    },
+    {
+      "japanese": "〜まで",
+      "reading": "〜まで",
+      "romaji": "~made",
+      "meaning": ["up to 〜", "until 〜"]
+    },
+    {
+      "japanese": "〜と〜",
+      "reading": "〜と〜",
+      "romaji": "~to~",
+      "meaning": ["and (used to connect nouns)"]
+    },
+    {
+      "japanese": "そちら",
+      "reading": "そちら",
+      "romaji": "sochira",
+      "meaning": ["your place"]
+    },
+    {
+      "japanese": "大変ですね。",
+      "reading": "たいへんですね。",
+      "romaji": "taihen desu ne.",
+      "meaning": ["That's tough, isn't it? (used when expressing sympathy)"]
+    },
+    {
+      "japanese": "えーと",
+      "reading": "えーと",
+      "romaji": "eeto",
+      "meaning": ["well, let me see"]
+    },
+    {
+      "japanese": "104",
+      "reading": "104",
+      "romaji": "104",
+      "meaning": ["information", "directory assistance"]
+    },
+    {
+      "japanese": "お願いします。",
+      "reading": "おねがいします。",
+      "romaji": "onegaishimasu.",
+      "meaning": ["Please. (lit. ask for a favor)"]
+    },
+    {
+      "japanese": "かしこまりました。",
+      "reading": "かしこまりました。",
+      "romaji": "kashikomarimashita.",
+      "meaning": ["Certainly (sir, madam)"]
+    },
+    {
+      "japanese": "お問い合わせの番号",
+      "reading": "おといあわせのばんごう",
+      "romaji": "otoiawase no bangou",
+      "meaning": ["the number being inquired about"]
+    },
+    {
+      "japanese": "［どうも］ありがとうございました。",
+      "reading": "［どうも］ありがとうございました。",
+      "romaji": "[doumo] arigatou gozaimashita.",
+      "meaning": ["Thank you very much."]
+    },
+    {
+      "japanese": "ニューヨーク",
+      "reading": "ニューヨーク",
+      "romaji": "nyuuyooku",
+      "meaning": ["New York"]
+    },
+    {
+      "japanese": "ペキン",
+      "reading": "ペキン",
+      "romaji": "pekin",
+      "meaning": ["Beijing (北京)"]
+    },
+    {
+      "japanese": "ロンドン",
+      "reading": "ロンドン",
+      "romaji": "rondon",
+      "meaning": ["London"]
+    },
+    {
+      "japanese": "バンコク",
+      "reading": "バンコク",
+      "romaji": "bankoku",
+      "meaning": ["Bangkok"]
+    },
+    {
+      "japanese": "ロサンゼルス",
+      "reading": "ロサンゼルス",
+      "romaji": "rosanzerusu",
+      "meaning": ["Los Angeles"]
+    },
+    {
+      "japanese": "やまと美術館",
+      "reading": "やまとびじゅつかん",
+      "romaji": "yamato bijutsukan",
+      "meaning": ["fictitious art museum"]
+    },
+    {
+      "japanese": "大阪デパート",
+      "reading": "おおさかデパート",
+      "romaji": "oosaka depaato",
+      "meaning": ["fictitious department store"]
+    },
+    {
+      "japanese": "みどり図書館",
+      "reading": "みどりとしょかん",
+      "romaji": "midori toshokan",
+      "meaning": ["fictitious library"]
+    },
+    {
+      "japanese": "アップル銀行",
+      "reading": "アップルぎんこう",
+      "romaji": "appuru ginkou",
+      "meaning": ["fictitious bank"]
+    }
+  ]
+}

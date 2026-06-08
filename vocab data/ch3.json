@@ -1,0 +1,279 @@
+{
+  "lesson": 3,
+  "jlpt": "N5",
+  "vocabulary": [
+    {
+      "japanese": "ここ",
+      "reading": "ここ",
+      "romaji": "koko",
+      "meaning": ["here", "this place"]
+    },
+    {
+      "japanese": "そこ",
+      "reading": "そこ",
+      "romaji": "soko",
+      "meaning": ["there", "that place near you"]
+    },
+    {
+      "japanese": "あそこ",
+      "reading": "あそこ",
+      "romaji": "asoko",
+      "meaning": ["that place over there"]
+    },
+    {
+      "japanese": "どこ",
+      "reading": "どこ",
+      "romaji": "doko",
+      "meaning": ["where", "what place"]
+    },
+    {
+      "japanese": "こちら",
+      "reading": "こちら",
+      "romaji": "kochira",
+      "meaning": ["this way", "this place (polite equivalent of ここ)"]
+    },
+    {
+      "japanese": "そちら",
+      "reading": "そちら",
+      "romaji": "sochira",
+      "meaning": ["that way", "that place near you (polite equivalent of そこ)"]
+    },
+    {
+      "japanese": "あちら",
+      "reading": "あちら",
+      "romaji": "achira",
+      "meaning": [
+        "that way",
+        "that place over there (polite equivalent of あそこ)"
+      ]
+    },
+    {
+      "japanese": "どちら",
+      "reading": "どちら",
+      "romaji": "dochira",
+      "meaning": ["which way", "where (polite equivalent of どこ)"]
+    },
+    {
+      "japanese": "教室",
+      "reading": "きょうしつ",
+      "romaji": "kyoushitsu",
+      "meaning": ["classroom"]
+    },
+    {
+      "japanese": "食堂",
+      "reading": "しょくどう",
+      "romaji": "shokudou",
+      "meaning": ["dining hall", "canteen"]
+    },
+    {
+      "japanese": "事務所",
+      "reading": "じむしょ",
+      "romaji": "jimusho",
+      "meaning": ["office"]
+    },
+    {
+      "japanese": "会議室",
+      "reading": "かいぎしつ",
+      "romaji": "kaigishitsu",
+      "meaning": ["conference room", "assembly room"]
+    },
+    {
+      "japanese": "受付",
+      "reading": "うけつけ",
+      "romaji": "uketsuke",
+      "meaning": ["reception desk"]
+    },
+    {
+      "japanese": "ロビー",
+      "reading": "ロビー",
+      "romaji": "robii",
+      "meaning": ["lobby"]
+    },
+    {
+      "japanese": "部屋",
+      "reading": "へや",
+      "romaji": "heya",
+      "meaning": ["room"]
+    },
+    {
+      "japanese": "トイレ (お手洗い)",
+      "reading": "トイレ (おてあらい)",
+      "romaji": "toire (otearai)",
+      "meaning": ["toilet", "rest room"]
+    },
+    {
+      "japanese": "階段",
+      "reading": "かいだん",
+      "romaji": "kaidan",
+      "meaning": ["staircase"]
+    },
+    {
+      "japanese": "エレベーター",
+      "reading": "エレベーター",
+      "romaji": "erebeetaa",
+      "meaning": ["elevator", "lift"]
+    },
+    {
+      "japanese": "エスカレーター",
+      "reading": "エスカレーター",
+      "romaji": "esukareetaa",
+      "meaning": ["escalator"]
+    },
+    {
+      "japanese": "[お]国",
+      "reading": "[お]くに",
+      "romaji": "[o]kuni",
+      "meaning": ["country"]
+    },
+    {
+      "japanese": "会社",
+      "reading": "かいしゃ",
+      "romaji": "kaisha",
+      "meaning": ["company"]
+    },
+    {
+      "japanese": "うち",
+      "reading": "うち",
+      "romaji": "uchi",
+      "meaning": ["house", "home"]
+    },
+    {
+      "japanese": "電話",
+      "reading": "でんわ",
+      "romaji": "denwa",
+      "meaning": ["telephone", "telephone call"]
+    },
+    {
+      "japanese": "靴",
+      "reading": "くつ",
+      "romaji": "kutsu",
+      "meaning": ["shoes"]
+    },
+    {
+      "japanese": "ネクタイ",
+      "reading": "ネクタイ",
+      "romaji": "nekutai",
+      "meaning": ["necktie"]
+    },
+    {
+      "japanese": "ワイン",
+      "reading": "ワイン",
+      "romaji": "wain",
+      "meaning": ["wine"]
+    },
+    {
+      "japanese": "たばこ",
+      "reading": "たばこ",
+      "romaji": "tabako",
+      "meaning": ["tobacco", "cigarette"]
+    },
+    {
+      "japanese": "売り場",
+      "reading": "うりば",
+      "romaji": "uriba",
+      "meaning": ["department", "counter (in a department store)"]
+    },
+    {
+      "japanese": "地下",
+      "reading": "ちか",
+      "romaji": "chika",
+      "meaning": ["basement"]
+    },
+    {
+      "japanese": "ー階",
+      "reading": "ーかい (ーがい)",
+      "romaji": "-kai (-gai)",
+      "meaning": ["-th floor"]
+    },
+    {
+      "japanese": "何階",
+      "reading": "なんがい",
+      "romaji": "nangai",
+      "meaning": ["what floor"]
+    },
+    {
+      "japanese": "ー円",
+      "reading": "ーえん",
+      "romaji": "-en",
+      "meaning": ["ー yen"]
+    },
+    {
+      "japanese": "いくら",
+      "reading": "いくら",
+      "romaji": "ikura",
+      "meaning": ["how much"]
+    },
+    {
+      "japanese": "百",
+      "reading": "ひゃく",
+      "romaji": "hyaku",
+      "meaning": ["hundred"]
+    },
+    {
+      "japanese": "千",
+      "reading": "せん",
+      "romaji": "sen",
+      "meaning": ["thousand"]
+    },
+    {
+      "japanese": "万",
+      "reading": "まん",
+      "romaji": "man",
+      "meaning": ["ten thousand"]
+    },
+    {
+      "japanese": "すみません。",
+      "reading": "すみません。",
+      "romaji": "sumimasen.",
+      "meaning": ["Excuse me."]
+    },
+    {
+      "japanese": "〜で ございます。",
+      "reading": "〜で ございます。",
+      "romaji": "~de gozaimasu.",
+      "meaning": ["(polite equivalent of です)"]
+    },
+    {
+      "japanese": "[〜を] 見せて ください。",
+      "reading": "[〜を] みせて ください。",
+      "romaji": "[~o] misete kudasai.",
+      "meaning": ["Please show me [~]."]
+    },
+    {
+      "japanese": "じゃ",
+      "reading": "じゃ",
+      "romaji": "ja",
+      "meaning": ["well, then, in that case"]
+    },
+    {
+      "japanese": "[〜を] ください。",
+      "reading": "[〜を] ください。",
+      "romaji": "[~o] kudasai.",
+      "meaning": ["Give me [~], please."]
+    },
+    {
+      "japanese": "新大阪",
+      "reading": "しんおおさか",
+      "romaji": "shin-oosaka",
+      "meaning": ["name of a station in Osaka"]
+    },
+    {
+      "japanese": "イタリア",
+      "reading": "イタリア",
+      "romaji": "itaria",
+      "meaning": ["Italy"]
+    },
+    {
+      "japanese": "スイス",
+      "reading": "スイス",
+      "romaji": "suisu",
+      "meaning": ["Switzerland"]
+    },
+    {
+      "japanese": "MT / ヨーネン / アキックス",
+      "reading": "MT / ヨーネン / アキックス",
+      "romaji": "MT / yoonen / akikkusu",
+      "meaning": ["fictitious companies"]
+    }
+  ]
+}

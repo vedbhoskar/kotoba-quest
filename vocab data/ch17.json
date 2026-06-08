@@ -1,0 +1,249 @@
+{
+  "lesson": 17,
+  "jlpt": "N5",
+  "vocabulary": [
+    {
+      "japanese": "覚えます",
+      "reading": "おぼえます",
+      "romaji": "oboemasu",
+      "meaning": ["memorize"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "忘れます",
+      "reading": "わすれます",
+      "romaji": "wasuremasu",
+      "meaning": ["forget"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "なくします",
+      "reading": "なくします",
+      "romaji": "nakushimasu",
+      "meaning": ["lose"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "出します ［レポートを～］",
+      "reading": "だします ［レポートを～］",
+      "romaji": "dashimasu [repooto o ~]",
+      "meaning": ["hand in [a report]"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "払います",
+      "reading": "はらいます",
+      "romaji": "haraimasu",
+      "meaning": ["pay"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "返します",
+      "reading": "かえします",
+      "romaji": "kaeshimasu",
+      "meaning": ["give back, return"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "出かけます",
+      "reading": "でかけます",
+      "romaji": "dekakemasu",
+      "meaning": ["go out"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "脱ぎます",
+      "reading": "ぬぎます",
+      "romaji": "nugimasu",
+      "meaning": ["take off (clothes, shoes, etc.)"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "持って行きます",
+      "reading": "もっていきます",
+      "romaji": "motte ikimasu",
+      "meaning": ["take (something)"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "持って来ます",
+      "reading": "もってきます",
+      "romaji": "motte kimasu",
+      "meaning": ["bring (something)"],
+      "verb_group": "III"
+    },
+    {
+      "japanese": "心配します",
+      "reading": "しんぱいします",
+      "romaji": "shinpaishimasu",
+      "meaning": ["worry"],
+      "verb_group": "III"
+    },
+    {
+      "japanese": "残業します",
+      "reading": "ざんぎょうします",
+      "romaji": "zangyoushimasu",
+      "meaning": ["work overtime"],
+      "verb_group": "III"
+    },
+    {
+      "japanese": "出張します",
+      "reading": "しゅっちょうします",
+      "romaji": "shucchoushimasu",
+      "meaning": ["go on a business trip"],
+      "verb_group": "III"
+    },
+    {
+      "japanese": "飲みます ［薬を～］",
+      "reading": "のみます ［くすりを～］",
+      "romaji": "nomimasu [kusuri o ~]",
+      "meaning": ["take [medicine]"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "入ります ［おふろに～］",
+      "reading": "はいります ［おふろに～］",
+      "romaji": "hairimasu [ofuro ni ~]",
+      "meaning": ["take [a bath]"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "大切［な］",
+      "reading": "たいせつ［な］",
+      "romaji": "taisetsu [na]",
+      "meaning": ["important, precious"]
+    },
+    {
+      "japanese": "大丈夫［な］",
+      "reading": "だいじょうぶ［な］",
+      "romaji": "daijoubu [na]",
+      "meaning": ["all right"]
+    },
+    {
+      "japanese": "危ない",
+      "reading": "あぶない",
+      "romaji": "abunai",
+      "meaning": ["dangerous"]
+    },
+    {
+      "japanese": "問題",
+      "reading": "もんだい",
+      "romaji": "mondai",
+      "meaning": ["question, problem, trouble"]
+    },
+    {
+      "japanese": "答え",
+      "reading": "こたえ",
+      "romaji": "kotae",
+      "meaning": ["answer"]
+    },
+    {
+      "japanese": "禁煙",
+      "reading": "きんえん",
+      "romaji": "kin'en",
+      "meaning": ["no smoking"]
+    },
+    {
+      "japanese": "［健康］保険証",
+      "reading": "［けんこう］ほけんしょう",
+      "romaji": "[kenkou] hokenshou",
+      "meaning": ["[health] insurance card"]
+    },
+    {
+      "japanese": "かぜ",
+      "reading": "かぜ",
+      "romaji": "kaze",
+      "meaning": ["cold, flu"]
+    },
+    {
+      "japanese": "熱",
+      "reading": "ねつ",
+      "romaji": "netsu",
+      "meaning": ["fever"]
+    },
+    {
+      "japanese": "病気",
+      "reading": "びょうき",
+      "romaji": "byouki",
+      "meaning": ["illness, disease"]
+    },
+    {
+      "japanese": "薬",
+      "reading": "くすり",
+      "romaji": "kusuri",
+      "meaning": ["medicine"]
+    },
+    {
+      "japanese": "［お］ふろ",
+      "reading": "［お］ふろ",
+      "romaji": "[o]furo",
+      "meaning": ["bath"]
+    },
+    {
+      "japanese": "上着",
+      "reading": "うわぎ",
+      "romaji": "uwagi",
+      "meaning": ["jacket, outerwear"]
+    },
+    {
+      "japanese": "下着",
+      "reading": "したぎ",
+      "romaji": "shitagi",
+      "meaning": ["underwear"]
+    },
+    {
+      "japanese": "先生",
+      "reading": "せんせい",
+      "romaji": "sensei",
+      "meaning": ["doctor (used when addressing a medical doctor)"]
+    },
+    {
+      "japanese": "２、３日",
+      "reading": "２、３にち",
+      "romaji": "ni, san nichi",
+      "meaning": ["a few days"]
+    },
+    {
+      "japanese": "２、３～",
+      "reading": "２、３～",
+      "romaji": "ni, san ~",
+      "meaning": ["a few ~ (~ is a counter suffix)"]
+    },
+    {
+      "japanese": "～までに",
+      "reading": "～までに",
+      "romaji": "~made ni",
+      "meaning": ["before ~, by ~ (indicating time limit)"]
+    },
+    {
+      "japanese": "ですから",
+      "reading": "ですから",
+      "romaji": "desukara",
+      "meaning": ["therefore, so"]
+    },
+    {
+      "japanese": "どう しましたか。",
+      "reading": "どう しましたか。",
+      "romaji": "dou shimashita ka.",
+      "meaning": ["What's the matter?"]
+    },
+    {
+      "japanese": "［～が］痛いです。",
+      "reading": "［～が］いたいです。",
+      "romaji": "[~ga] itai desu.",
+      "meaning": ["(I) have a pain [in my ~]."]
+    },
+    {
+      "japanese": "のど",
+      "reading": "のど",
+      "romaji": "nodo",
+      "meaning": ["throat"]
+    },
+    {
+      "japanese": "お大事に。",
+      "reading": "おだいじに。",
+      "romaji": "odaiji ni.",
+      "meaning": ["Take care of yourself. (said to people who are ill)"]
+    }
+  ]
+}

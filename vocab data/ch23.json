@@ -1,0 +1,223 @@
+{
+  "lesson": 23,
+  "jlpt": "N5",
+  "vocabulary": [
+    {
+      "japanese": "聞きます ［先生に～］",
+      "reading": "ききます ［せんせいに～］",
+      "romaji": "kikimasu [sensei ni ~]",
+      "meaning": ["ask [the teacher]"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "回します",
+      "reading": "まわします",
+      "romaji": "mawashimasu",
+      "meaning": ["turn"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "引きます",
+      "reading": "ひきます",
+      "romaji": "hikimasu",
+      "meaning": ["pull"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "変えます",
+      "reading": "かえます",
+      "romaji": "kaemasu",
+      "meaning": ["change"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "触ります ［ドアに～］",
+      "reading": "さわります ［ドアに～］",
+      "romaji": "sawarimasu [doa ni ~]",
+      "meaning": ["touch [a door]"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "出ます ［お釣りが～］",
+      "reading": "でます ［おつりが～］",
+      "romaji": "demasu [otsuri ga ~]",
+      "meaning": ["[change] come out"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "動きます ［時計が～］",
+      "reading": "うごきます ［とけいが～］",
+      "romaji": "ugokimasu [tokei ga ~]",
+      "meaning": ["[a watch] move, work"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "歩きます ［道を～］",
+      "reading": "あるきます ［みちを～］",
+      "romaji": "arukimasu [michi o ~]",
+      "meaning": ["walk [along a road]"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "渡ります ［橋を～］",
+      "reading": "わたります ［はしを～］",
+      "romaji": "watarimasu [hashi o ~]",
+      "meaning": ["cross [a bridge]"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "気を つけます ［車に～］",
+      "reading": "きを つけます ［くるまに～］",
+      "romaji": "ki o tsukemasu [kuruma ni ~]",
+      "meaning": ["pay attention [to cars]", "take care"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "引っ越しします",
+      "reading": "ひっこしします",
+      "romaji": "hikkoshishimasu",
+      "meaning": ["move (house)"],
+      "verb_group": "III"
+    },
+    {
+      "japanese": "電気屋",
+      "reading": "でんきや",
+      "romaji": "denkiya",
+      "meaning": ["electrician"]
+    },
+    {
+      "japanese": "～屋",
+      "reading": "～や",
+      "romaji": "~ya",
+      "meaning": ["person of ~ shop"]
+    },
+    {
+      "japanese": "サイズ",
+      "reading": "サイズ",
+      "romaji": "saizu",
+      "meaning": ["size"]
+    },
+    {
+      "japanese": "音",
+      "reading": "おと",
+      "romaji": "oto",
+      "meaning": ["sound"]
+    },
+    {
+      "japanese": "機械",
+      "reading": "きかい",
+      "romaji": "kikai",
+      "meaning": ["machine"]
+    },
+    {
+      "japanese": "つまみ",
+      "reading": "つまみ",
+      "romaji": "tsumami",
+      "meaning": ["knob"]
+    },
+    {
+      "japanese": "故障",
+      "reading": "こしょう",
+      "romaji": "koshou",
+      "meaning": ["breakdown (～します: break down)"]
+    },
+    {
+      "japanese": "道",
+      "reading": "みち",
+      "romaji": "michi",
+      "meaning": ["road, way"]
+    },
+    {
+      "japanese": "交差点",
+      "reading": "こうさてん",
+      "romaji": "kousaten",
+      "meaning": ["crossroad"]
+    },
+    {
+      "japanese": "信号",
+      "reading": "しんごう",
+      "romaji": "shingou",
+      "meaning": ["traffic light"]
+    },
+    {
+      "japanese": "角",
+      "reading": "かど",
+      "romaji": "kado",
+      "meaning": ["corner"]
+    },
+    {
+      "japanese": "橋",
+      "reading": "はし",
+      "romaji": "hashi",
+      "meaning": ["bridge"]
+    },
+    {
+      "japanese": "駐車場",
+      "reading": "ちゅうしゃじょう",
+      "romaji": "chuushajou",
+      "meaning": ["parking lot, car park"]
+    },
+    {
+      "japanese": "ー目",
+      "reading": "ーめ",
+      "romaji": "-me",
+      "meaning": ["the -th (indicating order)"]
+    },
+    {
+      "japanese": "［お］正月",
+      "reading": "［お］しょうがつ",
+      "romaji": "[o]shougatsu",
+      "meaning": ["New Year's Day"]
+    },
+    {
+      "japanese": "ごちそうさま［でした］。",
+      "reading": "ごちそうさま［でした］。",
+      "romaji": "gochisousama [deshita].",
+      "meaning": ["That was delicious. (said after eating or drinking)"]
+    },
+    {
+      "japanese": "建物",
+      "reading": "たてもの",
+      "romaji": "tatemono",
+      "meaning": ["building"]
+    },
+    {
+      "japanese": "外国人登録証",
+      "reading": "がいこくじんとうろくしょう",
+      "romaji": "gaikokujin tourokushou",
+      "meaning": ["alien registration card"]
+    },
+    {
+      "japanese": "聖徳太子",
+      "reading": "しょうとくたいし",
+      "romaji": "shoutokutaishi",
+      "meaning": ["Prince Shotoku (574 - 622)"]
+    },
+    {
+      "japanese": "法隆寺",
+      "reading": "ほうりゅうじ",
+      "romaji": "houryuuji",
+      "meaning": [
+        "Horyuji Temple, a temple in Nara Prefecture built by Prince Shotoku at the beginning of the 7th century"
+      ]
+    },
+    {
+      "japanese": "元気茶",
+      "reading": "げんきちゃ",
+      "romaji": "genkicha",
+      "meaning": ["fictitious tea"]
+    },
+    {
+      "japanese": "本田駅",
+      "reading": "ほんだえき",
+      "romaji": "honda eki",
+      "meaning": ["fictitious station"]
+    },
+    {
+      "japanese": "図書館前",
+      "reading": "としょかんまえ",
+      "romaji": "toshokan mae",
+      "meaning": ["fictitious bus stop"]
+    }
+  ]
+}

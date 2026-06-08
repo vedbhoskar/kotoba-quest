@@ -1,0 +1,271 @@
+{
+  "lesson": 13,
+  "jlpt": "N5",
+  "vocabulary": [
+    {
+      "japanese": "遊びます",
+      "reading": "あそびます",
+      "romaji": "asobimasu",
+      "meaning": ["enjoy oneself", "play"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "泳ぎます",
+      "reading": "およぎます",
+      "romaji": "oyogimasu",
+      "meaning": ["swim"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "迎えます",
+      "reading": "むかえます",
+      "romaji": "mukaemasu",
+      "meaning": ["go to meet", "welcome"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "疲れます",
+      "reading": "つかれます",
+      "romaji": "tsukaremasu",
+      "meaning": ["get tired"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "出します ［手紙を～］",
+      "reading": "だします ［てがみを～］",
+      "romaji": "dashimasu [tegami o ~]",
+      "meaning": ["send [a letter]"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "入ります ［喫茶店に～］",
+      "reading": "はいります ［きっさてんに～］",
+      "romaji": "hairimasu [kissaten ni ~]",
+      "meaning": ["enter [a coffee shop]"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "出ます ［喫茶店を～］",
+      "reading": "でます ［きっさてんを～］",
+      "romaji": "demasu [kissaten o ~]",
+      "meaning": ["go out [of a coffee shop]"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "結婚します",
+      "reading": "けっこんします",
+      "romaji": "kekkonshimasu",
+      "meaning": ["marry", "get married"],
+      "verb_group": "III"
+    },
+    {
+      "japanese": "買い物します",
+      "reading": "かいものします",
+      "romaji": "kaimonoshimasu",
+      "meaning": ["do shopping"],
+      "verb_group": "III"
+    },
+    {
+      "japanese": "食事します",
+      "reading": "しょくじします",
+      "romaji": "shokujishimasu",
+      "meaning": ["have a meal", "dine"],
+      "verb_group": "III"
+    },
+    {
+      "japanese": "散歩します ［公園を～］",
+      "reading": "さんぽします ［こうえんを～］",
+      "romaji": "sanposhimasu [kouen o ~]",
+      "meaning": ["take a walk [in a park]"],
+      "verb_group": "III"
+    },
+    {
+      "japanese": "大変［な］",
+      "reading": "たいへん［な］",
+      "romaji": "taihen [na]",
+      "meaning": ["hard", "tough", "severe", "awful"]
+    },
+    {
+      "japanese": "欲しい",
+      "reading": "ほしい",
+      "romaji": "hoshii",
+      "meaning": ["want (something)"]
+    },
+    {
+      "japanese": "寂しい",
+      "reading": "さびしい",
+      "romaji": "sabishii",
+      "meaning": ["lonely"]
+    },
+    {
+      "japanese": "広い",
+      "reading": "ひろい",
+      "romaji": "hiroi",
+      "meaning": ["wide", "spacious"]
+    },
+    {
+      "japanese": "狭い",
+      "reading": "せまい",
+      "romaji": "semai",
+      "meaning": ["narrow", "small (room, etc.)"]
+    },
+    {
+      "japanese": "市役所",
+      "reading": "しやくしょ",
+      "romaji": "shiyakusho",
+      "meaning": ["municipal office", "city hall"]
+    },
+    {
+      "japanese": "プール",
+      "reading": "プール",
+      "romaji": "puuru",
+      "meaning": ["swimming pool"]
+    },
+    {
+      "japanese": "川",
+      "reading": "かわ",
+      "romaji": "kawa",
+      "meaning": ["river"]
+    },
+    {
+      "japanese": "経済",
+      "reading": "けいざい",
+      "romaji": "keizai",
+      "meaning": ["economy"]
+    },
+    {
+      "japanese": "美術",
+      "reading": "びじゅつ",
+      "romaji": "bijutsu",
+      "meaning": ["fine arts"]
+    },
+    {
+      "japanese": "釣り",
+      "reading": "つり",
+      "romaji": "tsuri",
+      "meaning": ["fishing (～を します: fish, angle)"]
+    },
+    {
+      "japanese": "スキー",
+      "reading": "スキー",
+      "romaji": "sukii",
+      "meaning": ["skiing (～を します: ski)"]
+    },
+    {
+      "japanese": "会議",
+      "reading": "かいぎ",
+      "romaji": "kaigi",
+      "meaning": ["meeting", "conference (～を します: hold a conference)"]
+    },
+    {
+      "japanese": "登録",
+      "reading": "とうろく",
+      "romaji": "touroku",
+      "meaning": ["registration (～を します: register)"]
+    },
+    {
+      "japanese": "週末",
+      "reading": "しゅうまつ",
+      "romaji": "shuumatsu",
+      "meaning": ["weekend"]
+    },
+    {
+      "japanese": "～ごろ",
+      "reading": "～ごろ",
+      "romaji": "~goro",
+      "meaning": ["about (time)"]
+    },
+    {
+      "japanese": "何か",
+      "reading": "なにか",
+      "romaji": "nanika",
+      "meaning": ["something"]
+    },
+    {
+      "japanese": "どこか",
+      "reading": "どこか",
+      "romaji": "dokoka",
+      "meaning": ["somewhere", "some place"]
+    },
+    {
+      "japanese": "おなかが すきました。",
+      "reading": "おなかが すきました。",
+      "romaji": "onaka ga sukimashita.",
+      "meaning": ["(I'm) hungry."]
+    },
+    {
+      "japanese": "おなかが いっぱいです。",
+      "reading": "おなかが いっぱいです。",
+      "romaji": "onaka ga ippai desu.",
+      "meaning": ["(I'm) full."]
+    },
+    {
+      "japanese": "のどが かわきました。",
+      "reading": "のどが かわきました。",
+      "romaji": "nodo ga kawakimashita.",
+      "meaning": ["(I'm) thirsty."]
+    },
+    {
+      "japanese": "そうですね。",
+      "reading": "そうですね。",
+      "romaji": "sou desu ne.",
+      "meaning": ["I agree with you."]
+    },
+    {
+      "japanese": "そう しましょう。",
+      "reading": "そう しましょう。",
+      "romaji": "sou shimashou.",
+      "meaning": [
+        "Let's do that. (used when agreeing with someone's suggestion)"
+      ]
+    },
+    {
+      "japanese": "ご注文は？",
+      "reading": "ごちゅうもんは？",
+      "romaji": "gochuumon wa?",
+      "meaning": ["May I take your order?"]
+    },
+    {
+      "japanese": "定食",
+      "reading": "ていしょく",
+      "romaji": "teishoku",
+      "meaning": ["set meal"]
+    },
+    {
+      "japanese": "牛どん",
+      "reading": "ぎゅうどん",
+      "romaji": "gyuudon",
+      "meaning": ["bowl of rice topped with beef"]
+    },
+    {
+      "japanese": "［少々］お待ちください。",
+      "reading": "［しょうしょう］おまちください。",
+      "romaji": "[shoushou] omachi kudasai.",
+      "meaning": ["Please wait [a moment]."]
+    },
+    {
+      "japanese": "別々に",
+      "reading": "べつべつに",
+      "romaji": "betsubetsuni",
+      "meaning": ["separately"]
+    },
+    {
+      "japanese": "ロシア",
+      "reading": "ロシア",
+      "romaji": "roshia",
+      "meaning": ["Russia"]
+    },
+    {
+      "japanese": "つるや",
+      "reading": "つるや",
+      "romaji": "tsuruya",
+      "meaning": ["fictitious Japanese restaurant"]
+    },
+    {
+      "japanese": "おはようテレビ",
+      "reading": "おはようテレビ",
+      "romaji": "ohayou terebi",
+      "meaning": ["fictitious TV program"]
+    }
+  ]
+}

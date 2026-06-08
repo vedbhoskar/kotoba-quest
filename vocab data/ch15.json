@@ -1,0 +1,185 @@
+{
+  "lesson": 15,
+  "jlpt": "N5",
+  "vocabulary": [
+    {
+      "japanese": "立ちます",
+      "reading": "たちます",
+      "romaji": "tachimasu",
+      "meaning": ["stand up"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "座ります",
+      "reading": "すわります",
+      "romaji": "suwarimasu",
+      "meaning": ["sit down"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "使います",
+      "reading": "つかいます",
+      "romaji": "tsukaimasu",
+      "meaning": ["use"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "置きます",
+      "reading": "おきます",
+      "romaji": "okimasu",
+      "meaning": ["put"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "作ります、造ります",
+      "reading": "つくります",
+      "romaji": "tsukurimasu",
+      "meaning": ["make", "produce"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "売ります",
+      "reading": "うります",
+      "romaji": "urimasu",
+      "meaning": ["sell"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "知ります",
+      "reading": "しります",
+      "romaji": "shirimasu",
+      "meaning": ["get to know"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "住みます",
+      "reading": "すみます",
+      "romaji": "sumimasu",
+      "meaning": ["be going to live"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "研究します",
+      "reading": "けんきゅうします",
+      "romaji": "kenkyuushimasu",
+      "meaning": ["do research"],
+      "verb_group": "III"
+    },
+    {
+      "japanese": "知っています",
+      "reading": "しっています",
+      "romaji": "shitteimasu",
+      "meaning": ["know"]
+    },
+    {
+      "japanese": "住んでいます ［大阪に～］",
+      "reading": "すんでいます ［おおさかに～］",
+      "romaji": "sundeimasu [oosaka ni ~]",
+      "meaning": ["live [in Osaka]"]
+    },
+    {
+      "japanese": "資料",
+      "reading": "しりょう",
+      "romaji": "shiryou",
+      "meaning": ["materials", "data"]
+    },
+    {
+      "japanese": "カタログ",
+      "reading": "カタログ",
+      "romaji": "katarogu",
+      "meaning": ["catalog"]
+    },
+    {
+      "japanese": "時刻表",
+      "reading": "じこくひょう",
+      "romaji": "jikokuhyou",
+      "meaning": ["timetable"]
+    },
+    {
+      "japanese": "服",
+      "reading": "ふく",
+      "romaji": "fuku",
+      "meaning": ["clothes"]
+    },
+    {
+      "japanese": "製品",
+      "reading": "せいひん",
+      "romaji": "seihin",
+      "meaning": ["products"]
+    },
+    {
+      "japanese": "ソフト",
+      "reading": "ソフト",
+      "romaji": "sofuto",
+      "meaning": ["software"]
+    },
+    {
+      "japanese": "専門",
+      "reading": "せんもん",
+      "romaji": "senmon",
+      "meaning": ["speciality", "field of study"]
+    },
+    {
+      "japanese": "歯医者",
+      "reading": "はいしゃ",
+      "romaji": "haisha",
+      "meaning": ["dentist", "dentist's"]
+    },
+    {
+      "japanese": "床屋",
+      "reading": "とこや",
+      "romaji": "tokoya",
+      "meaning": ["barber", "barber's"]
+    },
+    {
+      "japanese": "プレイガイド",
+      "reading": "プレイガイド",
+      "romaji": "pureigaido",
+      "meaning": ["(theater) ticket agency"]
+    },
+    {
+      "japanese": "独身",
+      "reading": "どくしん",
+      "romaji": "dokushin",
+      "meaning": ["single", "unmarried"]
+    },
+    {
+      "japanese": "特に",
+      "reading": "とくに",
+      "romaji": "tokuni",
+      "meaning": ["especially"]
+    },
+    {
+      "japanese": "思い出します",
+      "reading": "おもいだします",
+      "romaji": "omoidashimasu",
+      "meaning": ["remember", "recollect"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "ご家族",
+      "reading": "ごかぞく",
+      "romaji": "gokazoku",
+      "meaning": ["your family"]
+    },
+    {
+      "japanese": "いらっしゃいます",
+      "reading": "いらっしゃいます",
+      "romaji": "irasshaimasu",
+      "meaning": ["be (honorific equivalent of います)"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "高校",
+      "reading": "こうこう",
+      "romaji": "koukou",
+      "meaning": ["senior high school"]
+    },
+    {
+      "japanese": "日本橋",
+      "reading": "にっぽんばし",
+      "romaji": "nipponbashi",
+      "meaning": ["name of a shopping district in Osaka"]
+    }
+  ]
+}

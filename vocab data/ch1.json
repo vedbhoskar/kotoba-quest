@@ -1,0 +1,313 @@
+{
+  "lesson": 1,
+  "jlpt": "N5",
+  "vocabulary": [
+    {
+      "japanese": "わたし",
+      "reading": "わたし",
+      "romaji": "watashi",
+      "meaning": ["I"]
+    },
+    {
+      "japanese": "わたしたち",
+      "reading": "わたしたち",
+      "romaji": "watashitachi",
+      "meaning": ["we"]
+    },
+    {
+      "japanese": "あなた",
+      "reading": "あなた",
+      "romaji": "anata",
+      "meaning": ["you"]
+    },
+    {
+      "japanese": "あの人",
+      "reading": "あのひと",
+      "romaji": "ano hito",
+      "meaning": ["that person", "he", "she"]
+    },
+    {
+      "japanese": "あの方",
+      "reading": "あのかた",
+      "romaji": "ano kata",
+      "meaning": ["that person", "he", "she (polite equivalent of あのひと)"]
+    },
+    {
+      "japanese": "皆さん",
+      "reading": "みなさん",
+      "romaji": "minasan",
+      "meaning": ["ladies and gentlemen", "all of you"]
+    },
+    {
+      "japanese": "～さん",
+      "reading": "～さん",
+      "romaji": "~san",
+      "meaning": ["Mr.", "Ms."]
+    },
+    {
+      "japanese": "～ちゃん",
+      "reading": "～ちゃん",
+      "romaji": "~chan",
+      "meaning": ["suffix often added to a child's name instead of ～さん"]
+    },
+    {
+      "japanese": "～君",
+      "reading": "～くん",
+      "romaji": "~kun",
+      "meaning": ["suffix often added to a boy's name"]
+    },
+    {
+      "japanese": "～人",
+      "reading": "～じん",
+      "romaji": "~jin",
+      "meaning": ["suffix meaning 'a national of'"]
+    },
+    {
+      "japanese": "先生",
+      "reading": "せんせい",
+      "romaji": "sensei",
+      "meaning": [
+        "teacher",
+        "instructor (not used when referring to one's own job)"
+      ]
+    },
+    {
+      "japanese": "教師",
+      "reading": "きょうし",
+      "romaji": "kyoushi",
+      "meaning": ["teacher", "instructor"]
+    },
+    {
+      "japanese": "学生",
+      "reading": "がくせい",
+      "romaji": "gakusei",
+      "meaning": ["student"]
+    },
+    {
+      "japanese": "会社員",
+      "reading": "かいしゃいん",
+      "romaji": "kaishain",
+      "meaning": ["company employee"]
+    },
+    {
+      "japanese": "社員",
+      "reading": "しゃいん",
+      "romaji": "shain",
+      "meaning": ["employee of ~ Company"]
+    },
+    {
+      "japanese": "銀行員",
+      "reading": "ぎんこういん",
+      "romaji": "ginkouin",
+      "meaning": ["bank employee"]
+    },
+    {
+      "japanese": "医者",
+      "reading": "いしゃ",
+      "romaji": "isha",
+      "meaning": ["medical doctor"]
+    },
+    {
+      "japanese": "研究者",
+      "reading": "けんきゅうしゃ",
+      "romaji": "kenkyuusha",
+      "meaning": ["researcher", "scholar"]
+    },
+    {
+      "japanese": "エンジニア",
+      "reading": "エンジニア",
+      "romaji": "enjinia",
+      "meaning": ["engineer"]
+    },
+    {
+      "japanese": "大学",
+      "reading": "だいがく",
+      "romaji": "daigaku",
+      "meaning": ["university"]
+    },
+    {
+      "japanese": "病院",
+      "reading": "びょういん",
+      "romaji": "byouin",
+      "meaning": ["hospital"]
+    },
+    {
+      "japanese": "電気",
+      "reading": "でんき",
+      "romaji": "denki",
+      "meaning": ["electricity", "light"]
+    },
+    {
+      "japanese": "だれ",
+      "reading": "だれ",
+      "romaji": "dare",
+      "meaning": ["who"]
+    },
+    {
+      "japanese": "どなた",
+      "reading": "どなた",
+      "romaji": "donata",
+      "meaning": ["who (polite equivalent of だれ)"]
+    },
+    {
+      "japanese": "～歳",
+      "reading": "～さい",
+      "romaji": "~sai",
+      "meaning": ["~ years old"]
+    },
+    {
+      "japanese": "何歳",
+      "reading": "なんさい",
+      "romaji": "nansai",
+      "meaning": ["how old"]
+    },
+    {
+      "japanese": "おいくつ",
+      "reading": "おいくつ",
+      "romaji": "oikutsu",
+      "meaning": ["how old (polite equivalent of なんさい)"]
+    },
+    {
+      "japanese": "はい",
+      "reading": "はい",
+      "romaji": "hai",
+      "meaning": ["yes"]
+    },
+    {
+      "japanese": "いいえ",
+      "reading": "いいえ",
+      "romaji": "iie",
+      "meaning": ["no"]
+    },
+    {
+      "japanese": "失礼ですが",
+      "reading": "しつれいですが",
+      "romaji": "shitsurei desu ga",
+      "meaning": ["Excuse me, but"]
+    },
+    {
+      "japanese": "お名前は？",
+      "reading": "おなまえは？",
+      "romaji": "o-namae wa?",
+      "meaning": ["May I have your name?"]
+    },
+    {
+      "japanese": "初めまして。",
+      "reading": "はじめまして。",
+      "romaji": "hajimemashite.",
+      "meaning": [
+        "How do you do? (lit. I am meeting you for the first time. Usually used as the first phrase when introducing oneself.)"
+      ]
+    },
+    {
+      "japanese": "どうぞ よろしく [お願いします]。",
+      "reading": "どうぞ よろしく [おねがいします]。",
+      "romaji": "douzo yoroshiku [onegaishimasu].",
+      "meaning": [
+        "Pleased to meet you. (lit. Please be nice to me. Usually used at the end of a self-introduction.)"
+      ]
+    },
+    {
+      "japanese": "こちらは ～さんです。",
+      "reading": "こちらは ～さんです。",
+      "romaji": "kochira wa ~san desu.",
+      "meaning": ["This is Mr./Ms.~."]
+    },
+    {
+      "japanese": "～から 来ました。",
+      "reading": "～から きました。",
+      "romaji": "~kara kimashita.",
+      "meaning": ["I came (come) from ~."]
+    },
+    {
+      "japanese": "アメリカ",
+      "reading": "アメリカ",
+      "romaji": "amerika",
+      "meaning": ["U.S.A."]
+    },
+    {
+      "japanese": "イギリス",
+      "reading": "イギリス",
+      "romaji": "igirisu",
+      "meaning": ["U.K."]
+    },
+    {
+      "japanese": "インド",
+      "reading": "インド",
+      "romaji": "indo",
+      "meaning": ["India"]
+    },
+    {
+      "japanese": "インドネシア",
+      "reading": "インドネシア",
+      "romaji": "indoneshia",
+      "meaning": ["Indonesia"]
+    },
+    {
+      "japanese": "韓国",
+      "reading": "かんこく",
+      "romaji": "kankoku",
+      "meaning": ["South Korea"]
+    },
+    {
+      "japanese": "タイ",
+      "reading": "タイ",
+      "romaji": "tai",
+      "meaning": ["Thailand"]
+    },
+    {
+      "japanese": "中国",
+      "reading": "ちゅうごく",
+      "romaji": "chuugoku",
+      "meaning": ["China"]
+    },
+    {
+      "japanese": "ドイツ",
+      "reading": "ドイツ",
+      "romaji": "doitsu",
+      "meaning": ["Germany"]
+    },
+    {
+      "japanese": "日本",
+      "reading": "にほん",
+      "romaji": "nihon",
+      "meaning": ["Japan"]
+    },
+    {
+      "japanese": "フランス",
+      "reading": "フランス",
+      "romaji": "furansu",
+      "meaning": ["France"]
+    },
+    {
+      "japanese": "ブラジル",
+      "reading": "ブラジル",
+      "romaji": "burajiru",
+      "meaning": ["Brazil"]
+    },
+    {
+      "japanese": "さくら大学 / 富士大学",
+      "reading": "さくらだいがく / ふじだいがく",
+      "romaji": "sakura daigaku / fuji daigaku",
+      "meaning": ["fictitious universities"]
+    },
+    {
+      "japanese": "ＩＭＣ / パワー電気 / ブラジルエアー",
+      "reading": "ＩＭＣ / パワーでんき / ブラジルエアー",
+      "romaji": "IMC / pawaa denki / burajiru eaa",
+      "meaning": ["fictitious companies"]
+    },
+    {
+      "japanese": "ＡＫＣ",
+      "reading": "ＡＫＣ",
+      "romaji": "AKC",
+      "meaning": ["fictitious institute"]
+    },
+    {
+      "japanese": "神戸病院",
+      "reading": "こうべびょういん",
+      "romaji": "koube byouin",
+      "meaning": ["fictitious hospital"]
+    }
+  ]
+}

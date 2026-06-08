@@ -1,0 +1,270 @@
+{
+  "lesson": 14,
+  "jlpt": "N5",
+  "vocabulary": [
+    {
+      "japanese": "つけます",
+      "reading": "つけます",
+      "romaji": "tsukemasu",
+      "meaning": ["turn on"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "消します",
+      "reading": "けします",
+      "romaji": "keshimasu",
+      "meaning": ["turn off"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "開けます",
+      "reading": "あけます",
+      "romaji": "akemasu",
+      "meaning": ["open"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "閉めます",
+      "reading": "しめます",
+      "romaji": "shimemasu",
+      "meaning": ["close", "shut"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "急ぎます",
+      "reading": "いそぎます",
+      "romaji": "isogimasu",
+      "meaning": ["hurry"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "待ちます",
+      "reading": "まちます",
+      "romaji": "machimasu",
+      "meaning": ["wait"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "止めます",
+      "reading": "とめます",
+      "romaji": "tomemasu",
+      "meaning": ["stop", "park"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "曲がります ［右へ～］",
+      "reading": "まがります ［みぎへ～］",
+      "romaji": "magarimasu [migi e ~]",
+      "meaning": ["turn [to the right]"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "持ちます",
+      "reading": "もちます",
+      "romaji": "mochimasu",
+      "meaning": ["hold"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "取ります",
+      "reading": "とります",
+      "romaji": "torimasu",
+      "meaning": ["take", "pass"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "手伝います",
+      "reading": "てつだいます",
+      "romaji": "tetsudaimasu",
+      "meaning": ["help (with a task)"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "呼びます",
+      "reading": "よびます",
+      "romaji": "yobimasu",
+      "meaning": ["call"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "話します",
+      "reading": "はなします",
+      "romaji": "hanashimasu",
+      "meaning": ["speak", "talk"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "見せます",
+      "reading": "みせます",
+      "romaji": "misemasu",
+      "meaning": ["show"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "教えます ［住所を～］",
+      "reading": "おしえます ［じゅうしょを～］",
+      "romaji": "oshiemasu [juusho o ~]",
+      "meaning": ["tell [an address]"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "始めます",
+      "reading": "はじめます",
+      "romaji": "hajimemasu",
+      "meaning": ["start", "begin"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "降ります ［雨が～］",
+      "reading": "ふります ［あめが～］",
+      "romaji": "furimasu [ame ga ~]",
+      "meaning": ["rain"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "コピーします",
+      "reading": "コピーします",
+      "romaji": "kopiishimasu",
+      "meaning": ["copy"],
+      "verb_group": "III"
+    },
+    {
+      "japanese": "エアコン",
+      "reading": "エアコン",
+      "romaji": "eakon",
+      "meaning": ["air conditioner"]
+    },
+    {
+      "japanese": "パスポート",
+      "reading": "パスポート",
+      "romaji": "pasupooto",
+      "meaning": ["passport"]
+    },
+    {
+      "japanese": "名前",
+      "reading": "なまえ",
+      "romaji": "namae",
+      "meaning": ["name"]
+    },
+    {
+      "japanese": "住所",
+      "reading": "じゅうしょ",
+      "romaji": "juusho",
+      "meaning": ["address"]
+    },
+    {
+      "japanese": "地図",
+      "reading": "ちず",
+      "romaji": "chizu",
+      "meaning": ["map"]
+    },
+    {
+      "japanese": "塩",
+      "reading": "しお",
+      "romaji": "shio",
+      "meaning": ["salt"]
+    },
+    {
+      "japanese": "砂糖",
+      "reading": "さとう",
+      "romaji": "satou",
+      "meaning": ["sugar"]
+    },
+    {
+      "japanese": "読み方",
+      "reading": "よみかた",
+      "romaji": "yomikata",
+      "meaning": ["how to read", "way of reading"]
+    },
+    {
+      "japanese": "～方",
+      "reading": "～かた",
+      "romaji": "~kata",
+      "meaning": ["how to ~", "way of ~ ing"]
+    },
+    {
+      "japanese": "ゆっくり",
+      "reading": "ゆっくり",
+      "romaji": "yukkuri",
+      "meaning": ["slowly", "leisurely"]
+    },
+    {
+      "japanese": "すぐ",
+      "reading": "すぐ",
+      "romaji": "sugu",
+      "meaning": ["immediately"]
+    },
+    {
+      "japanese": "また",
+      "reading": "また",
+      "romaji": "mata",
+      "meaning": ["again"]
+    },
+    {
+      "japanese": "あとで",
+      "reading": "あとで",
+      "romaji": "atode",
+      "meaning": ["later"]
+    },
+    {
+      "japanese": "もう 少し",
+      "reading": "もう すこし",
+      "romaji": "mou sukoshi",
+      "meaning": ["a little more"]
+    },
+    {
+      "japanese": "もう ～",
+      "reading": "もう ～",
+      "romaji": "mou ~",
+      "meaning": ["~ more", "another ~"]
+    },
+    {
+      "japanese": "いいですよ。",
+      "reading": "いいですよ。",
+      "romaji": "ii desu yo.",
+      "meaning": ["Sure.", "Certainly."]
+    },
+    {
+      "japanese": "さあ",
+      "reading": "さあ",
+      "romaji": "saa",
+      "meaning": ["right (used when encouraging some course of action)"]
+    },
+    {
+      "japanese": "あれ？",
+      "reading": "あれ？",
+      "romaji": "are?",
+      "meaning": ["Oh! (in surprise or in wonder)"]
+    },
+    {
+      "japanese": "信号を 右へ 曲がって ください。",
+      "reading": "しんごうを みぎへ まがって ください。",
+      "romaji": "shingou o migi e magatte kudasai.",
+      "meaning": ["Turn to the right at the signal."]
+    },
+    {
+      "japanese": "まっすぐ",
+      "reading": "まっすぐ",
+      "romaji": "massugu",
+      "meaning": ["straight"]
+    },
+    {
+      "japanese": "これで お願いします。",
+      "reading": "これで おねがいします。",
+      "romaji": "kore de onegaishimasu.",
+      "meaning": ["I'd like to pay with this."]
+    },
+    {
+      "japanese": "お釣り",
+      "reading": "おつり",
+      "romaji": "otsuri",
+      "meaning": ["change"]
+    },
+    {
+      "japanese": "梅田",
+      "reading": "うめだ",
+      "romaji": "umeda",
+      "meaning": ["name of a town in Osaka"]
+    }
+  ]
+}

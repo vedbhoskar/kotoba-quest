@@ -1,0 +1,312 @@
+{
+  "lesson": 12,
+  "jlpt": "N5",
+  "vocabulary": [
+    {
+      "japanese": "簡単［な］",
+      "reading": "かんたん［な］",
+      "romaji": "kantan [na]",
+      "meaning": ["easy", "simple"]
+    },
+    {
+      "japanese": "近い",
+      "reading": "ちかい",
+      "romaji": "chikai",
+      "meaning": ["near"]
+    },
+    {
+      "japanese": "遠い",
+      "reading": "とおい",
+      "romaji": "tooi",
+      "meaning": ["far"]
+    },
+    {
+      "japanese": "速い、早い",
+      "reading": "はやい",
+      "romaji": "hayai",
+      "meaning": ["fast", "early"]
+    },
+    {
+      "japanese": "遅い",
+      "reading": "おそい",
+      "romaji": "osoi",
+      "meaning": ["slow", "late"]
+    },
+    {
+      "japanese": "多い ［人が～］",
+      "reading": "おおい ［ひとが～］",
+      "romaji": "ooi [hito ga ~]",
+      "meaning": ["many [people]", "much"]
+    },
+    {
+      "japanese": "少ない ［人が～］",
+      "reading": "すくない ［ひとが～］",
+      "romaji": "sukunai [hito ga ~]",
+      "meaning": ["few [people]", "a little"]
+    },
+    {
+      "japanese": "暖かい、温かい",
+      "reading": "あたたかい",
+      "romaji": "atatakai",
+      "meaning": ["warm"]
+    },
+    {
+      "japanese": "涼しい",
+      "reading": "すずしい",
+      "romaji": "suzushii",
+      "meaning": ["cool"]
+    },
+    {
+      "japanese": "甘い",
+      "reading": "あまい",
+      "romaji": "amai",
+      "meaning": ["sweet"]
+    },
+    {
+      "japanese": "辛い",
+      "reading": "からい",
+      "romaji": "karai",
+      "meaning": ["hot (taste)", "spicy"]
+    },
+    {
+      "japanese": "重い",
+      "reading": "おもい",
+      "romaji": "omoi",
+      "meaning": ["heavy"]
+    },
+    {
+      "japanese": "軽い",
+      "reading": "かるい",
+      "romaji": "karui",
+      "meaning": ["light"]
+    },
+    {
+      "japanese": "いい ［コーヒーが～］",
+      "reading": "いい ［コーヒーが～］",
+      "romaji": "ii [koohii ga ~]",
+      "meaning": ["prefer [coffee]"]
+    },
+    {
+      "japanese": "季節",
+      "reading": "きせつ",
+      "romaji": "kisetsu",
+      "meaning": ["season"]
+    },
+    {
+      "japanese": "春",
+      "reading": "はる",
+      "romaji": "haru",
+      "meaning": ["spring"]
+    },
+    {
+      "japanese": "夏",
+      "reading": "なつ",
+      "romaji": "natsu",
+      "meaning": ["summer"]
+    },
+    {
+      "japanese": "秋",
+      "reading": "あき",
+      "romaji": "aki",
+      "meaning": ["autumn", "fall"]
+    },
+    {
+      "japanese": "冬",
+      "reading": "ふゆ",
+      "romaji": "fuyu",
+      "meaning": ["winter"]
+    },
+    {
+      "japanese": "天気",
+      "reading": "てんき",
+      "romaji": "tenki",
+      "meaning": ["weather"]
+    },
+    {
+      "japanese": "雨",
+      "reading": "あめ",
+      "romaji": "ame",
+      "meaning": ["rain", "rainy"]
+    },
+    {
+      "japanese": "雪",
+      "reading": "ゆき",
+      "romaji": "yuki",
+      "meaning": ["snow", "snowy"]
+    },
+    {
+      "japanese": "曇り",
+      "reading": "くもり",
+      "romaji": "kumori",
+      "meaning": ["cloudy"]
+    },
+    {
+      "japanese": "ホテル",
+      "reading": "ホテル",
+      "romaji": "hoteru",
+      "meaning": ["hotel"]
+    },
+    {
+      "japanese": "空港",
+      "reading": "くうこう",
+      "romaji": "kuukou",
+      "meaning": ["airport"]
+    },
+    {
+      "japanese": "海",
+      "reading": "うみ",
+      "romaji": "umi",
+      "meaning": ["sea", "ocean"]
+    },
+    {
+      "japanese": "世界",
+      "reading": "せかい",
+      "romaji": "sekai",
+      "meaning": ["world"]
+    },
+    {
+      "japanese": "パーティー",
+      "reading": "パーティー",
+      "romaji": "paatii",
+      "meaning": ["party"]
+    },
+    {
+      "japanese": "［お］祭り",
+      "reading": "［お］まつり",
+      "romaji": "[o]matsuri",
+      "meaning": ["festival"]
+    },
+    {
+      "japanese": "試験",
+      "reading": "しけん",
+      "romaji": "shiken",
+      "meaning": ["examination"]
+    },
+    {
+      "japanese": "すき焼き",
+      "reading": "すきやき",
+      "romaji": "sukiyaki",
+      "meaning": ["sukiyaki (beef and vegetable hot pot)"]
+    },
+    {
+      "japanese": "刺身",
+      "reading": "さしみ",
+      "romaji": "sashimi",
+      "meaning": ["sashimi (sliced raw fish)"]
+    },
+    {
+      "japanese": "［お］すし",
+      "reading": "［お］すし",
+      "romaji": "[o]sushi",
+      "meaning": ["sushi (vinegared rice topped with raw fish)"]
+    },
+    {
+      "japanese": "てんぷら",
+      "reading": "てんぷら",
+      "romaji": "tenpura",
+      "meaning": ["tempura (seafood and vegetables deep fried in batter)"]
+    },
+    {
+      "japanese": "生け花",
+      "reading": "いけばな",
+      "romaji": "ikebana",
+      "meaning": ["flower arrangement"]
+    },
+    {
+      "japanese": "紅葉",
+      "reading": "もみじ",
+      "romaji": "momiji",
+      "meaning": ["maple", "red leaves of autumn"]
+    },
+    {
+      "japanese": "どちら",
+      "reading": "どちら",
+      "romaji": "dochira",
+      "meaning": ["which one (between two things)"]
+    },
+    {
+      "japanese": "どちらも",
+      "reading": "どちらも",
+      "romaji": "dochiramo",
+      "meaning": ["both"]
+    },
+    {
+      "japanese": "ずっと",
+      "reading": "ずっと",
+      "romaji": "zutto",
+      "meaning": ["by far"]
+    },
+    {
+      "japanese": "初めて",
+      "reading": "はじめて",
+      "romaji": "hajimete",
+      "meaning": ["for the first time"]
+    },
+    {
+      "japanese": "ただいま。",
+      "reading": "ただいま。",
+      "romaji": "tadaima.",
+      "meaning": ["I'm home."]
+    },
+    {
+      "japanese": "お帰りなさい。",
+      "reading": "おかえりなさい。",
+      "romaji": "okaerinasai.",
+      "meaning": ["Welcome home."]
+    },
+    {
+      "japanese": "すごいですね。",
+      "reading": "すごいですね。",
+      "romaji": "sugoi desu ne.",
+      "meaning": ["That's amazing."]
+    },
+    {
+      "japanese": "でも",
+      "reading": "でも",
+      "romaji": "demo",
+      "meaning": ["but"]
+    },
+    {
+      "japanese": "疲れました。",
+      "reading": "つかれました。",
+      "romaji": "tsukaremashita.",
+      "meaning": ["(I'm) tired."]
+    },
+    {
+      "japanese": "祇園祭",
+      "reading": "ぎおんまつり",
+      "romaji": "gion matsuri",
+      "meaning": ["the Gion Festival, the most famous festival in Kyoto"]
+    },
+    {
+      "japanese": "ホンコン",
+      "reading": "ホンコン",
+      "romaji": "honkon",
+      "meaning": ["Hong Kong (香港)"]
+    },
+    {
+      "japanese": "シンガポール",
+      "reading": "シンガポール",
+      "romaji": "shingapooru",
+      "meaning": ["Singapore"]
+    },
+    {
+      "japanese": "毎日屋",
+      "reading": "まいにちや",
+      "romaji": "mainichiya",
+      "meaning": ["fictitious supermarket"]
+    },
+    {
+      "japanese": "ABCストア",
+      "reading": "ABCストア",
+      "romaji": "ABC sutoa",
+      "meaning": ["fictitious supermarket"]
+    },
+    {
+      "japanese": "ジャパン",
+      "reading": "ジャパン",
+      "romaji": "japan",
+      "meaning": ["fictitious supermarket"]
+    }
+  ]
+}

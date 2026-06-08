@@ -1,0 +1,363 @@
+{
+  "lesson": 5,
+  "jlpt": "N5",
+  "vocabulary": [
+    {
+      "japanese": "行きます",
+      "reading": "いきます",
+      "romaji": "ikimasu",
+      "meaning": ["go"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "来ます",
+      "reading": "きます",
+      "romaji": "kimasu",
+      "meaning": ["come"],
+      "verb_group": "III"
+    },
+    {
+      "japanese": "帰ります",
+      "reading": "かえります",
+      "romaji": "kaerimasu",
+      "meaning": ["go home", "return"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "学校",
+      "reading": "がっこう",
+      "romaji": "gakkou",
+      "meaning": ["school"]
+    },
+    {
+      "japanese": "スーパー",
+      "reading": "スーパー",
+      "romaji": "suupaa",
+      "meaning": ["supermarket"]
+    },
+    {
+      "japanese": "駅",
+      "reading": "えき",
+      "romaji": "eki",
+      "meaning": ["station"]
+    },
+    {
+      "japanese": "飛行機",
+      "reading": "ひこうき",
+      "romaji": "hikouki",
+      "meaning": ["airplane"]
+    },
+    {
+      "japanese": "船",
+      "reading": "ふね",
+      "romaji": "fune",
+      "meaning": ["ship"]
+    },
+    {
+      "japanese": "電車",
+      "reading": "でんしゃ",
+      "romaji": "densha",
+      "meaning": ["electric train"]
+    },
+    {
+      "japanese": "地下鉄",
+      "reading": "ちかてつ",
+      "romaji": "chikatetsu",
+      "meaning": ["subway", "underground"]
+    },
+    {
+      "japanese": "新幹線",
+      "reading": "しんかんせん",
+      "romaji": "shinkansen",
+      "meaning": ["the Shinkansen", "the bullet train"]
+    },
+    {
+      "japanese": "バス",
+      "reading": "バス",
+      "romaji": "basu",
+      "meaning": ["bus"]
+    },
+    {
+      "japanese": "タクシー",
+      "reading": "タクシー",
+      "romaji": "takushii",
+      "meaning": ["taxi"]
+    },
+    {
+      "japanese": "自転車",
+      "reading": "じてんしゃ",
+      "romaji": "jitensha",
+      "meaning": ["bicycle"]
+    },
+    {
+      "japanese": "歩いて",
+      "reading": "あるいて",
+      "romaji": "aruite",
+      "meaning": ["on foot"]
+    },
+    {
+      "japanese": "人",
+      "reading": "ひと",
+      "romaji": "hito",
+      "meaning": ["person", "people"]
+    },
+    {
+      "japanese": "友達",
+      "reading": "ともだち",
+      "romaji": "tomodachi",
+      "meaning": ["friend"]
+    },
+    {
+      "japanese": "彼",
+      "reading": "かれ",
+      "romaji": "kare",
+      "meaning": ["he", "boyfriend", "lover"]
+    },
+    {
+      "japanese": "彼女",
+      "reading": "かのじょ",
+      "romaji": "kanojo",
+      "meaning": ["she", "girlfriend", "lover"]
+    },
+    {
+      "japanese": "家族",
+      "reading": "かぞく",
+      "romaji": "kazoku",
+      "meaning": ["family"]
+    },
+    {
+      "japanese": "一人で",
+      "reading": "ひとりで",
+      "romaji": "hitori de",
+      "meaning": ["alone", "by oneself"]
+    },
+    {
+      "japanese": "先週",
+      "reading": "せんしゅう",
+      "romaji": "senshuu",
+      "meaning": ["last week"]
+    },
+    {
+      "japanese": "今週",
+      "reading": "こんしゅう",
+      "romaji": "konshuu",
+      "meaning": ["this week"]
+    },
+    {
+      "japanese": "来週",
+      "reading": "らいしゅう",
+      "romaji": "raishuu",
+      "meaning": ["next week"]
+    },
+    {
+      "japanese": "先月",
+      "reading": "せんげつ",
+      "romaji": "sengetsu",
+      "meaning": ["last month"]
+    },
+    {
+      "japanese": "今月",
+      "reading": "こんげつ",
+      "romaji": "kongetsu",
+      "meaning": ["this month"]
+    },
+    {
+      "japanese": "来月",
+      "reading": "らいげつ",
+      "romaji": "raigetsu",
+      "meaning": ["next month"]
+    },
+    {
+      "japanese": "去年",
+      "reading": "きょねん",
+      "romaji": "kyonen",
+      "meaning": ["last year"]
+    },
+    {
+      "japanese": "今年",
+      "reading": "ことし",
+      "romaji": "kotoshi",
+      "meaning": ["this year"]
+    },
+    {
+      "japanese": "来年",
+      "reading": "らいねん",
+      "romaji": "rainen",
+      "meaning": ["next year"]
+    },
+    {
+      "japanese": "ー月",
+      "reading": "ーがつ",
+      "romaji": "-gatsu",
+      "meaning": ["-th month of the year"]
+    },
+    {
+      "japanese": "何月",
+      "reading": "なんがつ",
+      "romaji": "nangatsu",
+      "meaning": ["what month"]
+    },
+    {
+      "japanese": "１日",
+      "reading": "ついたち",
+      "romaji": "tsuitachi",
+      "meaning": ["first day of the month"]
+    },
+    {
+      "japanese": "２日",
+      "reading": "ふつか",
+      "romaji": "futsuka",
+      "meaning": ["second", "two days"]
+    },
+    {
+      "japanese": "３日",
+      "reading": "みっか",
+      "romaji": "mikka",
+      "meaning": ["third", "three days"]
+    },
+    {
+      "japanese": "４日",
+      "reading": "よっか",
+      "romaji": "yokka",
+      "meaning": ["fourth", "four days"]
+    },
+    {
+      "japanese": "５日",
+      "reading": "いつか",
+      "romaji": "itsuka",
+      "meaning": ["fifth", "five days"]
+    },
+    {
+      "japanese": "６日",
+      "reading": "むいか",
+      "romaji": "muika",
+      "meaning": ["sixth", "six days"]
+    },
+    {
+      "japanese": "７日",
+      "reading": "なのか",
+      "romaji": "nanoka",
+      "meaning": ["seventh", "seven days"]
+    },
+    {
+      "japanese": "８日",
+      "reading": "ようか",
+      "romaji": "youka",
+      "meaning": ["eighth", "eight days"]
+    },
+    {
+      "japanese": "９日",
+      "reading": "ここのか",
+      "romaji": "kokonoka",
+      "meaning": ["ninth", "nine days"]
+    },
+    {
+      "japanese": "１０日",
+      "reading": "とおか",
+      "romaji": "tooka",
+      "meaning": ["tenth", "ten days"]
+    },
+    {
+      "japanese": "１４日",
+      "reading": "じゅうよっか",
+      "romaji": "juuyokka",
+      "meaning": ["fourteenth", "fourteen days"]
+    },
+    {
+      "japanese": "２０日",
+      "reading": "はつか",
+      "romaji": "hatsuka",
+      "meaning": ["twentieth", "twenty days"]
+    },
+    {
+      "japanese": "２４日",
+      "reading": "にじゅうよっか",
+      "romaji": "nijuuyokka",
+      "meaning": ["twenty fourth", "twenty four days"]
+    },
+    {
+      "japanese": "ー日",
+      "reading": "ーにち",
+      "romaji": "-nichi",
+      "meaning": ["-th day of the month", "ー days"]
+    },
+    {
+      "japanese": "何日",
+      "reading": "なんにち",
+      "romaji": "nannichi",
+      "meaning": ["which day of the month", "how many days"]
+    },
+    {
+      "japanese": "いつ",
+      "reading": "いつ",
+      "romaji": "itsu",
+      "meaning": ["when"]
+    },
+    {
+      "japanese": "誕生日",
+      "reading": "たんじょうび",
+      "romaji": "tanjoubi",
+      "meaning": ["birthday"]
+    },
+    {
+      "japanese": "普通",
+      "reading": "ふつう",
+      "romaji": "futsuu",
+      "meaning": ["local (train)"]
+    },
+    {
+      "japanese": "急行",
+      "reading": "きゅうこう",
+      "romaji": "kyuukou",
+      "meaning": ["rapid"]
+    },
+    {
+      "japanese": "特急",
+      "reading": "とっきゅう",
+      "romaji": "tokkyuu",
+      "meaning": ["express"]
+    },
+    {
+      "japanese": "次の",
+      "reading": "つぎの",
+      "romaji": "tsugino",
+      "meaning": ["next"]
+    },
+    {
+      "japanese": "どう いたしまして。",
+      "reading": "どう いたしまして。",
+      "romaji": "dou itashimashite.",
+      "meaning": ["You're welcome.", "Don't mention it."]
+    },
+    {
+      "japanese": "ー番線",
+      "reading": "ーばんせん",
+      "romaji": "-bansen",
+      "meaning": ["platform ー", "-th platform"]
+    },
+    {
+      "japanese": "博多",
+      "reading": "はかた",
+      "romaji": "hakata",
+      "meaning": ["name of a town in Kyushu"]
+    },
+    {
+      "japanese": "伏見",
+      "reading": "ふしみ",
+      "romaji": "fushimi",
+      "meaning": ["name of a town in Kyoto"]
+    },
+    {
+      "japanese": "甲子園",
+      "reading": "こうしえん",
+      "romaji": "koushien",
+      "meaning": ["name of a town near Osaka"]
+    },
+    {
+      "japanese": "大阪城",
+      "reading": "おおさかじょう",
+      "romaji": "oosakajou",
+      "meaning": ["Osaka Castle, a famous castle in Osaka"]
+    }
+  ]
+}

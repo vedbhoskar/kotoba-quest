@@ -1,0 +1,291 @@
+{
+  "lesson": 2,
+  "jlpt": "N5",
+  "vocabulary": [
+    {
+      "japanese": "これ",
+      "reading": "これ",
+      "romaji": "kore",
+      "meaning": ["this (thing here)"]
+    },
+    {
+      "japanese": "それ",
+      "reading": "それ",
+      "romaji": "sore",
+      "meaning": ["that (thing near you)"]
+    },
+    {
+      "japanese": "あれ",
+      "reading": "あれ",
+      "romaji": "are",
+      "meaning": ["that (thing over there)"]
+    },
+    {
+      "japanese": "この～",
+      "reading": "この～",
+      "romaji": "kono~",
+      "meaning": ["this ~, this ~ here"]
+    },
+    {
+      "japanese": "その～",
+      "reading": "その～",
+      "romaji": "sono~",
+      "meaning": ["that ~, that ~ near you"]
+    },
+    {
+      "japanese": "あの～",
+      "reading": "あの～",
+      "romaji": "ano~",
+      "meaning": ["that ~, that ~ over there"]
+    },
+    {
+      "japanese": "本",
+      "reading": "ほん",
+      "romaji": "hon",
+      "meaning": ["book"]
+    },
+    {
+      "japanese": "辞書",
+      "reading": "じしょ",
+      "romaji": "jisho",
+      "meaning": ["dictionary"]
+    },
+    {
+      "japanese": "雑誌",
+      "reading": "ざっし",
+      "romaji": "zasshi",
+      "meaning": ["magazine"]
+    },
+    {
+      "japanese": "新聞",
+      "reading": "しんぶん",
+      "romaji": "shinbun",
+      "meaning": ["newspaper"]
+    },
+    {
+      "japanese": "ノート",
+      "reading": "ノート",
+      "romaji": "nooto",
+      "meaning": ["notebook"]
+    },
+    {
+      "japanese": "手帳",
+      "reading": "てちょう",
+      "romaji": "techou",
+      "meaning": ["pocket notebook"]
+    },
+    {
+      "japanese": "名刺",
+      "reading": "めいし",
+      "romaji": "meishi",
+      "meaning": ["business card"]
+    },
+    {
+      "japanese": "カード",
+      "reading": "カード",
+      "romaji": "kaado",
+      "meaning": ["card"]
+    },
+    {
+      "japanese": "テレホンカード",
+      "reading": "テレホンカード",
+      "romaji": "terehonkaado",
+      "meaning": ["telephone card"]
+    },
+    {
+      "japanese": "鉛筆",
+      "reading": "えんぴつ",
+      "romaji": "enpitsu",
+      "meaning": ["pencil"]
+    },
+    {
+      "japanese": "ボールペン",
+      "reading": "ボールペン",
+      "romaji": "boorupen",
+      "meaning": ["ballpoint pen"]
+    },
+    {
+      "japanese": "シャープペンシル",
+      "reading": "シャープペンシル",
+      "romaji": "shaapupenshiru",
+      "meaning": ["mechanical pencil, propelling pencil"]
+    },
+    {
+      "japanese": "かぎ",
+      "reading": "かぎ",
+      "romaji": "kagi",
+      "meaning": ["key"]
+    },
+    {
+      "japanese": "時計",
+      "reading": "とけい",
+      "romaji": "tokei",
+      "meaning": ["watch, clock"]
+    },
+    {
+      "japanese": "傘",
+      "reading": "かさ",
+      "romaji": "kasa",
+      "meaning": ["umbrella"]
+    },
+    {
+      "japanese": "かばん",
+      "reading": "かばん",
+      "romaji": "kaban",
+      "meaning": ["bag, briefcase"]
+    },
+    {
+      "japanese": "[カセット]テープ",
+      "reading": "[カセット]テープ",
+      "romaji": "[kasetto]teepu",
+      "meaning": ["[cassette] tape"]
+    },
+    {
+      "japanese": "テープレコーダー",
+      "reading": "テープレコーダー",
+      "romaji": "teepurekoodaa",
+      "meaning": ["tape recorder"]
+    },
+    {
+      "japanese": "テレビ",
+      "reading": "テレビ",
+      "romaji": "terebi",
+      "meaning": ["television"]
+    },
+    {
+      "japanese": "ラジオ",
+      "reading": "ラジオ",
+      "romaji": "rajio",
+      "meaning": ["radio"]
+    },
+    {
+      "japanese": "カメラ",
+      "reading": "カメラ",
+      "romaji": "kamera",
+      "meaning": ["camera"]
+    },
+    {
+      "japanese": "コンピューター",
+      "reading": "コンピューター",
+      "romaji": "konpyuutaa",
+      "meaning": ["computer"]
+    },
+    {
+      "japanese": "自動車",
+      "reading": "じどうしゃ",
+      "romaji": "jidousha",
+      "meaning": ["automobile, car"]
+    },
+    {
+      "japanese": "机",
+      "reading": "つくえ",
+      "romaji": "tsukue",
+      "meaning": ["desk"]
+    },
+    {
+      "japanese": "いす",
+      "reading": "いす",
+      "romaji": "isu",
+      "meaning": ["chair"]
+    },
+    {
+      "japanese": "チョコレート",
+      "reading": "チョコレート",
+      "romaji": "chokoreeto",
+      "meaning": ["chocolate"]
+    },
+    {
+      "japanese": "コーヒー",
+      "reading": "コーヒー",
+      "romaji": "koohii",
+      "meaning": ["coffee"]
+    },
+    {
+      "japanese": "英語",
+      "reading": "えいご",
+      "romaji": "eigo",
+      "meaning": ["the English language"]
+    },
+    {
+      "japanese": "日本語",
+      "reading": "にほんご",
+      "romaji": "nihongo",
+      "meaning": ["the Japanese language"]
+    },
+    {
+      "japanese": "～語",
+      "reading": "～ご",
+      "romaji": "~go",
+      "meaning": ["~ language"]
+    },
+    {
+      "japanese": "何",
+      "reading": "なん",
+      "romaji": "nan",
+      "meaning": ["what"]
+    },
+    {
+      "japanese": "そう",
+      "reading": "そう",
+      "romaji": "sou",
+      "meaning": ["so"]
+    },
+    {
+      "japanese": "違います。",
+      "reading": "ちがいます。",
+      "romaji": "chigaimasu.",
+      "meaning": ["No, it isn't.", "You are wrong."]
+    },
+    {
+      "japanese": "そうですか。",
+      "reading": "そうですか。",
+      "romaji": "sou desu ka.",
+      "meaning": ["I see.", "Is that so?"]
+    },
+    {
+      "japanese": "あのう",
+      "reading": "あのう",
+      "romaji": "anou",
+      "meaning": ["well (used to show hesitation)"]
+    },
+    {
+      "japanese": "ほんの気持ちです。",
+      "reading": "ほんのきもちです。",
+      "romaji": "hon no kimochi desu.",
+      "meaning": ["It's nothing.", "It's a token of my gratitude."]
+    },
+    {
+      "japanese": "どうぞ。",
+      "reading": "どうぞ。",
+      "romaji": "douzo.",
+      "meaning": [
+        "Please.",
+        "Here you are. (used when offering someone something)"
+      ]
+    },
+    {
+      "japanese": "どうも。",
+      "reading": "どうも。",
+      "romaji": "doumo.",
+      "meaning": ["Well, thanks."]
+    },
+    {
+      "japanese": "［どうも］ありがとう［ございます］。",
+      "reading": "［どうも］ありがとう［ございます］。",
+      "romaji": "[doumo] arigatou [gozaimasu].",
+      "meaning": ["Thank you [very much]."]
+    },
+    {
+      "japanese": "これから お世話になります。",
+      "reading": "これから おせわになります。",
+      "romaji": "korekara osewa ni narimasu.",
+      "meaning": ["I hope for your kind assistance hereafter."]
+    },
+    {
+      "japanese": "こちらこそ よろしく。",
+      "reading": "こちらこそ よろしく。",
+      "romaji": "kochirakoso yoroshiku.",
+      "meaning": ["I am pleased to meet you. (response to どうぞよろしく)"]
+    }
+  ]
+}

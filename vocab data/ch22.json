@@ -1,0 +1,157 @@
+{
+  "lesson": 22,
+  "jlpt": "N5",
+  "vocabulary": [
+    {
+      "japanese": "着ます ［シャツを～］",
+      "reading": "きます ［シャツを～］",
+      "romaji": "kimasu [shatsu o ~]",
+      "meaning": ["put on [a shirt, etc.]"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "はきます ［靴を～］",
+      "reading": "はきます ［くつを～］",
+      "romaji": "hakimasu [kutsu o ~]",
+      "meaning": ["put on [shoes, trousers, etc.]"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "かぶります ［帽子を～］",
+      "reading": "かぶります ［ぼうしを～］",
+      "romaji": "kaburimasu [boushi o ~]",
+      "meaning": ["put on [a hat, etc.]"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "かけます ［眼鏡を～］",
+      "reading": "かけます ［めがねを～］",
+      "romaji": "kakemasu [megane o ~]",
+      "meaning": ["put on [glasses]"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "生まれます",
+      "reading": "うまれます",
+      "romaji": "umaremasu",
+      "meaning": ["be born"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "コート",
+      "reading": "コート",
+      "romaji": "kooto",
+      "meaning": ["coat"]
+    },
+    {
+      "japanese": "スーツ",
+      "reading": "スーツ",
+      "romaji": "suutsu",
+      "meaning": ["suit"]
+    },
+    {
+      "japanese": "セーター",
+      "reading": "セーター",
+      "romaji": "seetaa",
+      "meaning": ["sweater"]
+    },
+    {
+      "japanese": "帽子",
+      "reading": "ぼうし",
+      "romaji": "boushi",
+      "meaning": ["hat, cap"]
+    },
+    {
+      "japanese": "眼鏡",
+      "reading": "めがね",
+      "romaji": "megane",
+      "meaning": ["glasses"]
+    },
+    {
+      "japanese": "よく",
+      "reading": "よく",
+      "romaji": "yoku",
+      "meaning": ["often"]
+    },
+    {
+      "japanese": "おめでとう ございます。",
+      "reading": "おめでとう ございます。",
+      "romaji": "omedetou gozaimasu.",
+      "meaning": [
+        "Congratulations. (used on birthdays, at weddings, New Year's Day, etc.)"
+      ]
+    },
+    {
+      "japanese": "こちら",
+      "reading": "こちら",
+      "romaji": "kochira",
+      "meaning": ["this (polite equivalent of これ)"]
+    },
+    {
+      "japanese": "家賃",
+      "reading": "やちん",
+      "romaji": "yachin",
+      "meaning": ["house rent"]
+    },
+    {
+      "japanese": "うーん。",
+      "reading": "うーん。",
+      "romaji": "uun.",
+      "meaning": ["Let me see."]
+    },
+    {
+      "japanese": "ダイニングキチン",
+      "reading": "ダイニングキチン",
+      "romaji": "dainingukichin",
+      "meaning": ["kitchen with a dining area"]
+    },
+    {
+      "japanese": "和室",
+      "reading": "わしつ",
+      "romaji": "washitsu",
+      "meaning": ["Japanese-style room"]
+    },
+    {
+      "japanese": "押し入れ",
+      "reading": "おしいれ",
+      "romaji": "oshiire",
+      "meaning": ["Japanese-style closet"]
+    },
+    {
+      "japanese": "布団",
+      "reading": "ふとん",
+      "romaji": "futon",
+      "meaning": ["Japanese-style mattress and quilt"]
+    },
+    {
+      "japanese": "アパート",
+      "reading": "アパート",
+      "romaji": "apaato",
+      "meaning": ["apartment"]
+    },
+    {
+      "japanese": "パリ",
+      "reading": "パリ",
+      "romaji": "pari",
+      "meaning": ["Paris"]
+    },
+    {
+      "japanese": "万里の長城",
+      "reading": "ばんりのちょうじょう",
+      "romaji": "banri no choujou",
+      "meaning": ["the Great Wall of China"]
+    },
+    {
+      "japanese": "余暇開発センター",
+      "reading": "よかかいはつセンター",
+      "romaji": "yokakaihatsu sentaa",
+      "meaning": ["Center for Developing Leisure Activities"]
+    },
+    {
+      "japanese": "レジャー白書",
+      "reading": "レジャーはくしょ",
+      "romaji": "rejaa hakusho",
+      "meaning": ["white paper on leisure"]
+    }
+  ]
+}

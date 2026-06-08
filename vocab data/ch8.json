@@ -1,0 +1,378 @@
+{
+  "lesson": 8,
+  "jlpt": "N5",
+  "vocabulary": [
+    {
+      "japanese": "ハンサム［な］",
+      "reading": "ハンサム［な］",
+      "romaji": "hansamu [na]",
+      "meaning": ["handsome"]
+    },
+    {
+      "japanese": "きれい［な］",
+      "reading": "きれい［な］",
+      "romaji": "kirei [na]",
+      "meaning": ["beautiful", "clean"]
+    },
+    {
+      "japanese": "静か［な］",
+      "reading": "しずか［な］",
+      "romaji": "shizuka [na]",
+      "meaning": ["quiet"]
+    },
+    {
+      "japanese": "にぎやか［な］",
+      "reading": "にぎやか［な］",
+      "romaji": "nigiyaka [na]",
+      "meaning": ["lively"]
+    },
+    {
+      "japanese": "有名［な］",
+      "reading": "ゆうめい［な］",
+      "romaji": "yuumei [na]",
+      "meaning": ["famous"]
+    },
+    {
+      "japanese": "親切［な］",
+      "reading": "しんせつ［な］",
+      "romaji": "shinsetsu [na]",
+      "meaning": ["kind"]
+    },
+    {
+      "japanese": "元気［な］",
+      "reading": "げんき［な］",
+      "romaji": "genki [na]",
+      "meaning": ["healthy", "sound", "cheerful"]
+    },
+    {
+      "japanese": "暇［な］",
+      "reading": "ひま［な］",
+      "romaji": "hima [na]",
+      "meaning": ["free (time)"]
+    },
+    {
+      "japanese": "便利［な］",
+      "reading": "べんり［な］",
+      "romaji": "benri [na]",
+      "meaning": ["convenient"]
+    },
+    {
+      "japanese": "すてき［な］",
+      "reading": "すてき［な］",
+      "romaji": "suteki [na]",
+      "meaning": ["fine", "nice", "wonderful"]
+    },
+    {
+      "japanese": "大きい",
+      "reading": "おおきい",
+      "romaji": "ookii",
+      "meaning": ["big", "large"]
+    },
+    {
+      "japanese": "小さい",
+      "reading": "ちいさい",
+      "romaji": "chiisai",
+      "meaning": ["small", "little"]
+    },
+    {
+      "japanese": "新しい",
+      "reading": "あたらしい",
+      "romaji": "atarashii",
+      "meaning": ["new"]
+    },
+    {
+      "japanese": "古い",
+      "reading": "ふるい",
+      "romaji": "furui",
+      "meaning": ["old (not of age)"]
+    },
+    {
+      "japanese": "いい（よい）",
+      "reading": "いい（よい）",
+      "romaji": "ii (yoi)",
+      "meaning": ["good"]
+    },
+    {
+      "japanese": "悪い",
+      "reading": "わるい",
+      "romaji": "warui",
+      "meaning": ["bad"]
+    },
+    {
+      "japanese": "暑い、熱い",
+      "reading": "あつい",
+      "romaji": "atsui",
+      "meaning": ["hot"]
+    },
+    {
+      "japanese": "寒い",
+      "reading": "さむい",
+      "romaji": "samui",
+      "meaning": ["cold (referring to temperature)"]
+    },
+    {
+      "japanese": "冷たい",
+      "reading": "つめたい",
+      "romaji": "tsumetai",
+      "meaning": ["cold (referring to touch)"]
+    },
+    {
+      "japanese": "難しい",
+      "reading": "むずかしい",
+      "romaji": "muzukashii",
+      "meaning": ["difficult"]
+    },
+    {
+      "japanese": "易しい",
+      "reading": "やさしい",
+      "romaji": "yasashii",
+      "meaning": ["easy"]
+    },
+    {
+      "japanese": "高い",
+      "reading": "たかい",
+      "romaji": "takai",
+      "meaning": ["expensive", "tall", "high"]
+    },
+    {
+      "japanese": "安い",
+      "reading": "やすい",
+      "romaji": "yasui",
+      "meaning": ["inexpensive"]
+    },
+    {
+      "japanese": "低い",
+      "reading": "ひくい",
+      "romaji": "hikui",
+      "meaning": ["low"]
+    },
+    {
+      "japanese": "おもしろい",
+      "reading": "おもしろい",
+      "romaji": "omoshiroi",
+      "meaning": ["interesting"]
+    },
+    {
+      "japanese": "おいしい",
+      "reading": "おいしい",
+      "romaji": "oishii",
+      "meaning": ["delicious", "tasty"]
+    },
+    {
+      "japanese": "忙しい",
+      "reading": "いそがしい",
+      "romaji": "isogashii",
+      "meaning": ["busy"]
+    },
+    {
+      "japanese": "楽しい",
+      "reading": "たのしい",
+      "romaji": "tanoshii",
+      "meaning": ["enjoyable"]
+    },
+    {
+      "japanese": "白い",
+      "reading": "しろい",
+      "romaji": "shiroi",
+      "meaning": ["white"]
+    },
+    {
+      "japanese": "黒い",
+      "reading": "くろい",
+      "romaji": "kuroi",
+      "meaning": ["black"]
+    },
+    {
+      "japanese": "赤い",
+      "reading": "あかい",
+      "romaji": "akai",
+      "meaning": ["red"]
+    },
+    {
+      "japanese": "青い",
+      "reading": "あおい",
+      "romaji": "aoi",
+      "meaning": ["blue"]
+    },
+    {
+      "japanese": "桜",
+      "reading": "さくら",
+      "romaji": "sakura",
+      "meaning": ["cherry (blossom)"]
+    },
+    {
+      "japanese": "山",
+      "reading": "やま",
+      "romaji": "yama",
+      "meaning": ["mountain"]
+    },
+    {
+      "japanese": "町",
+      "reading": "まち",
+      "romaji": "machi",
+      "meaning": ["town", "city"]
+    },
+    {
+      "japanese": "食べ物",
+      "reading": "たべもの",
+      "romaji": "tabemono",
+      "meaning": ["food"]
+    },
+    {
+      "japanese": "車",
+      "reading": "くるま",
+      "romaji": "kuruma",
+      "meaning": ["car", "vehicle"]
+    },
+    {
+      "japanese": "所",
+      "reading": "ところ",
+      "romaji": "tokoro",
+      "meaning": ["place"]
+    },
+    {
+      "japanese": "寮",
+      "reading": "りょう",
+      "romaji": "ryou",
+      "meaning": ["dormitory"]
+    },
+    {
+      "japanese": "勉強",
+      "reading": "べんきょう",
+      "romaji": "benkyou",
+      "meaning": ["study"]
+    },
+    {
+      "japanese": "生活",
+      "reading": "せいかつ",
+      "romaji": "seikatsu",
+      "meaning": ["life"]
+    },
+    {
+      "japanese": "［お］仕事",
+      "reading": "［お］しごと",
+      "romaji": "[o]shigoto",
+      "meaning": ["work", "business"]
+    },
+    {
+      "japanese": "どう",
+      "reading": "どう",
+      "romaji": "dou",
+      "meaning": ["how"]
+    },
+    {
+      "japanese": "どんな～",
+      "reading": "どんな～",
+      "romaji": "donna~",
+      "meaning": ["what kind of ~"]
+    },
+    {
+      "japanese": "どれ",
+      "reading": "どれ",
+      "romaji": "dore",
+      "meaning": ["which one (of three or more)"]
+    },
+    {
+      "japanese": "とても",
+      "reading": "とても",
+      "romaji": "totemo",
+      "meaning": ["very"]
+    },
+    {
+      "japanese": "あまり",
+      "reading": "あまり",
+      "romaji": "amari",
+      "meaning": ["not so (used with negatives)"]
+    },
+    {
+      "japanese": "そして",
+      "reading": "そして",
+      "romaji": "soshite",
+      "meaning": ["and (used to connect sentences)"]
+    },
+    {
+      "japanese": "～が、～",
+      "reading": "～が、～",
+      "romaji": "~ga, ~",
+      "meaning": ["~, but ~"]
+    },
+    {
+      "japanese": "お元気ですか。",
+      "reading": "おげんきですか。",
+      "romaji": "ogenki desu ka.",
+      "meaning": ["How are you?"]
+    },
+    {
+      "japanese": "そうですね。",
+      "reading": "そうですね。",
+      "romaji": "sou desu ne.",
+      "meaning": ["Well let me see. (pausing)"]
+    },
+    {
+      "japanese": "日本の 生活に 慣れましたか。",
+      "reading": "にほんの せいかつに なれましたか。",
+      "romaji": "nihon no seikatsu ni naremashita ka.",
+      "meaning": ["Have you got used to the life in Japan?"]
+    },
+    {
+      "japanese": "［～、］もう 一杯 いかがですか。",
+      "reading": "［～、］もう いっぱい いかがですか。",
+      "romaji": "[~,] mou ippai ikaga desu ka.",
+      "meaning": ["Won't you have another cup of [~]?"]
+    },
+    {
+      "japanese": "いいえ、けっこうです。",
+      "reading": "いいえ、けっこうです。",
+      "romaji": "iie, kekkou desu.",
+      "meaning": ["No, thank you."]
+    },
+    {
+      "japanese": "もう ～です［ね］。",
+      "reading": "もう ～です［ね］。",
+      "romaji": "mou ~desu [ne].",
+      "meaning": ["It's already ~[, isn't it?]."]
+    },
+    {
+      "japanese": "そろそろ 失礼します。",
+      "reading": "そろそろ しつれいします。",
+      "romaji": "sorosoro shitsureishimasu.",
+      "meaning": ["It's almost time to leave now."]
+    },
+    {
+      "japanese": "また いらっしゃって ください。",
+      "reading": "また いらっしゃって ください。",
+      "romaji": "mata irasshatte kudasai.",
+      "meaning": ["Please come again."]
+    },
+    {
+      "japanese": "富士山",
+      "reading": "ふじさん",
+      "romaji": "fujisan",
+      "meaning": ["Mt. Fuji, the highest mountain in Japan"]
+    },
+    {
+      "japanese": "琵琶湖",
+      "reading": "びわこ",
+      "romaji": "biwako",
+      "meaning": ["Lake Biwa, the biggest lake in Japan"]
+    },
+    {
+      "japanese": "シャンハイ",
+      "reading": "シャンハイ",
+      "romaji": "shanhai",
+      "meaning": ["Shanghai (上海)"]
+    },
+    {
+      "japanese": "「七人の侍」",
+      "reading": "「しちにんのさむらい」",
+      "romaji": "\"shichinin no samurai\"",
+      "meaning": ["\"The Seven Samurai,\" a classic movie by Akira Kurosawa"]
+    },
+    {
+      "japanese": "金閣寺",
+      "reading": "きんかくじ",
+      "romaji": "kinkakuji",
+      "meaning": ["Kinkakuji Temple (the Golden Pavilion)"]
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "lesson": 19,
+  "jlpt": "N5",
+  "vocabulary": [
+    {
+      "japanese": "登ります ［山に～］",
+      "reading": "のぼります ［やまに～］",
+      "romaji": "noborimasu [yama ni ~]",
+      "meaning": ["climb [a mountain]"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "泊まります ［ホテルに～］",
+      "reading": "とまります ［ホテルに～］",
+      "romaji": "tomarimasu [hoteru ni ~]",
+      "meaning": ["stay [at a hotel]"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "掃除します",
+      "reading": "そうじします",
+      "romaji": "soujishimasu",
+      "meaning": ["clean (a room)"],
+      "verb_group": "III"
+    },
+    {
+      "japanese": "洗濯します",
+      "reading": "せんたくします",
+      "romaji": "sentakushimasu",
+      "meaning": ["wash (clothes)"],
+      "verb_group": "III"
+    },
+    {
+      "japanese": "練習します",
+      "reading": "れんしゅうします",
+      "romaji": "renshuushimasu",
+      "meaning": ["practice"],
+      "verb_group": "III"
+    },
+    {
+      "japanese": "なります",
+      "reading": "なります",
+      "romaji": "narimasu",
+      "meaning": ["become"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "眠い",
+      "reading": "ねむい",
+      "romaji": "nemui",
+      "meaning": ["sleepy"]
+    },
+    {
+      "japanese": "強い",
+      "reading": "つよい",
+      "romaji": "tsuyoi",
+      "meaning": ["strong"]
+    },
+    {
+      "japanese": "弱い",
+      "reading": "よわい",
+      "romaji": "yowai",
+      "meaning": ["weak"]
+    },
+    {
+      "japanese": "調子が いい",
+      "reading": "ちょうしが いい",
+      "romaji": "choushi ga ii",
+      "meaning": ["be in good condition"]
+    },
+    {
+      "japanese": "調子が 悪い",
+      "reading": "ちょうしが わるい",
+      "romaji": "choushi ga warui",
+      "meaning": ["be in bad condition"]
+    },
+    {
+      "japanese": "調子",
+      "reading": "ちょうし",
+      "romaji": "choushi",
+      "meaning": ["condition"]
+    },
+    {
+      "japanese": "ゴルフ",
+      "reading": "ゴルフ",
+      "romaji": "gorufu",
+      "meaning": ["golf (～を します: play golf)"]
+    },
+    {
+      "japanese": "相撲",
+      "reading": "すもう",
+      "romaji": "sumou",
+      "meaning": ["sumo wrestling"]
+    },
+    {
+      "japanese": "パチンコ",
+      "reading": "パチンコ",
+      "romaji": "pachinko",
+      "meaning": ["pinball game (～を します: play pachinko)"]
+    },
+    {
+      "japanese": "お茶",
+      "reading": "おちゃ",
+      "romaji": "ocha",
+      "meaning": ["tea ceremony"]
+    },
+    {
+      "japanese": "日",
+      "reading": "ひ",
+      "romaji": "hi",
+      "meaning": ["day", "date"]
+    },
+    {
+      "japanese": "一度",
+      "reading": "いちど",
+      "romaji": "ichido",
+      "meaning": ["once"]
+    },
+    {
+      "japanese": "一度も",
+      "reading": "いちども",
+      "romaji": "ichidomo",
+      "meaning": ["not once", "never (used with negatives)"]
+    },
+    {
+      "japanese": "だんだん",
+      "reading": "だんだん",
+      "romaji": "dandan",
+      "meaning": ["gradually"]
+    },
+    {
+      "japanese": "もうすぐ",
+      "reading": "もうすぐ",
+      "romaji": "mousugu",
+      "meaning": ["soon"]
+    },
+    {
+      "japanese": "おかげさまで",
+      "reading": "おかげさまで",
+      "romaji": "okagesamade",
+      "meaning": [
+        "Thank you. (used when expressing gratitude for help received)"
+      ]
+    },
+    {
+      "japanese": "乾杯",
+      "reading": "かんぱい",
+      "romaji": "kanpai",
+      "meaning": ["Bottoms up.", "Cheers!"]
+    },
+    {
+      "japanese": "実は",
+      "reading": "じつは",
+      "romaji": "jitsuwa",
+      "meaning": ["actually", "to tell the truth"]
+    },
+    {
+      "japanese": "ダイエット",
+      "reading": "ダイエット",
+      "romaji": "daietto",
+      "meaning": ["diet (～を します: go on a diet)"]
+    },
+    {
+      "japanese": "何回も",
+      "reading": "なんかいも",
+      "romaji": "nankaimo",
+      "meaning": ["many times"]
+    },
+    {
+      "japanese": "しかし",
+      "reading": "しかし",
+      "romaji": "shikashi",
+      "meaning": ["but", "however"]
+    },
+    {
+      "japanese": "無理［な］",
+      "reading": "むり［な］",
+      "romaji": "muri [na]",
+      "meaning": ["excessive", "impossible"]
+    },
+    {
+      "japanese": "体に いい",
+      "reading": "からだに いい",
+      "romaji": "karada ni ii",
+      "meaning": ["good for one's health"]
+    },
+    {
+      "japanese": "ケーキ",
+      "reading": "ケーキ",
+      "romaji": "keeki",
+      "meaning": ["cake"]
+    },
+    {
+      "japanese": "葛飾 北斎",
+      "reading": "かつしか ほくさい",
+      "romaji": "katsushika hokusai",
+      "meaning": ["famous Edo period wood block artist and painter (1760-1849)"]
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "lesson": 7,
+  "jlpt": "N5",
+  "vocabulary": [
+    {
+      "japanese": "切ります",
+      "reading": "きります",
+      "romaji": "kirimasu",
+      "meaning": ["cut", "slice"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "送ります",
+      "reading": "おくります",
+      "romaji": "okurimasu",
+      "meaning": ["send"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "あげます",
+      "reading": "あげます",
+      "romaji": "agemasu",
+      "meaning": ["give"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "もらいます",
+      "reading": "もらいます",
+      "romaji": "moraimasu",
+      "meaning": ["receive"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "貸します",
+      "reading": "かします",
+      "romaji": "kashimasu",
+      "meaning": ["lend"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "借ります",
+      "reading": "かります",
+      "romaji": "karimasu",
+      "meaning": ["borrow"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "教えます",
+      "reading": "おしえます",
+      "romaji": "oshiemasu",
+      "meaning": ["teach"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "習います",
+      "reading": "ならいます",
+      "romaji": "naraimasu",
+      "meaning": ["learn"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "かけます",
+      "reading": "かけます",
+      "romaji": "kakemasu",
+      "meaning": ["make [a telephone call]"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "手",
+      "reading": "て",
+      "romaji": "te",
+      "meaning": ["hand", "arm"]
+    },
+    {
+      "japanese": "はし",
+      "reading": "はし",
+      "romaji": "hashi",
+      "meaning": ["chopsticks"]
+    },
+    {
+      "japanese": "スプーン",
+      "reading": "スプーン",
+      "romaji": "supuun",
+      "meaning": ["spoon"]
+    },
+    {
+      "japanese": "ナイフ",
+      "reading": "ナイフ",
+      "romaji": "naifu",
+      "meaning": ["knife"]
+    },
+    {
+      "japanese": "フォーク",
+      "reading": "フォーク",
+      "romaji": "fooku",
+      "meaning": ["fork"]
+    },
+    {
+      "japanese": "はさみ",
+      "reading": "はさみ",
+      "romaji": "hasami",
+      "meaning": ["scissors"]
+    },
+    {
+      "japanese": "ファクス",
+      "reading": "ファクス",
+      "romaji": "fakusu",
+      "meaning": ["fax"]
+    },
+    {
+      "japanese": "ワープロ",
+      "reading": "ワープロ",
+      "romaji": "waapuro",
+      "meaning": ["word processor"]
+    },
+    {
+      "japanese": "パソコン",
+      "reading": "パソコン",
+      "romaji": "pasokon",
+      "meaning": ["personal computer"]
+    },
+    {
+      "japanese": "パンチ",
+      "reading": "パンチ",
+      "romaji": "panchi",
+      "meaning": ["punch"]
+    },
+    {
+      "japanese": "ホッチキス",
+      "reading": "ホッチキス",
+      "romaji": "hotchikisu",
+      "meaning": ["stapler"]
+    },
+    {
+      "japanese": "セロテープ",
+      "reading": "セロテープ",
+      "romaji": "seroteepu",
+      "meaning": ["Scotch tape", "clear adhesive tape"]
+    },
+    {
+      "japanese": "消しゴム",
+      "reading": "けしゴム",
+      "romaji": "keshigomu",
+      "meaning": ["eraser"]
+    },
+    {
+      "japanese": "紙",
+      "reading": "かみ",
+      "romaji": "kami",
+      "meaning": ["paper"]
+    },
+    {
+      "japanese": "花",
+      "reading": "はな",
+      "romaji": "hana",
+      "meaning": ["flower", "blossom"]
+    },
+    {
+      "japanese": "シャツ",
+      "reading": "シャツ",
+      "romaji": "shatsu",
+      "meaning": ["shirt"]
+    },
+    {
+      "japanese": "プレゼント",
+      "reading": "プレゼント",
+      "romaji": "purezento",
+      "meaning": ["present", "gift"]
+    },
+    {
+      "japanese": "荷物",
+      "reading": "にもつ",
+      "romaji": "nimotsu",
+      "meaning": ["baggage", "parcel"]
+    },
+    {
+      "japanese": "お金",
+      "reading": "おかね",
+      "romaji": "okane",
+      "meaning": ["money"]
+    },
+    {
+      "japanese": "切符",
+      "reading": "きっぷ",
+      "romaji": "kippu",
+      "meaning": ["ticket"]
+    },
+    {
+      "japanese": "クリスマス",
+      "reading": "クリスマス",
+      "romaji": "kurisumasu",
+      "meaning": ["Christmas"]
+    },
+    {
+      "japanese": "父",
+      "reading": "ちち",
+      "romaji": "chichi",
+      "meaning": ["(my) father"]
+    },
+    {
+      "japanese": "母",
+      "reading": "はは",
+      "romaji": "haha",
+      "meaning": ["(my) mother"]
+    },
+    {
+      "japanese": "お父さん",
+      "reading": "おとうさん",
+      "romaji": "otousan",
+      "meaning": ["(someone else's) father"]
+    },
+    {
+      "japanese": "お母さん",
+      "reading": "おかあさん",
+      "romaji": "okaasan",
+      "meaning": ["(someone else's) mother"]
+    },
+    {
+      "japanese": "もう",
+      "reading": "もう",
+      "romaji": "mou",
+      "meaning": ["already"]
+    },
+    {
+      "japanese": "まだ",
+      "reading": "まだ",
+      "romaji": "mada",
+      "meaning": ["not yet"]
+    },
+    {
+      "japanese": "これから",
+      "reading": "これから",
+      "romaji": "korekara",
+      "meaning": ["from now on", "soon"]
+    },
+    {
+      "japanese": "［～、］すてきですね。",
+      "reading": "［～、］すてきですね。",
+      "romaji": "[~,] suteki desu ne.",
+      "meaning": ["What a nice [~]!"]
+    },
+    {
+      "japanese": "ごめんください。",
+      "reading": "ごめんください。",
+      "romaji": "gomenkudasai.",
+      "meaning": [
+        "Excuse me.",
+        "Anybody home?",
+        "May I come in? (an expression used by a visitor)"
+      ]
+    },
+    {
+      "japanese": "いらっしゃい。",
+      "reading": "いらっしゃい。",
+      "romaji": "irasshai.",
+      "meaning": ["How nice of you to come. (lit. Welcome.)"]
+    },
+    {
+      "japanese": "どうぞ お上がり ください。",
+      "reading": "どうぞ おあがり ください。",
+      "romaji": "douzo oagari kudasai.",
+      "meaning": ["Do come in."]
+    },
+    {
+      "japanese": "失礼します。",
+      "reading": "しつれいします。",
+      "romaji": "shitsureishimasu.",
+      "meaning": [
+        "Thank you.",
+        "May I? (lit. I'm afraid I'll be disturbing you.)"
+      ]
+    },
+    {
+      "japanese": "［～は］いかがですか。",
+      "reading": "［～は］いかがですか。",
+      "romaji": "[~wa] ikaga desu ka.",
+      "meaning": [
+        "Won't you have [~]?",
+        "Would you like to have [~]? (used when offering something)"
+      ]
+    },
+    {
+      "japanese": "いただきます。",
+      "reading": "いただきます。",
+      "romaji": "itadakimasu.",
+      "meaning": [
+        "Thank you.",
+        "I accept. (said before starting to eat or drink)"
+      ]
+    },
+    {
+      "japanese": "旅行",
+      "reading": "りょこう",
+      "romaji": "ryokou",
+      "meaning": ["trip", "tour"]
+    },
+    {
+      "japanese": "お土産",
+      "reading": "おみやげ",
+      "romaji": "omiyage",
+      "meaning": ["souvenir", "present"]
+    },
+    {
+      "japanese": "ヨーロッパ",
+      "reading": "ヨーロッパ",
+      "romaji": "yooroppa",
+      "meaning": ["Europe"]
+    },
+    {
+      "japanese": "スペイン",
+      "reading": "スペイン",
+      "romaji": "supein",
+      "meaning": ["Spain"]
+    }
+  ]
+}

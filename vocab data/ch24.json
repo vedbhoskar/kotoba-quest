@@ -1,0 +1,128 @@
+{
+  "lesson": 24,
+  "jlpt": "N5",
+  "vocabulary": [
+    {
+      "japanese": "くれます",
+      "reading": "くれます",
+      "romaji": "kuremasu",
+      "meaning": ["give (me)"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "連れて行きます",
+      "reading": "つれていきます",
+      "romaji": "tsurete ikimasu",
+      "meaning": ["take (someone)"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "連れて来ます",
+      "reading": "つれてきます",
+      "romaji": "tsurete kimasu",
+      "meaning": ["bring (someone)"],
+      "verb_group": "III"
+    },
+    {
+      "japanese": "送ります ［人を～］",
+      "reading": "おくります ［ひとを～］",
+      "romaji": "okurimasu [hito o ~]",
+      "meaning": ["escort [someone]", "go with"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "紹介します",
+      "reading": "しょうかいします",
+      "romaji": "shoukaishimasu",
+      "meaning": ["introduce"],
+      "verb_group": "III"
+    },
+    {
+      "japanese": "案内します",
+      "reading": "あんないします",
+      "romaji": "annaishimasu",
+      "meaning": ["show around", "show the way"],
+      "verb_group": "III"
+    },
+    {
+      "japanese": "説明します",
+      "reading": "せつめいします",
+      "romaji": "setsumeishimasu",
+      "meaning": ["explain"],
+      "verb_group": "III"
+    },
+    {
+      "japanese": "いれます ［コーヒーを～］",
+      "reading": "いれます ［コーヒーを～］",
+      "romaji": "iremasu [koohii o ~]",
+      "meaning": ["make [coffee]"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "おじいさん／おじいちゃん",
+      "reading": "おじいさん／おじいちゃん",
+      "romaji": "ojiisan / ojiichan",
+      "meaning": ["grandfather", "old man"]
+    },
+    {
+      "japanese": "おばあさん／おばあちゃん",
+      "reading": "おばあさん／おばあちゃん",
+      "romaji": "obaasan / obaachan",
+      "meaning": ["grandmother", "old woman"]
+    },
+    {
+      "japanese": "準備",
+      "reading": "じゅんび",
+      "romaji": "junbi",
+      "meaning": ["preparation (～ します: prepare)"]
+    },
+    {
+      "japanese": "意味",
+      "reading": "いみ",
+      "romaji": "imi",
+      "meaning": ["meaning"]
+    },
+    {
+      "japanese": "［お］菓子",
+      "reading": "［お］かし",
+      "romaji": "[o]kashi",
+      "meaning": ["sweets", "snacks"]
+    },
+    {
+      "japanese": "全部",
+      "reading": "ぜんぶ",
+      "romaji": "zenbu",
+      "meaning": ["all"]
+    },
+    {
+      "japanese": "自分で",
+      "reading": "じぶんで",
+      "romaji": "jibun de",
+      "meaning": ["by oneself"]
+    },
+    {
+      "japanese": "ほかに",
+      "reading": "ほかに",
+      "romaji": "hokani",
+      "meaning": ["besides"]
+    },
+    {
+      "japanese": "ワゴン車",
+      "reading": "ワゴンしゃ",
+      "romaji": "wagonsha",
+      "meaning": ["station wagon"]
+    },
+    {
+      "japanese": "［お］弁当",
+      "reading": "［お］べんとう",
+      "romaji": "[o]bentou",
+      "meaning": ["box lunch"]
+    },
+    {
+      "japanese": "母の日",
+      "reading": "ははのひ",
+      "romaji": "haha no hi",
+      "meaning": ["Mother's Day"]
+    }
+  ]
+}

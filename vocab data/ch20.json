@@ -1,0 +1,189 @@
+{
+  "lesson": 20,
+  "jlpt": "N5",
+  "vocabulary": [
+    {
+      "japanese": "要ります ［ビザが～］",
+      "reading": "いります ［ビザが～］",
+      "romaji": "irimasu [biza ga ~]",
+      "meaning": ["need, require [a visa]"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "調べます",
+      "reading": "しらべます",
+      "romaji": "shirabemasu",
+      "meaning": ["check, investigate"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "直します",
+      "reading": "なおします",
+      "romaji": "naoshimasu",
+      "meaning": ["repair, correct"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "修理します",
+      "reading": "しゅうりします",
+      "romaji": "shuurishimasu",
+      "meaning": ["repair"],
+      "verb_group": "III"
+    },
+    {
+      "japanese": "電話します",
+      "reading": "でんわします",
+      "romaji": "denwashimasu",
+      "meaning": ["phone"],
+      "verb_group": "III"
+    },
+    {
+      "japanese": "僕",
+      "reading": "ぼく",
+      "romaji": "boku",
+      "meaning": ["I (an informal equivalent of わたし used by men)"]
+    },
+    {
+      "japanese": "君",
+      "reading": "きみ",
+      "romaji": "kimi",
+      "meaning": ["you (an informal equivalent of あなた used by men)"]
+    },
+    {
+      "japanese": "～君",
+      "reading": "～くん",
+      "romaji": "~kun",
+      "meaning": ["Mr. (an informal equivalent of ～さん used by men)"]
+    },
+    {
+      "japanese": "うん",
+      "reading": "うん",
+      "romaji": "un",
+      "meaning": ["yes (an informal equivalent of はい)"]
+    },
+    {
+      "japanese": "ううん",
+      "reading": "ううん",
+      "romaji": "uun",
+      "meaning": ["no (an informal equivalent of いいえ)"]
+    },
+    {
+      "japanese": "サラリーマン",
+      "reading": "サラリーマン",
+      "romaji": "sarariiman",
+      "meaning": ["salaried worker, office worker"]
+    },
+    {
+      "japanese": "ことば",
+      "reading": "ことば",
+      "romaji": "kotoba",
+      "meaning": ["word, language"]
+    },
+    {
+      "japanese": "物価",
+      "reading": "ぶっか",
+      "romaji": "bukka",
+      "meaning": ["commodity prices"]
+    },
+    {
+      "japanese": "着物",
+      "reading": "きもの",
+      "romaji": "kimono",
+      "meaning": ["kimono (traditional Japanese attire)"]
+    },
+    {
+      "japanese": "ビザ",
+      "reading": "ビザ",
+      "romaji": "biza",
+      "meaning": ["visa"]
+    },
+    {
+      "japanese": "初め",
+      "reading": "はじめ",
+      "romaji": "hajime",
+      "meaning": ["the beginning"]
+    },
+    {
+      "japanese": "終わり",
+      "reading": "おわり",
+      "romaji": "owari",
+      "meaning": ["the end"]
+    },
+    {
+      "japanese": "こっち",
+      "reading": "こっち",
+      "romaji": "kotchi",
+      "meaning": ["this way, this place (an informal equivalent of こちら)"]
+    },
+    {
+      "japanese": "そっち",
+      "reading": "そっち",
+      "romaji": "sotchi",
+      "meaning": ["this way, that place (an informal equivalent of そちら)"]
+    },
+    {
+      "japanese": "あっち",
+      "reading": "あっち",
+      "romaji": "atchi",
+      "meaning": [
+        "this way, that place over there (an informal equivalent of あちら)"
+      ]
+    },
+    {
+      "japanese": "どっち",
+      "reading": "どっち",
+      "romaji": "dotchi",
+      "meaning": [
+        "which one (between two things), which way, where (an informal equivalent of どちら)"
+      ]
+    },
+    {
+      "japanese": "この間",
+      "reading": "このあいだ",
+      "romaji": "kono aida",
+      "meaning": ["the other day"]
+    },
+    {
+      "japanese": "みんなで",
+      "reading": "みんなで",
+      "romaji": "minna de",
+      "meaning": ["all together"]
+    },
+    {
+      "japanese": "～けど",
+      "reading": "～けど",
+      "romaji": "~kedo",
+      "meaning": ["～, but (an informal equivalent of が)"]
+    },
+    {
+      "japanese": "国へ 帰るの？",
+      "reading": "くにへ かえるの？",
+      "romaji": "kuni e kaeru no?",
+      "meaning": ["Are you going back to your country?"]
+    },
+    {
+      "japanese": "どう するの？",
+      "reading": "どう するの？",
+      "romaji": "dou suru no?",
+      "meaning": ["What will you do?"]
+    },
+    {
+      "japanese": "どう しようかな。",
+      "reading": "どう しようかな。",
+      "romaji": "dou shiyou kana.",
+      "meaning": ["What shall I do?"]
+    },
+    {
+      "japanese": "よかったら",
+      "reading": "よかったら",
+      "romaji": "yokattara",
+      "meaning": ["if you like"]
+    },
+    {
+      "japanese": "いろいろ",
+      "reading": "いろいろ",
+      "romaji": "iroiro",
+      "meaning": ["various"]
+    }
+  ]
+}

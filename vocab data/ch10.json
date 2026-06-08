@@ -1,0 +1,302 @@
+{
+  "lesson": 10,
+  "jlpt": "N5",
+  "vocabulary": [
+    {
+      "japanese": "います",
+      "reading": "います",
+      "romaji": "imasu",
+      "meaning": ["exist", "be (referring to animate things)"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "あります",
+      "reading": "あります",
+      "romaji": "arimasu",
+      "meaning": ["exist", "be (referring to inanimate things)"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "いろいろ［な］",
+      "reading": "いろいろ［な］",
+      "romaji": "iroiro [na]",
+      "meaning": ["various"]
+    },
+    {
+      "japanese": "男の人",
+      "reading": "おとこのひと",
+      "romaji": "otoko no hito",
+      "meaning": ["man"]
+    },
+    {
+      "japanese": "女の人",
+      "reading": "おんなのひと",
+      "romaji": "onna no hito",
+      "meaning": ["woman"]
+    },
+    {
+      "japanese": "男の子",
+      "reading": "おとこのこ",
+      "romaji": "otoko no ko",
+      "meaning": ["boy"]
+    },
+    {
+      "japanese": "女の子",
+      "reading": "おんなのこ",
+      "romaji": "onna no ko",
+      "meaning": ["girl"]
+    },
+    {
+      "japanese": "犬",
+      "reading": "いぬ",
+      "romaji": "inu",
+      "meaning": ["dog"]
+    },
+    {
+      "japanese": "猫",
+      "reading": "ねこ",
+      "romaji": "neko",
+      "meaning": ["cat"]
+    },
+    {
+      "japanese": "木",
+      "reading": "き",
+      "romaji": "ki",
+      "meaning": ["tree", "wood"]
+    },
+    {
+      "japanese": "物",
+      "reading": "もの",
+      "romaji": "mono",
+      "meaning": ["thing"]
+    },
+    {
+      "japanese": "フィルム",
+      "reading": "フィルム",
+      "romaji": "firumu",
+      "meaning": ["film"]
+    },
+    {
+      "japanese": "電池",
+      "reading": "でんち",
+      "romaji": "denchi",
+      "meaning": ["battery"]
+    },
+    {
+      "japanese": "箱",
+      "reading": "はこ",
+      "romaji": "hako",
+      "meaning": ["box"]
+    },
+    {
+      "japanese": "スイッチ",
+      "reading": "スイッチ",
+      "romaji": "suitchi",
+      "meaning": ["switch"]
+    },
+    {
+      "japanese": "冷蔵庫",
+      "reading": "れいぞうこ",
+      "romaji": "reizouko",
+      "meaning": ["refrigerator"]
+    },
+    {
+      "japanese": "テーブル",
+      "reading": "テーブル",
+      "romaji": "teeburu",
+      "meaning": ["table"]
+    },
+    {
+      "japanese": "ベッド",
+      "reading": "ベッド",
+      "romaji": "beddo",
+      "meaning": ["bed"]
+    },
+    {
+      "japanese": "棚",
+      "reading": "たな",
+      "romaji": "tana",
+      "meaning": ["shelf"]
+    },
+    {
+      "japanese": "ドア",
+      "reading": "ドア",
+      "romaji": "doa",
+      "meaning": ["door"]
+    },
+    {
+      "japanese": "窓",
+      "reading": "まど",
+      "romaji": "mado",
+      "meaning": ["window"]
+    },
+    {
+      "japanese": "ポスト",
+      "reading": "ポスト",
+      "romaji": "posuto",
+      "meaning": ["mailbox", "postbox"]
+    },
+    {
+      "japanese": "ビル",
+      "reading": "ビル",
+      "romaji": "biru",
+      "meaning": ["building"]
+    },
+    {
+      "japanese": "公園",
+      "reading": "こうえん",
+      "romaji": "kouen",
+      "meaning": ["park"]
+    },
+    {
+      "japanese": "喫茶店",
+      "reading": "きっさてん",
+      "romaji": "kissaten",
+      "meaning": ["coffee shop"]
+    },
+    {
+      "japanese": "本屋",
+      "reading": "ほんや",
+      "romaji": "honya",
+      "meaning": ["bookstore"]
+    },
+    {
+      "japanese": "～屋",
+      "reading": "～や",
+      "romaji": "~ya",
+      "meaning": ["~ store"]
+    },
+    {
+      "japanese": "乗り場",
+      "reading": "のりば",
+      "romaji": "noriba",
+      "meaning": ["a fixed place to catch taxis, trains, etc."]
+    },
+    {
+      "japanese": "県",
+      "reading": "けん",
+      "romaji": "ken",
+      "meaning": ["prefecture"]
+    },
+    {
+      "japanese": "上",
+      "reading": "うえ",
+      "romaji": "ue",
+      "meaning": ["on", "above", "over"]
+    },
+    {
+      "japanese": "下",
+      "reading": "した",
+      "romaji": "shita",
+      "meaning": ["under", "below", "beneath"]
+    },
+    {
+      "japanese": "前",
+      "reading": "まえ",
+      "romaji": "mae",
+      "meaning": ["front", "before"]
+    },
+    {
+      "japanese": "うしろ",
+      "reading": "うしろ",
+      "romaji": "ushiro",
+      "meaning": ["back", "behind"]
+    },
+    {
+      "japanese": "右",
+      "reading": "みぎ",
+      "romaji": "migi",
+      "meaning": ["right [side]"]
+    },
+    {
+      "japanese": "左",
+      "reading": "ひだり",
+      "romaji": "hidari",
+      "meaning": ["left [side]"]
+    },
+    {
+      "japanese": "中",
+      "reading": "なか",
+      "romaji": "naka",
+      "meaning": ["in", "inside"]
+    },
+    {
+      "japanese": "外",
+      "reading": "そと",
+      "romaji": "soto",
+      "meaning": ["outside"]
+    },
+    {
+      "japanese": "隣",
+      "reading": "となり",
+      "romaji": "tonari",
+      "meaning": ["next", "next door"]
+    },
+    {
+      "japanese": "近く",
+      "reading": "ちかく",
+      "romaji": "chikaku",
+      "meaning": ["near", "vicinity"]
+    },
+    {
+      "japanese": "間",
+      "reading": "あいだ",
+      "romaji": "aida",
+      "meaning": ["between", "among"]
+    },
+    {
+      "japanese": "～や ～［など］",
+      "reading": "～や ～［など］",
+      "romaji": "~ya ~[nado]",
+      "meaning": ["~, ~, and so on"]
+    },
+    {
+      "japanese": "いちばん ～",
+      "reading": "いちばん ～",
+      "romaji": "ichiban ~",
+      "meaning": ["the most ~ (いちばん うえ: the top)"]
+    },
+    {
+      "japanese": "ー段目",
+      "reading": "ーだんめ",
+      "romaji": "-danme",
+      "meaning": ["the -th shelf (だん is the counter for shelves)"]
+    },
+    {
+      "japanese": "［どうも］すみません。",
+      "reading": "［どうも］すみません。",
+      "romaji": "[doumo] sumimasen.",
+      "meaning": ["Thank you."]
+    },
+    {
+      "japanese": "チリソース",
+      "reading": "チリソース",
+      "romaji": "chiri soosu",
+      "meaning": ["chili sauce"]
+    },
+    {
+      "japanese": "奥",
+      "reading": "おく",
+      "romaji": "oku",
+      "meaning": ["the back"]
+    },
+    {
+      "japanese": "スパイス・コーナー",
+      "reading": "スパイス・コーナー",
+      "romaji": "supaisu koonaa",
+      "meaning": ["spice corner"]
+    },
+    {
+      "japanese": "東京ディズニーランド",
+      "reading": "とうきょうディズニーランド",
+      "romaji": "toukyou dizuniirando",
+      "meaning": ["Tokyo Disneyland"]
+    },
+    {
+      "japanese": "ユニーヤ・ストア",
+      "reading": "ユニーヤ・ストア",
+      "romaji": "yuniiya sutoa",
+      "meaning": ["fictitious supermarket"]
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "lesson": 6,
+  "jlpt": "N5",
+  "vocabulary": [
+    {
+      "japanese": "食べます",
+      "reading": "たべます",
+      "romaji": "tabemasu",
+      "meaning": ["eat"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "飲みます",
+      "reading": "のみます",
+      "romaji": "nomimasu",
+      "meaning": ["drink"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "吸います",
+      "reading": "すいます",
+      "romaji": "suimasu",
+      "meaning": ["smoke [a cigarette]"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "見ます",
+      "reading": "みます",
+      "romaji": "mimasu",
+      "meaning": ["see", "look at", "watch"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "聞きます",
+      "reading": "ききます",
+      "romaji": "kikimasu",
+      "meaning": ["hear", "listen"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "読みます",
+      "reading": "よみます",
+      "romaji": "yomimasu",
+      "meaning": ["read"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "書きます",
+      "reading": "かきます",
+      "romaji": "kakimasu",
+      "meaning": ["write", "draw", "paint"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "買います",
+      "reading": "かいます",
+      "romaji": "kaimasu",
+      "meaning": ["buy"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "撮ります",
+      "reading": "とります",
+      "romaji": "torimasu",
+      "meaning": ["take [a photograph]"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "します",
+      "reading": "します",
+      "romaji": "shimasu",
+      "meaning": ["do"],
+      "verb_group": "III"
+    },
+    {
+      "japanese": "会います",
+      "reading": "あいます",
+      "romaji": "aimasu",
+      "meaning": ["meet [a friend]"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "ごはん",
+      "reading": "ごはん",
+      "romaji": "gohan",
+      "meaning": ["a meal", "cooked rice"]
+    },
+    {
+      "japanese": "朝ごはん",
+      "reading": "あさごはん",
+      "romaji": "asagohan",
+      "meaning": ["breakfast"]
+    },
+    {
+      "japanese": "昼ごはん",
+      "reading": "ひるごはん",
+      "romaji": "hirugohan",
+      "meaning": ["lunch"]
+    },
+    {
+      "japanese": "晩ごはん",
+      "reading": "ばんごはん",
+      "romaji": "bangohan",
+      "meaning": ["supper"]
+    },
+    {
+      "japanese": "パン",
+      "reading": "パン",
+      "romaji": "pan",
+      "meaning": ["bread"]
+    },
+    {
+      "japanese": "卵",
+      "reading": "たまご",
+      "romaji": "tamago",
+      "meaning": ["egg"]
+    },
+    {
+      "japanese": "肉",
+      "reading": "にく",
+      "romaji": "niku",
+      "meaning": ["meat"]
+    },
+    {
+      "japanese": "魚",
+      "reading": "さかな",
+      "romaji": "sakana",
+      "meaning": ["fish"]
+    },
+    {
+      "japanese": "野菜",
+      "reading": "やさい",
+      "romaji": "yasai",
+      "meaning": ["vegetable"]
+    },
+    {
+      "japanese": "果物",
+      "reading": "くだもの",
+      "romaji": "kudamono",
+      "meaning": ["fruit"]
+    },
+    {
+      "japanese": "水",
+      "reading": "みず",
+      "romaji": "mizu",
+      "meaning": ["water"]
+    },
+    {
+      "japanese": "お茶",
+      "reading": "おちゃ",
+      "romaji": "ocha",
+      "meaning": ["tea", "green tea"]
+    },
+    {
+      "japanese": "紅茶",
+      "reading": "こうちゃ",
+      "romaji": "koucha",
+      "meaning": ["black tea"]
+    },
+    {
+      "japanese": "牛乳 (ミルク)",
+      "reading": "ぎゅうにゅう (ミルク)",
+      "romaji": "gyuunyuu (miruku)",
+      "meaning": ["milk"]
+    },
+    {
+      "japanese": "ジュース",
+      "reading": "ジュース",
+      "romaji": "juusu",
+      "meaning": ["juice"]
+    },
+    {
+      "japanese": "ビール",
+      "reading": "ビール",
+      "romaji": "biiru",
+      "meaning": ["beer"]
+    },
+    {
+      "japanese": "[お]酒",
+      "reading": "[お]さけ",
+      "romaji": "[o]sake",
+      "meaning": ["alcohol", "Japanese rice wine"]
+    },
+    {
+      "japanese": "ビデオ",
+      "reading": "ビデオ",
+      "romaji": "bideo",
+      "meaning": ["video tape", "video deck"]
+    },
+    {
+      "japanese": "映画",
+      "reading": "えいが",
+      "romaji": "eiga",
+      "meaning": ["movie"]
+    },
+    {
+      "japanese": "ＣＤ",
+      "reading": "ＣＤ",
+      "romaji": "CD",
+      "meaning": ["CD", "compact disc"]
+    },
+    {
+      "japanese": "手紙",
+      "reading": "てがみ",
+      "romaji": "tegami",
+      "meaning": ["letter"]
+    },
+    {
+      "japanese": "レポート",
+      "reading": "レポート",
+      "romaji": "repooto",
+      "meaning": ["report"]
+    },
+    {
+      "japanese": "写真",
+      "reading": "しゃしん",
+      "romaji": "shashin",
+      "meaning": ["photograph"]
+    },
+    {
+      "japanese": "店",
+      "reading": "みせ",
+      "romaji": "mise",
+      "meaning": ["store", "shop"]
+    },
+    {
+      "japanese": "レストラン",
+      "reading": "レストラン",
+      "romaji": "resutoran",
+      "meaning": ["restaurant"]
+    },
+    {
+      "japanese": "庭",
+      "reading": "にわ",
+      "romaji": "niwa",
+      "meaning": ["garden"]
+    },
+    {
+      "japanese": "宿題",
+      "reading": "しゅくだい",
+      "romaji": "shukudai",
+      "meaning": ["homework"]
+    },
+    {
+      "japanese": "テニス",
+      "reading": "テニス",
+      "romaji": "tenisu",
+      "meaning": ["tennis"]
+    },
+    {
+      "japanese": "サッカー",
+      "reading": "サッカー",
+      "romaji": "sakkaa",
+      "meaning": ["soccer", "football"]
+    },
+    {
+      "japanese": "[お]花見",
+      "reading": "[お]はなみ",
+      "romaji": "[o]hanami",
+      "meaning": ["cherry-blossom viewing"]
+    },
+    {
+      "japanese": "何",
+      "reading": "なに",
+      "romaji": "nani",
+      "meaning": ["what"]
+    },
+    {
+      "japanese": "いっしょに",
+      "reading": "いっしょに",
+      "romaji": "isshoni",
+      "meaning": ["together"]
+    },
+    {
+      "japanese": "ちょっと",
+      "reading": "ちょっと",
+      "romaji": "chotto",
+      "meaning": ["a little while", "a little bit"]
+    },
+    {
+      "japanese": "いつも",
+      "reading": "いつも",
+      "romaji": "itsumo",
+      "meaning": ["always", "usually"]
+    },
+    {
+      "japanese": "時々",
+      "reading": "ときどき",
+      "romaji": "tokidoki",
+      "meaning": ["sometimes"]
+    },
+    {
+      "japanese": "それから",
+      "reading": "それから",
+      "romaji": "sorekara",
+      "meaning": ["after that", "and then"]
+    },
+    {
+      "japanese": "ええ",
+      "reading": "ええ",
+      "romaji": "ee",
+      "meaning": ["yes"]
+    },
+    {
+      "japanese": "いいですね。",
+      "reading": "いいですね。",
+      "romaji": "ii desu ne.",
+      "meaning": ["That's good."]
+    },
+    {
+      "japanese": "わかりました。",
+      "reading": "わかりました。",
+      "romaji": "wakarimashita.",
+      "meaning": ["I see."]
+    },
+    {
+      "japanese": "何ですか。",
+      "reading": "なんですか。",
+      "romaji": "nan desu ka.",
+      "meaning": ["Yes?"]
+    },
+    {
+      "japanese": "じゃ、また［あした］。",
+      "reading": "じゃ、また［あした］。",
+      "romaji": "ja, mata [ashita].",
+      "meaning": ["See you [tomorrow]."]
+    },
+    {
+      "japanese": "メキシコ",
+      "reading": "メキシコ",
+      "romaji": "mekishiko",
+      "meaning": ["Mexico"]
+    },
+    {
+      "japanese": "大阪城公園",
+      "reading": "おおさかじょうこうえん",
+      "romaji": "oosakajou kouen",
+      "meaning": ["Osaka Castle park"]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "lesson": 25,
+  "jlpt": "N5",
+  "vocabulary": [
+    {
+      "japanese": "考えます",
+      "reading": "かんがえます",
+      "romaji": "kangaemasu",
+      "meaning": ["think", "consider"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "着きます ［駅に～］",
+      "reading": "つきます ［えきに～］",
+      "romaji": "tsukimasu [eki ni ~]",
+      "meaning": ["arrive [at the station]"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "留学します",
+      "reading": "りゅうがくします",
+      "romaji": "ryuugakushimasu",
+      "meaning": ["study abroad"],
+      "verb_group": "III"
+    },
+    {
+      "japanese": "取ります ［年を～］",
+      "reading": "とります ［としを～］",
+      "romaji": "torimasu [toshi o ~]",
+      "meaning": ["grow old"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "田舎",
+      "reading": "いなか",
+      "romaji": "inaka",
+      "meaning": ["countryside", "hometown"]
+    },
+    {
+      "japanese": "大使館",
+      "reading": "たいしかん",
+      "romaji": "taishikan",
+      "meaning": ["embassy"]
+    },
+    {
+      "japanese": "グループ",
+      "reading": "グループ",
+      "romaji": "guruupu",
+      "meaning": ["group"]
+    },
+    {
+      "japanese": "チャンス",
+      "reading": "チャンス",
+      "romaji": "chansu",
+      "meaning": ["chance"]
+    },
+    {
+      "japanese": "億",
+      "reading": "おく",
+      "romaji": "oku",
+      "meaning": ["hundred million"]
+    },
+    {
+      "japanese": "もし ［～たら］",
+      "reading": "もし ［～たら］",
+      "romaji": "moshi [~tara]",
+      "meaning": ["if ~"]
+    },
+    {
+      "japanese": "いくら ［～ても］",
+      "reading": "いくら ［～ても］",
+      "romaji": "ikura [~temo]",
+      "meaning": ["however ~", "even if ~"]
+    },
+    {
+      "japanese": "転勤",
+      "reading": "てんきん",
+      "romaji": "tenkin",
+      "meaning": ["transfer (～ します: be transferred to another office)"]
+    },
+    {
+      "japanese": "こと",
+      "reading": "こと",
+      "romaji": "koto",
+      "meaning": ["thing", "matter (～の こと: thing about ～)"]
+    },
+    {
+      "japanese": "一杯 飲みましょう。",
+      "reading": "いっぱい のみましょう。",
+      "romaji": "ippai nomimashou.",
+      "meaning": ["Let's have a drink together."]
+    },
+    {
+      "japanese": "［いろいろ］お世話に なりました。",
+      "reading": "［いろいろ］おせわに なりました。",
+      "romaji": "[iroiro] osewa ni narimashita.",
+      "meaning": ["Thank you for everything you have done for me."]
+    },
+    {
+      "japanese": "頑張ります",
+      "reading": "がんばります",
+      "romaji": "ganbarimasu",
+      "meaning": ["do one's best"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "どうぞ お元気で。",
+      "reading": "どうぞ おげんきで。",
+      "romaji": "douzo ogenki de.",
+      "meaning": ["Best of luck. (said when expecting a long separation)"]
+    }
+  ]
+}

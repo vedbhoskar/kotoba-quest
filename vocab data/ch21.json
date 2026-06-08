@@ -1,0 +1,246 @@
+{
+  "lesson": 21,
+  "jlpt": "N5",
+  "vocabulary": [
+    {
+      "japanese": "思います",
+      "reading": "おもいます",
+      "romaji": "omoimasu",
+      "meaning": ["think"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "言います",
+      "reading": "いいます",
+      "romaji": "iimasu",
+      "meaning": ["say"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "足ります",
+      "reading": "たります",
+      "romaji": "tarimasu",
+      "meaning": ["be enough", "be sufficient"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "勝ちます",
+      "reading": "かちます",
+      "romaji": "kachimasu",
+      "meaning": ["win"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "負けます",
+      "reading": "まけます",
+      "romaji": "makemasu",
+      "meaning": ["lose", "be beaten"],
+      "verb_group": "II"
+    },
+    {
+      "japanese": "あります ［お祭りが～］",
+      "reading": "あります ［おまつりが～］",
+      "romaji": "arimasu [omatsuri ga ~]",
+      "meaning": ["[a festival] be held", "take place"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "役に 立ちます",
+      "reading": "やくに たちます",
+      "romaji": "yaku ni tachimasu",
+      "meaning": ["be useful"],
+      "verb_group": "I"
+    },
+    {
+      "japanese": "むだ［な］",
+      "reading": "むだ［な］",
+      "romaji": "muda [na]",
+      "meaning": ["wasteful"]
+    },
+    {
+      "japanese": "不便［な］",
+      "reading": "ふべん［な］",
+      "romaji": "fuben [na]",
+      "meaning": ["inconvenient"]
+    },
+    {
+      "japanese": "同じ",
+      "reading": "おなじ",
+      "romaji": "onaji",
+      "meaning": ["the same"]
+    },
+    {
+      "japanese": "すごい",
+      "reading": "すごい",
+      "romaji": "sugoi",
+      "meaning": ["awful", "great (expresses astonishment or admiration)"]
+    },
+    {
+      "japanese": "首相",
+      "reading": "しゅしょう",
+      "romaji": "shushou",
+      "meaning": ["prime minister"]
+    },
+    {
+      "japanese": "大統領",
+      "reading": "だいとうりょう",
+      "romaji": "daitouryou",
+      "meaning": ["president"]
+    },
+    {
+      "japanese": "政治",
+      "reading": "せいじ",
+      "romaji": "seiji",
+      "meaning": ["politics"]
+    },
+    {
+      "japanese": "ニュース",
+      "reading": "ニュース",
+      "romaji": "nyuusu",
+      "meaning": ["news"]
+    },
+    {
+      "japanese": "スピーチ",
+      "reading": "スピーチ",
+      "romaji": "supiichi",
+      "meaning": ["speech (～を します: make a speech)"]
+    },
+    {
+      "japanese": "試合",
+      "reading": "しあい",
+      "romaji": "shiai",
+      "meaning": ["game", "match"]
+    },
+    {
+      "japanese": "アルバイト",
+      "reading": "アルバイト",
+      "romaji": "arubaito",
+      "meaning": ["side job (～を します: work part time)"]
+    },
+    {
+      "japanese": "意見",
+      "reading": "いけん",
+      "romaji": "iken",
+      "meaning": ["opinion"]
+    },
+    {
+      "japanese": "［お］話",
+      "reading": "［お］はなし",
+      "romaji": "[o]hanashi",
+      "meaning": [
+        "talk, speech, what one says, story (～を します: talk, tell a story)"
+      ]
+    },
+    {
+      "japanese": "ユーモア",
+      "reading": "ユーモア",
+      "romaji": "yuumoa",
+      "meaning": ["humor"]
+    },
+    {
+      "japanese": "むだ",
+      "reading": "むだ",
+      "romaji": "muda",
+      "meaning": ["waste"]
+    },
+    {
+      "japanese": "デザイン",
+      "reading": "デザイン",
+      "romaji": "dezain",
+      "meaning": ["design"]
+    },
+    {
+      "japanese": "交通",
+      "reading": "こうつう",
+      "romaji": "koutsuu",
+      "meaning": ["transportation", "traffic"]
+    },
+    {
+      "japanese": "ラッシュ",
+      "reading": "ラッシュ",
+      "romaji": "rasshu",
+      "meaning": ["rush hour"]
+    },
+    {
+      "japanese": "最近",
+      "reading": "さいきん",
+      "romaji": "saikin",
+      "meaning": ["recently", "these days"]
+    },
+    {
+      "japanese": "たぶん",
+      "reading": "たぶん",
+      "romaji": "tabun",
+      "meaning": ["probably", "perhaps", "maybe"]
+    },
+    {
+      "japanese": "きっと",
+      "reading": "きっと",
+      "romaji": "kitto",
+      "meaning": ["surely"]
+    },
+    {
+      "japanese": "ほんとうに",
+      "reading": "ほんとうに",
+      "romaji": "hontouni",
+      "meaning": ["really"]
+    },
+    {
+      "japanese": "そんなに",
+      "reading": "そんなに",
+      "romaji": "sonnani",
+      "meaning": ["not so much (used with negatives)"]
+    },
+    {
+      "japanese": "～に ついて",
+      "reading": "～に ついて",
+      "romaji": "~ni tsuite",
+      "meaning": ["about ～", "concerning ～"]
+    },
+    {
+      "japanese": "しかたが ありません。",
+      "reading": "しかたが ありません。",
+      "romaji": "shikata ga arimasen.",
+      "meaning": ["There is no other choice.", "It can't be helped."]
+    },
+    {
+      "japanese": "しばらくですね。",
+      "reading": "しばらくですね。",
+      "romaji": "shibaraku desu ne.",
+      "meaning": [
+        "It's been a long time (since I last saw you).",
+        "Long time no see."
+      ]
+    },
+    {
+      "japanese": "～でも 飲みませんか。",
+      "reading": "～でも のみませんか。",
+      "romaji": "~demo nomimasen ka.",
+      "meaning": ["How about drinking ～ or something?"]
+    },
+    {
+      "japanese": "見ないと……。",
+      "reading": "みないと……。",
+      "romaji": "minaito......",
+      "meaning": ["I've got to watch it."]
+    },
+    {
+      "japanese": "もちろん",
+      "reading": "もちろん",
+      "romaji": "mochiron",
+      "meaning": ["of course"]
+    },
+    {
+      "japanese": "カンガルー",
+      "reading": "カンガルー",
+      "romaji": "kangaruu",
+      "meaning": ["kangaroo"]
+    },
+    {
+      "japanese": "キャプテン・クック",
+      "reading": "キャプテン・クック",
+      "romaji": "kyaputen kukku",
+      "meaning": ["Captain James Cook (1728 - 79)"]
+    }
+  ]
+}
