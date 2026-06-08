@@ -3,243 +3,365 @@
   "jlpt": "N5",
   "vocabulary": [
     {
+      "uid": "ch07-001",
       "japanese": "切ります",
       "reading": "きります",
       "romaji": "kirimasu",
-      "meaning": ["cut", "slice"],
+      "meaning": [
+        "cut",
+        "slice"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch07-002",
       "japanese": "送ります",
       "reading": "おくります",
       "romaji": "okurimasu",
-      "meaning": ["send"],
+      "meaning": [
+        "send"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch07-003",
       "japanese": "あげます",
       "reading": "あげます",
       "romaji": "agemasu",
-      "meaning": ["give"],
+      "meaning": [
+        "give"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch07-004",
       "japanese": "もらいます",
       "reading": "もらいます",
       "romaji": "moraimasu",
-      "meaning": ["receive"],
+      "meaning": [
+        "receive"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch07-005",
       "japanese": "貸します",
       "reading": "かします",
       "romaji": "kashimasu",
-      "meaning": ["lend"],
+      "meaning": [
+        "lend"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch07-006",
       "japanese": "借ります",
       "reading": "かります",
       "romaji": "karimasu",
-      "meaning": ["borrow"],
+      "meaning": [
+        "borrow"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch07-007",
       "japanese": "教えます",
       "reading": "おしえます",
       "romaji": "oshiemasu",
-      "meaning": ["teach"],
+      "meaning": [
+        "teach"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch07-008",
       "japanese": "習います",
       "reading": "ならいます",
       "romaji": "naraimasu",
-      "meaning": ["learn"],
+      "meaning": [
+        "learn"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch07-009",
       "japanese": "かけます",
       "reading": "かけます",
       "romaji": "kakemasu",
-      "meaning": ["make [a telephone call]"],
+      "meaning": [
+        "make [a telephone call]"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch07-010",
       "japanese": "手",
       "reading": "て",
       "romaji": "te",
-      "meaning": ["hand", "arm"]
+      "meaning": [
+        "hand",
+        "arm"
+      ]
     },
     {
+      "uid": "ch07-011",
       "japanese": "はし",
       "reading": "はし",
       "romaji": "hashi",
-      "meaning": ["chopsticks"]
+      "meaning": [
+        "chopsticks"
+      ]
     },
     {
+      "uid": "ch07-012",
       "japanese": "スプーン",
       "reading": "スプーン",
       "romaji": "supuun",
-      "meaning": ["spoon"]
+      "meaning": [
+        "spoon"
+      ]
     },
     {
+      "uid": "ch07-013",
       "japanese": "ナイフ",
       "reading": "ナイフ",
       "romaji": "naifu",
-      "meaning": ["knife"]
+      "meaning": [
+        "knife"
+      ]
     },
     {
+      "uid": "ch07-014",
       "japanese": "フォーク",
       "reading": "フォーク",
       "romaji": "fooku",
-      "meaning": ["fork"]
+      "meaning": [
+        "fork"
+      ]
     },
     {
+      "uid": "ch07-015",
       "japanese": "はさみ",
       "reading": "はさみ",
       "romaji": "hasami",
-      "meaning": ["scissors"]
+      "meaning": [
+        "scissors"
+      ]
     },
     {
+      "uid": "ch07-016",
       "japanese": "ファクス",
       "reading": "ファクス",
       "romaji": "fakusu",
-      "meaning": ["fax"]
+      "meaning": [
+        "fax"
+      ]
     },
     {
+      "uid": "ch07-017",
       "japanese": "ワープロ",
       "reading": "ワープロ",
       "romaji": "waapuro",
-      "meaning": ["word processor"]
+      "meaning": [
+        "word processor"
+      ]
     },
     {
+      "uid": "ch07-018",
       "japanese": "パソコン",
       "reading": "パソコン",
       "romaji": "pasokon",
-      "meaning": ["personal computer"]
+      "meaning": [
+        "personal computer"
+      ]
     },
     {
+      "uid": "ch07-019",
       "japanese": "パンチ",
       "reading": "パンチ",
       "romaji": "panchi",
-      "meaning": ["punch"]
+      "meaning": [
+        "punch"
+      ]
     },
     {
+      "uid": "ch07-020",
       "japanese": "ホッチキス",
       "reading": "ホッチキス",
       "romaji": "hotchikisu",
-      "meaning": ["stapler"]
+      "meaning": [
+        "stapler"
+      ]
     },
     {
+      "uid": "ch07-021",
       "japanese": "セロテープ",
       "reading": "セロテープ",
       "romaji": "seroteepu",
-      "meaning": ["Scotch tape", "clear adhesive tape"]
+      "meaning": [
+        "Scotch tape",
+        "clear adhesive tape"
+      ]
     },
     {
+      "uid": "ch07-022",
       "japanese": "消しゴム",
       "reading": "けしゴム",
       "romaji": "keshigomu",
-      "meaning": ["eraser"]
+      "meaning": [
+        "eraser"
+      ]
     },
     {
+      "uid": "ch07-023",
       "japanese": "紙",
       "reading": "かみ",
       "romaji": "kami",
-      "meaning": ["paper"]
+      "meaning": [
+        "paper"
+      ]
     },
     {
+      "uid": "ch07-024",
       "japanese": "花",
       "reading": "はな",
       "romaji": "hana",
-      "meaning": ["flower", "blossom"]
+      "meaning": [
+        "flower",
+        "blossom"
+      ]
     },
     {
+      "uid": "ch07-025",
       "japanese": "シャツ",
       "reading": "シャツ",
       "romaji": "shatsu",
-      "meaning": ["shirt"]
+      "meaning": [
+        "shirt"
+      ]
     },
     {
+      "uid": "ch07-026",
       "japanese": "プレゼント",
       "reading": "プレゼント",
       "romaji": "purezento",
-      "meaning": ["present", "gift"]
+      "meaning": [
+        "present",
+        "gift"
+      ]
     },
     {
+      "uid": "ch07-027",
       "japanese": "荷物",
       "reading": "にもつ",
       "romaji": "nimotsu",
-      "meaning": ["baggage", "parcel"]
+      "meaning": [
+        "baggage",
+        "parcel"
+      ]
     },
     {
+      "uid": "ch07-028",
       "japanese": "お金",
       "reading": "おかね",
       "romaji": "okane",
-      "meaning": ["money"]
+      "meaning": [
+        "money"
+      ]
     },
     {
+      "uid": "ch07-029",
       "japanese": "切符",
       "reading": "きっぷ",
       "romaji": "kippu",
-      "meaning": ["ticket"]
+      "meaning": [
+        "ticket"
+      ]
     },
     {
+      "uid": "ch07-030",
       "japanese": "クリスマス",
       "reading": "クリスマス",
       "romaji": "kurisumasu",
-      "meaning": ["Christmas"]
+      "meaning": [
+        "Christmas"
+      ]
     },
     {
+      "uid": "ch07-031",
       "japanese": "父",
       "reading": "ちち",
       "romaji": "chichi",
-      "meaning": ["(my) father"]
+      "meaning": [
+        "(my) father"
+      ]
     },
     {
+      "uid": "ch07-032",
       "japanese": "母",
       "reading": "はは",
       "romaji": "haha",
-      "meaning": ["(my) mother"]
+      "meaning": [
+        "(my) mother"
+      ]
     },
     {
+      "uid": "ch07-033",
       "japanese": "お父さん",
       "reading": "おとうさん",
       "romaji": "otousan",
-      "meaning": ["(someone else's) father"]
+      "meaning": [
+        "(someone else's) father"
+      ]
     },
     {
+      "uid": "ch07-034",
       "japanese": "お母さん",
       "reading": "おかあさん",
       "romaji": "okaasan",
-      "meaning": ["(someone else's) mother"]
+      "meaning": [
+        "(someone else's) mother"
+      ]
     },
     {
+      "uid": "ch07-035",
       "japanese": "もう",
       "reading": "もう",
       "romaji": "mou",
-      "meaning": ["already"]
+      "meaning": [
+        "already"
+      ]
     },
     {
+      "uid": "ch07-036",
       "japanese": "まだ",
       "reading": "まだ",
       "romaji": "mada",
-      "meaning": ["not yet"]
+      "meaning": [
+        "not yet"
+      ]
     },
     {
+      "uid": "ch07-037",
       "japanese": "これから",
       "reading": "これから",
       "romaji": "korekara",
-      "meaning": ["from now on", "soon"]
+      "meaning": [
+        "from now on",
+        "soon"
+      ]
     },
     {
+      "uid": "ch07-038",
       "japanese": "［～、］すてきですね。",
       "reading": "［～、］すてきですね。",
       "romaji": "[~,] suteki desu ne.",
-      "meaning": ["What a nice [~]!"]
+      "meaning": [
+        "What a nice [~]!"
+      ]
     },
     {
+      "uid": "ch07-039",
       "japanese": "ごめんください。",
       "reading": "ごめんください。",
       "romaji": "gomenkudasai.",
@@ -250,18 +372,25 @@
       ]
     },
     {
+      "uid": "ch07-040",
       "japanese": "いらっしゃい。",
       "reading": "いらっしゃい。",
       "romaji": "irasshai.",
-      "meaning": ["How nice of you to come. (lit. Welcome.)"]
+      "meaning": [
+        "How nice of you to come. (lit. Welcome.)"
+      ]
     },
     {
+      "uid": "ch07-041",
       "japanese": "どうぞ お上がり ください。",
       "reading": "どうぞ おあがり ください。",
       "romaji": "douzo oagari kudasai.",
-      "meaning": ["Do come in."]
+      "meaning": [
+        "Do come in."
+      ]
     },
     {
+      "uid": "ch07-042",
       "japanese": "失礼します。",
       "reading": "しつれいします。",
       "romaji": "shitsureishimasu.",
@@ -271,6 +400,7 @@
       ]
     },
     {
+      "uid": "ch07-043",
       "japanese": "［～は］いかがですか。",
       "reading": "［～は］いかがですか。",
       "romaji": "[~wa] ikaga desu ka.",
@@ -280,6 +410,7 @@
       ]
     },
     {
+      "uid": "ch07-044",
       "japanese": "いただきます。",
       "reading": "いただきます。",
       "romaji": "itadakimasu.",
@@ -289,28 +420,42 @@
       ]
     },
     {
+      "uid": "ch07-045",
       "japanese": "旅行",
       "reading": "りょこう",
       "romaji": "ryokou",
-      "meaning": ["trip", "tour"]
+      "meaning": [
+        "trip",
+        "tour"
+      ]
     },
     {
+      "uid": "ch07-046",
       "japanese": "お土産",
       "reading": "おみやげ",
       "romaji": "omiyage",
-      "meaning": ["souvenir", "present"]
+      "meaning": [
+        "souvenir",
+        "present"
+      ]
     },
     {
+      "uid": "ch07-047",
       "japanese": "ヨーロッパ",
       "reading": "ヨーロッパ",
       "romaji": "yooroppa",
-      "meaning": ["Europe"]
+      "meaning": [
+        "Europe"
+      ]
     },
     {
+      "uid": "ch07-048",
       "japanese": "スペイン",
       "reading": "スペイン",
       "romaji": "supein",
-      "meaning": ["Spain"]
+      "meaning": [
+        "Spain"
+      ]
     }
   ]
 }

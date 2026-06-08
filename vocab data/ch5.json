@@ -3,361 +3,563 @@
   "jlpt": "N5",
   "vocabulary": [
     {
+      "uid": "ch05-001",
       "japanese": "行きます",
       "reading": "いきます",
       "romaji": "ikimasu",
-      "meaning": ["go"],
+      "meaning": [
+        "go"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch05-002",
       "japanese": "来ます",
       "reading": "きます",
       "romaji": "kimasu",
-      "meaning": ["come"],
+      "meaning": [
+        "come"
+      ],
       "verb_group": "III"
     },
     {
+      "uid": "ch05-003",
       "japanese": "帰ります",
       "reading": "かえります",
       "romaji": "kaerimasu",
-      "meaning": ["go home", "return"],
+      "meaning": [
+        "go home",
+        "return"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch05-004",
       "japanese": "学校",
       "reading": "がっこう",
       "romaji": "gakkou",
-      "meaning": ["school"]
+      "meaning": [
+        "school"
+      ]
     },
     {
+      "uid": "ch05-005",
       "japanese": "スーパー",
       "reading": "スーパー",
       "romaji": "suupaa",
-      "meaning": ["supermarket"]
+      "meaning": [
+        "supermarket"
+      ]
     },
     {
+      "uid": "ch05-006",
       "japanese": "駅",
       "reading": "えき",
       "romaji": "eki",
-      "meaning": ["station"]
+      "meaning": [
+        "station"
+      ]
     },
     {
+      "uid": "ch05-007",
       "japanese": "飛行機",
       "reading": "ひこうき",
       "romaji": "hikouki",
-      "meaning": ["airplane"]
+      "meaning": [
+        "airplane"
+      ]
     },
     {
+      "uid": "ch05-008",
       "japanese": "船",
       "reading": "ふね",
       "romaji": "fune",
-      "meaning": ["ship"]
+      "meaning": [
+        "ship"
+      ]
     },
     {
+      "uid": "ch05-009",
       "japanese": "電車",
       "reading": "でんしゃ",
       "romaji": "densha",
-      "meaning": ["electric train"]
+      "meaning": [
+        "electric train"
+      ]
     },
     {
+      "uid": "ch05-010",
       "japanese": "地下鉄",
       "reading": "ちかてつ",
       "romaji": "chikatetsu",
-      "meaning": ["subway", "underground"]
+      "meaning": [
+        "subway",
+        "underground"
+      ]
     },
     {
+      "uid": "ch05-011",
       "japanese": "新幹線",
       "reading": "しんかんせん",
       "romaji": "shinkansen",
-      "meaning": ["the Shinkansen", "the bullet train"]
+      "meaning": [
+        "the Shinkansen",
+        "the bullet train"
+      ]
     },
     {
+      "uid": "ch05-012",
       "japanese": "バス",
       "reading": "バス",
       "romaji": "basu",
-      "meaning": ["bus"]
+      "meaning": [
+        "bus"
+      ]
     },
     {
+      "uid": "ch05-013",
       "japanese": "タクシー",
       "reading": "タクシー",
       "romaji": "takushii",
-      "meaning": ["taxi"]
+      "meaning": [
+        "taxi"
+      ]
     },
     {
+      "uid": "ch05-014",
       "japanese": "自転車",
       "reading": "じてんしゃ",
       "romaji": "jitensha",
-      "meaning": ["bicycle"]
+      "meaning": [
+        "bicycle"
+      ]
     },
     {
+      "uid": "ch05-015",
       "japanese": "歩いて",
       "reading": "あるいて",
       "romaji": "aruite",
-      "meaning": ["on foot"]
+      "meaning": [
+        "on foot"
+      ]
     },
     {
+      "uid": "ch05-016",
       "japanese": "人",
       "reading": "ひと",
       "romaji": "hito",
-      "meaning": ["person", "people"]
+      "meaning": [
+        "person",
+        "people"
+      ]
     },
     {
+      "uid": "ch05-017",
       "japanese": "友達",
       "reading": "ともだち",
       "romaji": "tomodachi",
-      "meaning": ["friend"]
+      "meaning": [
+        "friend"
+      ]
     },
     {
+      "uid": "ch05-018",
       "japanese": "彼",
       "reading": "かれ",
       "romaji": "kare",
-      "meaning": ["he", "boyfriend", "lover"]
+      "meaning": [
+        "he",
+        "boyfriend",
+        "lover"
+      ]
     },
     {
+      "uid": "ch05-019",
       "japanese": "彼女",
       "reading": "かのじょ",
       "romaji": "kanojo",
-      "meaning": ["she", "girlfriend", "lover"]
+      "meaning": [
+        "she",
+        "girlfriend",
+        "lover"
+      ]
     },
     {
+      "uid": "ch05-020",
       "japanese": "家族",
       "reading": "かぞく",
       "romaji": "kazoku",
-      "meaning": ["family"]
+      "meaning": [
+        "family"
+      ]
     },
     {
+      "uid": "ch05-021",
       "japanese": "一人で",
       "reading": "ひとりで",
       "romaji": "hitori de",
-      "meaning": ["alone", "by oneself"]
+      "meaning": [
+        "alone",
+        "by oneself"
+      ]
     },
     {
+      "uid": "ch05-022",
       "japanese": "先週",
       "reading": "せんしゅう",
       "romaji": "senshuu",
-      "meaning": ["last week"]
+      "meaning": [
+        "last week"
+      ]
     },
     {
+      "uid": "ch05-023",
       "japanese": "今週",
       "reading": "こんしゅう",
       "romaji": "konshuu",
-      "meaning": ["this week"]
+      "meaning": [
+        "this week"
+      ]
     },
     {
+      "uid": "ch05-024",
       "japanese": "来週",
       "reading": "らいしゅう",
       "romaji": "raishuu",
-      "meaning": ["next week"]
+      "meaning": [
+        "next week"
+      ]
     },
     {
+      "uid": "ch05-025",
       "japanese": "先月",
       "reading": "せんげつ",
       "romaji": "sengetsu",
-      "meaning": ["last month"]
+      "meaning": [
+        "last month"
+      ]
     },
     {
+      "uid": "ch05-026",
       "japanese": "今月",
       "reading": "こんげつ",
       "romaji": "kongetsu",
-      "meaning": ["this month"]
+      "meaning": [
+        "this month"
+      ]
     },
     {
+      "uid": "ch05-027",
       "japanese": "来月",
       "reading": "らいげつ",
       "romaji": "raigetsu",
-      "meaning": ["next month"]
+      "meaning": [
+        "next month"
+      ]
     },
     {
+      "uid": "ch05-028",
       "japanese": "去年",
       "reading": "きょねん",
       "romaji": "kyonen",
-      "meaning": ["last year"]
+      "meaning": [
+        "last year"
+      ]
     },
     {
+      "uid": "ch05-029",
       "japanese": "今年",
       "reading": "ことし",
       "romaji": "kotoshi",
-      "meaning": ["this year"]
+      "meaning": [
+        "this year"
+      ]
     },
     {
+      "uid": "ch05-030",
       "japanese": "来年",
       "reading": "らいねん",
       "romaji": "rainen",
-      "meaning": ["next year"]
+      "meaning": [
+        "next year"
+      ]
     },
     {
+      "uid": "ch05-031",
       "japanese": "ー月",
       "reading": "ーがつ",
       "romaji": "-gatsu",
-      "meaning": ["-th month of the year"]
+      "meaning": [
+        "-th month of the year"
+      ]
     },
     {
+      "uid": "ch05-032",
       "japanese": "何月",
       "reading": "なんがつ",
       "romaji": "nangatsu",
-      "meaning": ["what month"]
+      "meaning": [
+        "what month"
+      ]
     },
     {
+      "uid": "ch05-033",
       "japanese": "１日",
       "reading": "ついたち",
       "romaji": "tsuitachi",
-      "meaning": ["first day of the month"]
+      "meaning": [
+        "first day of the month"
+      ]
     },
     {
+      "uid": "ch05-034",
       "japanese": "２日",
       "reading": "ふつか",
       "romaji": "futsuka",
-      "meaning": ["second", "two days"]
+      "meaning": [
+        "second",
+        "two days"
+      ]
     },
     {
+      "uid": "ch05-035",
       "japanese": "３日",
       "reading": "みっか",
       "romaji": "mikka",
-      "meaning": ["third", "three days"]
+      "meaning": [
+        "third",
+        "three days"
+      ]
     },
     {
+      "uid": "ch05-036",
       "japanese": "４日",
       "reading": "よっか",
       "romaji": "yokka",
-      "meaning": ["fourth", "four days"]
+      "meaning": [
+        "fourth",
+        "four days"
+      ]
     },
     {
+      "uid": "ch05-037",
       "japanese": "５日",
       "reading": "いつか",
       "romaji": "itsuka",
-      "meaning": ["fifth", "five days"]
+      "meaning": [
+        "fifth",
+        "five days"
+      ]
     },
     {
+      "uid": "ch05-038",
       "japanese": "６日",
       "reading": "むいか",
       "romaji": "muika",
-      "meaning": ["sixth", "six days"]
+      "meaning": [
+        "sixth",
+        "six days"
+      ]
     },
     {
+      "uid": "ch05-039",
       "japanese": "７日",
       "reading": "なのか",
       "romaji": "nanoka",
-      "meaning": ["seventh", "seven days"]
+      "meaning": [
+        "seventh",
+        "seven days"
+      ]
     },
     {
+      "uid": "ch05-040",
       "japanese": "８日",
       "reading": "ようか",
       "romaji": "youka",
-      "meaning": ["eighth", "eight days"]
+      "meaning": [
+        "eighth",
+        "eight days"
+      ]
     },
     {
+      "uid": "ch05-041",
       "japanese": "９日",
       "reading": "ここのか",
       "romaji": "kokonoka",
-      "meaning": ["ninth", "nine days"]
+      "meaning": [
+        "ninth",
+        "nine days"
+      ]
     },
     {
+      "uid": "ch05-042",
       "japanese": "１０日",
       "reading": "とおか",
       "romaji": "tooka",
-      "meaning": ["tenth", "ten days"]
+      "meaning": [
+        "tenth",
+        "ten days"
+      ]
     },
     {
+      "uid": "ch05-043",
       "japanese": "１４日",
       "reading": "じゅうよっか",
       "romaji": "juuyokka",
-      "meaning": ["fourteenth", "fourteen days"]
+      "meaning": [
+        "fourteenth",
+        "fourteen days"
+      ]
     },
     {
+      "uid": "ch05-044",
       "japanese": "２０日",
       "reading": "はつか",
       "romaji": "hatsuka",
-      "meaning": ["twentieth", "twenty days"]
+      "meaning": [
+        "twentieth",
+        "twenty days"
+      ]
     },
     {
+      "uid": "ch05-045",
       "japanese": "２４日",
       "reading": "にじゅうよっか",
       "romaji": "nijuuyokka",
-      "meaning": ["twenty fourth", "twenty four days"]
+      "meaning": [
+        "twenty fourth",
+        "twenty four days"
+      ]
     },
     {
+      "uid": "ch05-046",
       "japanese": "ー日",
       "reading": "ーにち",
       "romaji": "-nichi",
-      "meaning": ["-th day of the month", "ー days"]
+      "meaning": [
+        "-th day of the month",
+        "ー days"
+      ]
     },
     {
+      "uid": "ch05-047",
       "japanese": "何日",
       "reading": "なんにち",
       "romaji": "nannichi",
-      "meaning": ["which day of the month", "how many days"]
+      "meaning": [
+        "which day of the month",
+        "how many days"
+      ]
     },
     {
+      "uid": "ch05-048",
       "japanese": "いつ",
       "reading": "いつ",
       "romaji": "itsu",
-      "meaning": ["when"]
+      "meaning": [
+        "when"
+      ]
     },
     {
+      "uid": "ch05-049",
       "japanese": "誕生日",
       "reading": "たんじょうび",
       "romaji": "tanjoubi",
-      "meaning": ["birthday"]
+      "meaning": [
+        "birthday"
+      ]
     },
     {
+      "uid": "ch05-050",
       "japanese": "普通",
       "reading": "ふつう",
       "romaji": "futsuu",
-      "meaning": ["local (train)"]
+      "meaning": [
+        "local (train)"
+      ]
     },
     {
+      "uid": "ch05-051",
       "japanese": "急行",
       "reading": "きゅうこう",
       "romaji": "kyuukou",
-      "meaning": ["rapid"]
+      "meaning": [
+        "rapid"
+      ]
     },
     {
+      "uid": "ch05-052",
       "japanese": "特急",
       "reading": "とっきゅう",
       "romaji": "tokkyuu",
-      "meaning": ["express"]
+      "meaning": [
+        "express"
+      ]
     },
     {
+      "uid": "ch05-053",
       "japanese": "次の",
       "reading": "つぎの",
       "romaji": "tsugino",
-      "meaning": ["next"]
+      "meaning": [
+        "next"
+      ]
     },
     {
+      "uid": "ch05-054",
       "japanese": "どう いたしまして。",
       "reading": "どう いたしまして。",
       "romaji": "dou itashimashite.",
-      "meaning": ["You're welcome.", "Don't mention it."]
+      "meaning": [
+        "You're welcome.",
+        "Don't mention it."
+      ]
     },
     {
+      "uid": "ch05-055",
       "japanese": "ー番線",
       "reading": "ーばんせん",
       "romaji": "-bansen",
-      "meaning": ["platform ー", "-th platform"]
+      "meaning": [
+        "platform ー",
+        "-th platform"
+      ]
     },
     {
+      "uid": "ch05-056",
       "japanese": "博多",
       "reading": "はかた",
       "romaji": "hakata",
-      "meaning": ["name of a town in Kyushu"]
+      "meaning": [
+        "name of a town in Kyushu"
+      ]
     },
     {
+      "uid": "ch05-057",
       "japanese": "伏見",
       "reading": "ふしみ",
       "romaji": "fushimi",
-      "meaning": ["name of a town in Kyoto"]
+      "meaning": [
+        "name of a town in Kyoto"
+      ]
     },
     {
+      "uid": "ch05-058",
       "japanese": "甲子園",
       "reading": "こうしえん",
       "romaji": "koushien",
-      "meaning": ["name of a town near Osaka"]
+      "meaning": [
+        "name of a town near Osaka"
+      ]
     },
     {
+      "uid": "ch05-059",
       "japanese": "大阪城",
       "reading": "おおさかじょう",
       "romaji": "oosakajou",
-      "meaning": ["Osaka Castle, a famous castle in Osaka"]
+      "meaning": [
+        "Osaka Castle, a famous castle in Osaka"
+      ]
     }
   ]
 }

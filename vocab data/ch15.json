@@ -3,183 +3,274 @@
   "jlpt": "N5",
   "vocabulary": [
     {
+      "uid": "ch15-001",
       "japanese": "立ちます",
       "reading": "たちます",
       "romaji": "tachimasu",
-      "meaning": ["stand up"],
+      "meaning": [
+        "stand up"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch15-002",
       "japanese": "座ります",
       "reading": "すわります",
       "romaji": "suwarimasu",
-      "meaning": ["sit down"],
+      "meaning": [
+        "sit down"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch15-003",
       "japanese": "使います",
       "reading": "つかいます",
       "romaji": "tsukaimasu",
-      "meaning": ["use"],
+      "meaning": [
+        "use"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch15-004",
       "japanese": "置きます",
       "reading": "おきます",
       "romaji": "okimasu",
-      "meaning": ["put"],
+      "meaning": [
+        "put"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch15-005",
       "japanese": "作ります、造ります",
       "reading": "つくります",
       "romaji": "tsukurimasu",
-      "meaning": ["make", "produce"],
+      "meaning": [
+        "make",
+        "produce"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch15-006",
       "japanese": "売ります",
       "reading": "うります",
       "romaji": "urimasu",
-      "meaning": ["sell"],
+      "meaning": [
+        "sell"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch15-007",
       "japanese": "知ります",
       "reading": "しります",
       "romaji": "shirimasu",
-      "meaning": ["get to know"],
+      "meaning": [
+        "get to know"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch15-008",
       "japanese": "住みます",
       "reading": "すみます",
       "romaji": "sumimasu",
-      "meaning": ["be going to live"],
+      "meaning": [
+        "be going to live"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch15-009",
       "japanese": "研究します",
       "reading": "けんきゅうします",
       "romaji": "kenkyuushimasu",
-      "meaning": ["do research"],
+      "meaning": [
+        "do research"
+      ],
       "verb_group": "III"
     },
     {
+      "uid": "ch15-010",
       "japanese": "知っています",
       "reading": "しっています",
       "romaji": "shitteimasu",
-      "meaning": ["know"]
+      "meaning": [
+        "know"
+      ]
     },
     {
+      "uid": "ch15-011",
       "japanese": "住んでいます ［大阪に～］",
       "reading": "すんでいます ［おおさかに～］",
       "romaji": "sundeimasu [oosaka ni ~]",
-      "meaning": ["live [in Osaka]"]
+      "meaning": [
+        "live [in Osaka]"
+      ]
     },
     {
+      "uid": "ch15-012",
       "japanese": "資料",
       "reading": "しりょう",
       "romaji": "shiryou",
-      "meaning": ["materials", "data"]
+      "meaning": [
+        "materials",
+        "data"
+      ]
     },
     {
+      "uid": "ch15-013",
       "japanese": "カタログ",
       "reading": "カタログ",
       "romaji": "katarogu",
-      "meaning": ["catalog"]
+      "meaning": [
+        "catalog"
+      ]
     },
     {
+      "uid": "ch15-014",
       "japanese": "時刻表",
       "reading": "じこくひょう",
       "romaji": "jikokuhyou",
-      "meaning": ["timetable"]
+      "meaning": [
+        "timetable"
+      ]
     },
     {
+      "uid": "ch15-015",
       "japanese": "服",
       "reading": "ふく",
       "romaji": "fuku",
-      "meaning": ["clothes"]
+      "meaning": [
+        "clothes"
+      ]
     },
     {
+      "uid": "ch15-016",
       "japanese": "製品",
       "reading": "せいひん",
       "romaji": "seihin",
-      "meaning": ["products"]
+      "meaning": [
+        "products"
+      ]
     },
     {
+      "uid": "ch15-017",
       "japanese": "ソフト",
       "reading": "ソフト",
       "romaji": "sofuto",
-      "meaning": ["software"]
+      "meaning": [
+        "software"
+      ]
     },
     {
+      "uid": "ch15-018",
       "japanese": "専門",
       "reading": "せんもん",
       "romaji": "senmon",
-      "meaning": ["speciality", "field of study"]
+      "meaning": [
+        "speciality",
+        "field of study"
+      ]
     },
     {
+      "uid": "ch15-019",
       "japanese": "歯医者",
       "reading": "はいしゃ",
       "romaji": "haisha",
-      "meaning": ["dentist", "dentist's"]
+      "meaning": [
+        "dentist",
+        "dentist's"
+      ]
     },
     {
+      "uid": "ch15-020",
       "japanese": "床屋",
       "reading": "とこや",
       "romaji": "tokoya",
-      "meaning": ["barber", "barber's"]
+      "meaning": [
+        "barber",
+        "barber's"
+      ]
     },
     {
+      "uid": "ch15-021",
       "japanese": "プレイガイド",
       "reading": "プレイガイド",
       "romaji": "pureigaido",
-      "meaning": ["(theater) ticket agency"]
+      "meaning": [
+        "(theater) ticket agency"
+      ]
     },
     {
+      "uid": "ch15-022",
       "japanese": "独身",
       "reading": "どくしん",
       "romaji": "dokushin",
-      "meaning": ["single", "unmarried"]
+      "meaning": [
+        "single",
+        "unmarried"
+      ]
     },
     {
+      "uid": "ch15-023",
       "japanese": "特に",
       "reading": "とくに",
       "romaji": "tokuni",
-      "meaning": ["especially"]
+      "meaning": [
+        "especially"
+      ]
     },
     {
+      "uid": "ch15-024",
       "japanese": "思い出します",
       "reading": "おもいだします",
       "romaji": "omoidashimasu",
-      "meaning": ["remember", "recollect"],
+      "meaning": [
+        "remember",
+        "recollect"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch15-025",
       "japanese": "ご家族",
       "reading": "ごかぞく",
       "romaji": "gokazoku",
-      "meaning": ["your family"]
+      "meaning": [
+        "your family"
+      ]
     },
     {
+      "uid": "ch15-026",
       "japanese": "いらっしゃいます",
       "reading": "いらっしゃいます",
       "romaji": "irasshaimasu",
-      "meaning": ["be (honorific equivalent of います)"],
+      "meaning": [
+        "be (honorific equivalent of います)"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch15-027",
       "japanese": "高校",
       "reading": "こうこう",
       "romaji": "koukou",
-      "meaning": ["senior high school"]
+      "meaning": [
+        "senior high school"
+      ]
     },
     {
+      "uid": "ch15-028",
       "japanese": "日本橋",
       "reading": "にっぽんばし",
       "romaji": "nipponbashi",
-      "meaning": ["name of a shopping district in Osaka"]
+      "meaning": [
+        "name of a shopping district in Osaka"
+      ]
     }
   ]
 }

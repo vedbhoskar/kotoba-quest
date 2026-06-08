@@ -3,215 +3,327 @@
   "jlpt": "N5",
   "vocabulary": [
     {
+      "uid": "ch13-001",
       "japanese": "遊びます",
       "reading": "あそびます",
       "romaji": "asobimasu",
-      "meaning": ["enjoy oneself", "play"],
+      "meaning": [
+        "enjoy oneself",
+        "play"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch13-002",
       "japanese": "泳ぎます",
       "reading": "およぎます",
       "romaji": "oyogimasu",
-      "meaning": ["swim"],
+      "meaning": [
+        "swim"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch13-003",
       "japanese": "迎えます",
       "reading": "むかえます",
       "romaji": "mukaemasu",
-      "meaning": ["go to meet", "welcome"],
+      "meaning": [
+        "go to meet",
+        "welcome"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch13-004",
       "japanese": "疲れます",
       "reading": "つかれます",
       "romaji": "tsukaremasu",
-      "meaning": ["get tired"],
+      "meaning": [
+        "get tired"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch13-005",
       "japanese": "出します ［手紙を～］",
       "reading": "だします ［てがみを～］",
       "romaji": "dashimasu [tegami o ~]",
-      "meaning": ["send [a letter]"],
+      "meaning": [
+        "send [a letter]"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch13-006",
       "japanese": "入ります ［喫茶店に～］",
       "reading": "はいります ［きっさてんに～］",
       "romaji": "hairimasu [kissaten ni ~]",
-      "meaning": ["enter [a coffee shop]"],
+      "meaning": [
+        "enter [a coffee shop]"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch13-007",
       "japanese": "出ます ［喫茶店を～］",
       "reading": "でます ［きっさてんを～］",
       "romaji": "demasu [kissaten o ~]",
-      "meaning": ["go out [of a coffee shop]"],
+      "meaning": [
+        "go out [of a coffee shop]"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch13-008",
       "japanese": "結婚します",
       "reading": "けっこんします",
       "romaji": "kekkonshimasu",
-      "meaning": ["marry", "get married"],
+      "meaning": [
+        "marry",
+        "get married"
+      ],
       "verb_group": "III"
     },
     {
+      "uid": "ch13-009",
       "japanese": "買い物します",
       "reading": "かいものします",
       "romaji": "kaimonoshimasu",
-      "meaning": ["do shopping"],
+      "meaning": [
+        "do shopping"
+      ],
       "verb_group": "III"
     },
     {
+      "uid": "ch13-010",
       "japanese": "食事します",
       "reading": "しょくじします",
       "romaji": "shokujishimasu",
-      "meaning": ["have a meal", "dine"],
+      "meaning": [
+        "have a meal",
+        "dine"
+      ],
       "verb_group": "III"
     },
     {
+      "uid": "ch13-011",
       "japanese": "散歩します ［公園を～］",
       "reading": "さんぽします ［こうえんを～］",
       "romaji": "sanposhimasu [kouen o ~]",
-      "meaning": ["take a walk [in a park]"],
+      "meaning": [
+        "take a walk [in a park]"
+      ],
       "verb_group": "III"
     },
     {
+      "uid": "ch13-012",
       "japanese": "大変［な］",
       "reading": "たいへん［な］",
       "romaji": "taihen [na]",
-      "meaning": ["hard", "tough", "severe", "awful"]
+      "meaning": [
+        "hard",
+        "tough",
+        "severe",
+        "awful"
+      ]
     },
     {
+      "uid": "ch13-013",
       "japanese": "欲しい",
       "reading": "ほしい",
       "romaji": "hoshii",
-      "meaning": ["want (something)"]
+      "meaning": [
+        "want (something)"
+      ]
     },
     {
+      "uid": "ch13-014",
       "japanese": "寂しい",
       "reading": "さびしい",
       "romaji": "sabishii",
-      "meaning": ["lonely"]
+      "meaning": [
+        "lonely"
+      ]
     },
     {
+      "uid": "ch13-015",
       "japanese": "広い",
       "reading": "ひろい",
       "romaji": "hiroi",
-      "meaning": ["wide", "spacious"]
+      "meaning": [
+        "wide",
+        "spacious"
+      ]
     },
     {
+      "uid": "ch13-016",
       "japanese": "狭い",
       "reading": "せまい",
       "romaji": "semai",
-      "meaning": ["narrow", "small (room, etc.)"]
+      "meaning": [
+        "narrow",
+        "small (room, etc.)"
+      ]
     },
     {
+      "uid": "ch13-017",
       "japanese": "市役所",
       "reading": "しやくしょ",
       "romaji": "shiyakusho",
-      "meaning": ["municipal office", "city hall"]
+      "meaning": [
+        "municipal office",
+        "city hall"
+      ]
     },
     {
+      "uid": "ch13-018",
       "japanese": "プール",
       "reading": "プール",
       "romaji": "puuru",
-      "meaning": ["swimming pool"]
+      "meaning": [
+        "swimming pool"
+      ]
     },
     {
+      "uid": "ch13-019",
       "japanese": "川",
       "reading": "かわ",
       "romaji": "kawa",
-      "meaning": ["river"]
+      "meaning": [
+        "river"
+      ]
     },
     {
+      "uid": "ch13-020",
       "japanese": "経済",
       "reading": "けいざい",
       "romaji": "keizai",
-      "meaning": ["economy"]
+      "meaning": [
+        "economy"
+      ]
     },
     {
+      "uid": "ch13-021",
       "japanese": "美術",
       "reading": "びじゅつ",
       "romaji": "bijutsu",
-      "meaning": ["fine arts"]
+      "meaning": [
+        "fine arts"
+      ]
     },
     {
+      "uid": "ch13-022",
       "japanese": "釣り",
       "reading": "つり",
       "romaji": "tsuri",
-      "meaning": ["fishing (～を します: fish, angle)"]
+      "meaning": [
+        "fishing (～を します: fish, angle)"
+      ]
     },
     {
+      "uid": "ch13-023",
       "japanese": "スキー",
       "reading": "スキー",
       "romaji": "sukii",
-      "meaning": ["skiing (～を します: ski)"]
+      "meaning": [
+        "skiing (～を します: ski)"
+      ]
     },
     {
+      "uid": "ch13-024",
       "japanese": "会議",
       "reading": "かいぎ",
       "romaji": "kaigi",
-      "meaning": ["meeting", "conference (～を します: hold a conference)"]
+      "meaning": [
+        "meeting",
+        "conference (～を します: hold a conference)"
+      ]
     },
     {
+      "uid": "ch13-025",
       "japanese": "登録",
       "reading": "とうろく",
       "romaji": "touroku",
-      "meaning": ["registration (～を します: register)"]
+      "meaning": [
+        "registration (～を します: register)"
+      ]
     },
     {
+      "uid": "ch13-026",
       "japanese": "週末",
       "reading": "しゅうまつ",
       "romaji": "shuumatsu",
-      "meaning": ["weekend"]
+      "meaning": [
+        "weekend"
+      ]
     },
     {
+      "uid": "ch13-027",
       "japanese": "～ごろ",
       "reading": "～ごろ",
       "romaji": "~goro",
-      "meaning": ["about (time)"]
+      "meaning": [
+        "about (time)"
+      ]
     },
     {
+      "uid": "ch13-028",
       "japanese": "何か",
       "reading": "なにか",
       "romaji": "nanika",
-      "meaning": ["something"]
+      "meaning": [
+        "something"
+      ]
     },
     {
+      "uid": "ch13-029",
       "japanese": "どこか",
       "reading": "どこか",
       "romaji": "dokoka",
-      "meaning": ["somewhere", "some place"]
+      "meaning": [
+        "somewhere",
+        "some place"
+      ]
     },
     {
+      "uid": "ch13-030",
       "japanese": "おなかが すきました。",
       "reading": "おなかが すきました。",
       "romaji": "onaka ga sukimashita.",
-      "meaning": ["(I'm) hungry."]
+      "meaning": [
+        "(I'm) hungry."
+      ]
     },
     {
+      "uid": "ch13-031",
       "japanese": "おなかが いっぱいです。",
       "reading": "おなかが いっぱいです。",
       "romaji": "onaka ga ippai desu.",
-      "meaning": ["(I'm) full."]
+      "meaning": [
+        "(I'm) full."
+      ]
     },
     {
+      "uid": "ch13-032",
       "japanese": "のどが かわきました。",
       "reading": "のどが かわきました。",
       "romaji": "nodo ga kawakimashita.",
-      "meaning": ["(I'm) thirsty."]
+      "meaning": [
+        "(I'm) thirsty."
+      ]
     },
     {
+      "uid": "ch13-033",
       "japanese": "そうですね。",
       "reading": "そうですね。",
       "romaji": "sou desu ne.",
-      "meaning": ["I agree with you."]
+      "meaning": [
+        "I agree with you."
+      ]
     },
     {
+      "uid": "ch13-034",
       "japanese": "そう しましょう。",
       "reading": "そう しましょう。",
       "romaji": "sou shimashou.",
@@ -220,52 +332,76 @@
       ]
     },
     {
+      "uid": "ch13-035",
       "japanese": "ご注文は？",
       "reading": "ごちゅうもんは？",
       "romaji": "gochuumon wa?",
-      "meaning": ["May I take your order?"]
+      "meaning": [
+        "May I take your order?"
+      ]
     },
     {
+      "uid": "ch13-036",
       "japanese": "定食",
       "reading": "ていしょく",
       "romaji": "teishoku",
-      "meaning": ["set meal"]
+      "meaning": [
+        "set meal"
+      ]
     },
     {
+      "uid": "ch13-037",
       "japanese": "牛どん",
       "reading": "ぎゅうどん",
       "romaji": "gyuudon",
-      "meaning": ["bowl of rice topped with beef"]
+      "meaning": [
+        "bowl of rice topped with beef"
+      ]
     },
     {
+      "uid": "ch13-038",
       "japanese": "［少々］お待ちください。",
       "reading": "［しょうしょう］おまちください。",
       "romaji": "[shoushou] omachi kudasai.",
-      "meaning": ["Please wait [a moment]."]
+      "meaning": [
+        "Please wait [a moment]."
+      ]
     },
     {
+      "uid": "ch13-039",
       "japanese": "別々に",
       "reading": "べつべつに",
       "romaji": "betsubetsuni",
-      "meaning": ["separately"]
+      "meaning": [
+        "separately"
+      ]
     },
     {
+      "uid": "ch13-040",
       "japanese": "ロシア",
       "reading": "ロシア",
       "romaji": "roshia",
-      "meaning": ["Russia"]
+      "meaning": [
+        "Russia"
+      ]
     },
     {
+      "uid": "ch13-041",
       "japanese": "つるや",
       "reading": "つるや",
       "romaji": "tsuruya",
-      "meaning": ["fictitious Japanese restaurant"]
+      "meaning": [
+        "fictitious Japanese restaurant"
+      ]
     },
     {
+      "uid": "ch13-042",
       "japanese": "おはようテレビ",
       "reading": "おはようテレビ",
       "romaji": "ohayou terebi",
-      "meaning": ["fictitious TV program"]
+      "meaning": [
+        "fictitious TV program"
+      ]
     }
   ]
 }

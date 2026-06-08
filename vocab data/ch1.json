@@ -3,66 +3,103 @@
   "jlpt": "N5",
   "vocabulary": [
     {
+      "uid": "ch01-001",
       "japanese": "わたし",
       "reading": "わたし",
       "romaji": "watashi",
-      "meaning": ["I"]
+      "meaning": [
+        "I"
+      ]
     },
     {
+      "uid": "ch01-002",
       "japanese": "わたしたち",
       "reading": "わたしたち",
       "romaji": "watashitachi",
-      "meaning": ["we"]
+      "meaning": [
+        "we"
+      ]
     },
     {
+      "uid": "ch01-003",
       "japanese": "あなた",
       "reading": "あなた",
       "romaji": "anata",
-      "meaning": ["you"]
+      "meaning": [
+        "you"
+      ]
     },
     {
+      "uid": "ch01-004",
       "japanese": "あの人",
       "reading": "あのひと",
       "romaji": "ano hito",
-      "meaning": ["that person", "he", "she"]
+      "meaning": [
+        "that person",
+        "he",
+        "she"
+      ]
     },
     {
+      "uid": "ch01-005",
       "japanese": "あの方",
       "reading": "あのかた",
       "romaji": "ano kata",
-      "meaning": ["that person", "he", "she (polite equivalent of あのひと)"]
+      "meaning": [
+        "that person",
+        "he",
+        "she (polite equivalent of あのひと)"
+      ]
     },
     {
+      "uid": "ch01-006",
       "japanese": "皆さん",
       "reading": "みなさん",
       "romaji": "minasan",
-      "meaning": ["ladies and gentlemen", "all of you"]
+      "meaning": [
+        "ladies and gentlemen",
+        "all of you"
+      ]
     },
     {
+      "uid": "ch01-007",
       "japanese": "～さん",
       "reading": "～さん",
       "romaji": "~san",
-      "meaning": ["Mr.", "Ms."]
+      "meaning": [
+        "Mr.",
+        "Ms."
+      ]
     },
     {
+      "uid": "ch01-008",
       "japanese": "～ちゃん",
       "reading": "～ちゃん",
       "romaji": "~chan",
-      "meaning": ["suffix often added to a child's name instead of ～さん"]
+      "meaning": [
+        "suffix often added to a child's name instead of ～さん"
+      ]
     },
     {
+      "uid": "ch01-009",
       "japanese": "～君",
       "reading": "～くん",
       "romaji": "~kun",
-      "meaning": ["suffix often added to a boy's name"]
+      "meaning": [
+        "suffix often added to a boy's name"
+      ]
     },
     {
+      "uid": "ch01-010",
       "japanese": "～人",
       "reading": "～じん",
       "romaji": "~jin",
-      "meaning": ["suffix meaning 'a national of'"]
+      "meaning": [
+        "suffix meaning 'a national of'"
+      ]
     },
     {
+      "uid": "ch01-011",
       "japanese": "先生",
       "reading": "せんせい",
       "romaji": "sensei",
@@ -72,126 +109,190 @@
       ]
     },
     {
+      "uid": "ch01-012",
       "japanese": "教師",
       "reading": "きょうし",
       "romaji": "kyoushi",
-      "meaning": ["teacher", "instructor"]
+      "meaning": [
+        "teacher",
+        "instructor"
+      ]
     },
     {
+      "uid": "ch01-013",
       "japanese": "学生",
       "reading": "がくせい",
       "romaji": "gakusei",
-      "meaning": ["student"]
+      "meaning": [
+        "student"
+      ]
     },
     {
+      "uid": "ch01-014",
       "japanese": "会社員",
       "reading": "かいしゃいん",
       "romaji": "kaishain",
-      "meaning": ["company employee"]
+      "meaning": [
+        "company employee"
+      ]
     },
     {
+      "uid": "ch01-015",
       "japanese": "社員",
       "reading": "しゃいん",
       "romaji": "shain",
-      "meaning": ["employee of ~ Company"]
+      "meaning": [
+        "employee of ~ Company"
+      ]
     },
     {
+      "uid": "ch01-016",
       "japanese": "銀行員",
       "reading": "ぎんこういん",
       "romaji": "ginkouin",
-      "meaning": ["bank employee"]
+      "meaning": [
+        "bank employee"
+      ]
     },
     {
+      "uid": "ch01-017",
       "japanese": "医者",
       "reading": "いしゃ",
       "romaji": "isha",
-      "meaning": ["medical doctor"]
+      "meaning": [
+        "medical doctor"
+      ]
     },
     {
+      "uid": "ch01-018",
       "japanese": "研究者",
       "reading": "けんきゅうしゃ",
       "romaji": "kenkyuusha",
-      "meaning": ["researcher", "scholar"]
+      "meaning": [
+        "researcher",
+        "scholar"
+      ]
     },
     {
+      "uid": "ch01-019",
       "japanese": "エンジニア",
       "reading": "エンジニア",
       "romaji": "enjinia",
-      "meaning": ["engineer"]
+      "meaning": [
+        "engineer"
+      ]
     },
     {
+      "uid": "ch01-020",
       "japanese": "大学",
       "reading": "だいがく",
       "romaji": "daigaku",
-      "meaning": ["university"]
+      "meaning": [
+        "university"
+      ]
     },
     {
+      "uid": "ch01-021",
       "japanese": "病院",
       "reading": "びょういん",
       "romaji": "byouin",
-      "meaning": ["hospital"]
+      "meaning": [
+        "hospital"
+      ]
     },
     {
+      "uid": "ch01-022",
       "japanese": "電気",
       "reading": "でんき",
       "romaji": "denki",
-      "meaning": ["electricity", "light"]
+      "meaning": [
+        "electricity",
+        "light"
+      ]
     },
     {
+      "uid": "ch01-023",
       "japanese": "だれ",
       "reading": "だれ",
       "romaji": "dare",
-      "meaning": ["who"]
+      "meaning": [
+        "who"
+      ]
     },
     {
+      "uid": "ch01-024",
       "japanese": "どなた",
       "reading": "どなた",
       "romaji": "donata",
-      "meaning": ["who (polite equivalent of だれ)"]
+      "meaning": [
+        "who (polite equivalent of だれ)"
+      ]
     },
     {
+      "uid": "ch01-025",
       "japanese": "～歳",
       "reading": "～さい",
       "romaji": "~sai",
-      "meaning": ["~ years old"]
+      "meaning": [
+        "~ years old"
+      ]
     },
     {
+      "uid": "ch01-026",
       "japanese": "何歳",
       "reading": "なんさい",
       "romaji": "nansai",
-      "meaning": ["how old"]
+      "meaning": [
+        "how old"
+      ]
     },
     {
+      "uid": "ch01-027",
       "japanese": "おいくつ",
       "reading": "おいくつ",
       "romaji": "oikutsu",
-      "meaning": ["how old (polite equivalent of なんさい)"]
+      "meaning": [
+        "how old (polite equivalent of なんさい)"
+      ]
     },
     {
+      "uid": "ch01-028",
       "japanese": "はい",
       "reading": "はい",
       "romaji": "hai",
-      "meaning": ["yes"]
+      "meaning": [
+        "yes"
+      ]
     },
     {
+      "uid": "ch01-029",
       "japanese": "いいえ",
       "reading": "いいえ",
       "romaji": "iie",
-      "meaning": ["no"]
+      "meaning": [
+        "no"
+      ]
     },
     {
+      "uid": "ch01-030",
       "japanese": "失礼ですが",
       "reading": "しつれいですが",
       "romaji": "shitsurei desu ga",
-      "meaning": ["Excuse me, but"]
+      "meaning": [
+        "Excuse me, but"
+      ]
     },
     {
+      "uid": "ch01-031",
       "japanese": "お名前は？",
       "reading": "おなまえは？",
       "romaji": "o-namae wa?",
-      "meaning": ["May I have your name?"]
+      "meaning": [
+        "May I have your name?"
+      ]
     },
     {
+      "uid": "ch01-032",
       "japanese": "初めまして。",
       "reading": "はじめまして。",
       "romaji": "hajimemashite.",
@@ -200,6 +301,7 @@
       ]
     },
     {
+      "uid": "ch01-033",
       "japanese": "どうぞ よろしく [お願いします]。",
       "reading": "どうぞ よろしく [おねがいします]。",
       "romaji": "douzo yoroshiku [onegaishimasu].",
@@ -208,106 +310,157 @@
       ]
     },
     {
+      "uid": "ch01-034",
       "japanese": "こちらは ～さんです。",
       "reading": "こちらは ～さんです。",
       "romaji": "kochira wa ~san desu.",
-      "meaning": ["This is Mr./Ms.~."]
+      "meaning": [
+        "This is Mr./Ms.~."
+      ]
     },
     {
+      "uid": "ch01-035",
       "japanese": "～から 来ました。",
       "reading": "～から きました。",
       "romaji": "~kara kimashita.",
-      "meaning": ["I came (come) from ~."]
+      "meaning": [
+        "I came (come) from ~."
+      ]
     },
     {
+      "uid": "ch01-036",
       "japanese": "アメリカ",
       "reading": "アメリカ",
       "romaji": "amerika",
-      "meaning": ["U.S.A."]
+      "meaning": [
+        "U.S.A."
+      ]
     },
     {
+      "uid": "ch01-037",
       "japanese": "イギリス",
       "reading": "イギリス",
       "romaji": "igirisu",
-      "meaning": ["U.K."]
+      "meaning": [
+        "U.K."
+      ]
     },
     {
+      "uid": "ch01-038",
       "japanese": "インド",
       "reading": "インド",
       "romaji": "indo",
-      "meaning": ["India"]
+      "meaning": [
+        "India"
+      ]
     },
     {
+      "uid": "ch01-039",
       "japanese": "インドネシア",
       "reading": "インドネシア",
       "romaji": "indoneshia",
-      "meaning": ["Indonesia"]
+      "meaning": [
+        "Indonesia"
+      ]
     },
     {
+      "uid": "ch01-040",
       "japanese": "韓国",
       "reading": "かんこく",
       "romaji": "kankoku",
-      "meaning": ["South Korea"]
+      "meaning": [
+        "South Korea"
+      ]
     },
     {
+      "uid": "ch01-041",
       "japanese": "タイ",
       "reading": "タイ",
       "romaji": "tai",
-      "meaning": ["Thailand"]
+      "meaning": [
+        "Thailand"
+      ]
     },
     {
+      "uid": "ch01-042",
       "japanese": "中国",
       "reading": "ちゅうごく",
       "romaji": "chuugoku",
-      "meaning": ["China"]
+      "meaning": [
+        "China"
+      ]
     },
     {
+      "uid": "ch01-043",
       "japanese": "ドイツ",
       "reading": "ドイツ",
       "romaji": "doitsu",
-      "meaning": ["Germany"]
+      "meaning": [
+        "Germany"
+      ]
     },
     {
+      "uid": "ch01-044",
       "japanese": "日本",
       "reading": "にほん",
       "romaji": "nihon",
-      "meaning": ["Japan"]
+      "meaning": [
+        "Japan"
+      ]
     },
     {
+      "uid": "ch01-045",
       "japanese": "フランス",
       "reading": "フランス",
       "romaji": "furansu",
-      "meaning": ["France"]
+      "meaning": [
+        "France"
+      ]
     },
     {
+      "uid": "ch01-046",
       "japanese": "ブラジル",
       "reading": "ブラジル",
       "romaji": "burajiru",
-      "meaning": ["Brazil"]
+      "meaning": [
+        "Brazil"
+      ]
     },
     {
+      "uid": "ch01-047",
       "japanese": "さくら大学 / 富士大学",
       "reading": "さくらだいがく / ふじだいがく",
       "romaji": "sakura daigaku / fuji daigaku",
-      "meaning": ["fictitious universities"]
+      "meaning": [
+        "fictitious universities"
+      ]
     },
     {
+      "uid": "ch01-048",
       "japanese": "ＩＭＣ / パワー電気 / ブラジルエアー",
       "reading": "ＩＭＣ / パワーでんき / ブラジルエアー",
       "romaji": "IMC / pawaa denki / burajiru eaa",
-      "meaning": ["fictitious companies"]
+      "meaning": [
+        "fictitious companies"
+      ]
     },
     {
+      "uid": "ch01-049",
       "japanese": "ＡＫＣ",
       "reading": "ＡＫＣ",
       "romaji": "AKC",
-      "meaning": ["fictitious institute"]
+      "meaning": [
+        "fictitious institute"
+      ]
     },
     {
+      "uid": "ch01-050",
       "japanese": "神戸病院",
       "reading": "こうべびょういん",
       "romaji": "koube byouin",
-      "meaning": ["fictitious hospital"]
+      "meaning": [
+        "fictitious hospital"
+      ]
     }
   ]
 }

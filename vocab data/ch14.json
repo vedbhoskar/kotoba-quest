@@ -3,268 +3,401 @@
   "jlpt": "N5",
   "vocabulary": [
     {
+      "uid": "ch14-001",
       "japanese": "つけます",
       "reading": "つけます",
       "romaji": "tsukemasu",
-      "meaning": ["turn on"],
+      "meaning": [
+        "turn on"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch14-002",
       "japanese": "消します",
       "reading": "けします",
       "romaji": "keshimasu",
-      "meaning": ["turn off"],
+      "meaning": [
+        "turn off"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch14-003",
       "japanese": "開けます",
       "reading": "あけます",
       "romaji": "akemasu",
-      "meaning": ["open"],
+      "meaning": [
+        "open"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch14-004",
       "japanese": "閉めます",
       "reading": "しめます",
       "romaji": "shimemasu",
-      "meaning": ["close", "shut"],
+      "meaning": [
+        "close",
+        "shut"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch14-005",
       "japanese": "急ぎます",
       "reading": "いそぎます",
       "romaji": "isogimasu",
-      "meaning": ["hurry"],
+      "meaning": [
+        "hurry"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch14-006",
       "japanese": "待ちます",
       "reading": "まちます",
       "romaji": "machimasu",
-      "meaning": ["wait"],
+      "meaning": [
+        "wait"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch14-007",
       "japanese": "止めます",
       "reading": "とめます",
       "romaji": "tomemasu",
-      "meaning": ["stop", "park"],
+      "meaning": [
+        "stop",
+        "park"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch14-008",
       "japanese": "曲がります ［右へ～］",
       "reading": "まがります ［みぎへ～］",
       "romaji": "magarimasu [migi e ~]",
-      "meaning": ["turn [to the right]"],
+      "meaning": [
+        "turn [to the right]"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch14-009",
       "japanese": "持ちます",
       "reading": "もちます",
       "romaji": "mochimasu",
-      "meaning": ["hold"],
+      "meaning": [
+        "hold"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch14-010",
       "japanese": "取ります",
       "reading": "とります",
       "romaji": "torimasu",
-      "meaning": ["take", "pass"],
+      "meaning": [
+        "take",
+        "pass"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch14-011",
       "japanese": "手伝います",
       "reading": "てつだいます",
       "romaji": "tetsudaimasu",
-      "meaning": ["help (with a task)"],
+      "meaning": [
+        "help (with a task)"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch14-012",
       "japanese": "呼びます",
       "reading": "よびます",
       "romaji": "yobimasu",
-      "meaning": ["call"],
+      "meaning": [
+        "call"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch14-013",
       "japanese": "話します",
       "reading": "はなします",
       "romaji": "hanashimasu",
-      "meaning": ["speak", "talk"],
+      "meaning": [
+        "speak",
+        "talk"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch14-014",
       "japanese": "見せます",
       "reading": "みせます",
       "romaji": "misemasu",
-      "meaning": ["show"],
+      "meaning": [
+        "show"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch14-015",
       "japanese": "教えます ［住所を～］",
       "reading": "おしえます ［じゅうしょを～］",
       "romaji": "oshiemasu [juusho o ~]",
-      "meaning": ["tell [an address]"],
+      "meaning": [
+        "tell [an address]"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch14-016",
       "japanese": "始めます",
       "reading": "はじめます",
       "romaji": "hajimemasu",
-      "meaning": ["start", "begin"],
+      "meaning": [
+        "start",
+        "begin"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch14-017",
       "japanese": "降ります ［雨が～］",
       "reading": "ふります ［あめが～］",
       "romaji": "furimasu [ame ga ~]",
-      "meaning": ["rain"],
+      "meaning": [
+        "rain"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch14-018",
       "japanese": "コピーします",
       "reading": "コピーします",
       "romaji": "kopiishimasu",
-      "meaning": ["copy"],
+      "meaning": [
+        "copy"
+      ],
       "verb_group": "III"
     },
     {
+      "uid": "ch14-019",
       "japanese": "エアコン",
       "reading": "エアコン",
       "romaji": "eakon",
-      "meaning": ["air conditioner"]
+      "meaning": [
+        "air conditioner"
+      ]
     },
     {
+      "uid": "ch14-020",
       "japanese": "パスポート",
       "reading": "パスポート",
       "romaji": "pasupooto",
-      "meaning": ["passport"]
+      "meaning": [
+        "passport"
+      ]
     },
     {
+      "uid": "ch14-021",
       "japanese": "名前",
       "reading": "なまえ",
       "romaji": "namae",
-      "meaning": ["name"]
+      "meaning": [
+        "name"
+      ]
     },
     {
+      "uid": "ch14-022",
       "japanese": "住所",
       "reading": "じゅうしょ",
       "romaji": "juusho",
-      "meaning": ["address"]
+      "meaning": [
+        "address"
+      ]
     },
     {
+      "uid": "ch14-023",
       "japanese": "地図",
       "reading": "ちず",
       "romaji": "chizu",
-      "meaning": ["map"]
+      "meaning": [
+        "map"
+      ]
     },
     {
+      "uid": "ch14-024",
       "japanese": "塩",
       "reading": "しお",
       "romaji": "shio",
-      "meaning": ["salt"]
+      "meaning": [
+        "salt"
+      ]
     },
     {
+      "uid": "ch14-025",
       "japanese": "砂糖",
       "reading": "さとう",
       "romaji": "satou",
-      "meaning": ["sugar"]
+      "meaning": [
+        "sugar"
+      ]
     },
     {
+      "uid": "ch14-026",
       "japanese": "読み方",
       "reading": "よみかた",
       "romaji": "yomikata",
-      "meaning": ["how to read", "way of reading"]
+      "meaning": [
+        "how to read",
+        "way of reading"
+      ]
     },
     {
+      "uid": "ch14-027",
       "japanese": "～方",
       "reading": "～かた",
       "romaji": "~kata",
-      "meaning": ["how to ~", "way of ~ ing"]
+      "meaning": [
+        "how to ~",
+        "way of ~ ing"
+      ]
     },
     {
+      "uid": "ch14-028",
       "japanese": "ゆっくり",
       "reading": "ゆっくり",
       "romaji": "yukkuri",
-      "meaning": ["slowly", "leisurely"]
+      "meaning": [
+        "slowly",
+        "leisurely"
+      ]
     },
     {
+      "uid": "ch14-029",
       "japanese": "すぐ",
       "reading": "すぐ",
       "romaji": "sugu",
-      "meaning": ["immediately"]
+      "meaning": [
+        "immediately"
+      ]
     },
     {
+      "uid": "ch14-030",
       "japanese": "また",
       "reading": "また",
       "romaji": "mata",
-      "meaning": ["again"]
+      "meaning": [
+        "again"
+      ]
     },
     {
+      "uid": "ch14-031",
       "japanese": "あとで",
       "reading": "あとで",
       "romaji": "atode",
-      "meaning": ["later"]
+      "meaning": [
+        "later"
+      ]
     },
     {
+      "uid": "ch14-032",
       "japanese": "もう 少し",
       "reading": "もう すこし",
       "romaji": "mou sukoshi",
-      "meaning": ["a little more"]
+      "meaning": [
+        "a little more"
+      ]
     },
     {
+      "uid": "ch14-033",
       "japanese": "もう ～",
       "reading": "もう ～",
       "romaji": "mou ~",
-      "meaning": ["~ more", "another ~"]
+      "meaning": [
+        "~ more",
+        "another ~"
+      ]
     },
     {
+      "uid": "ch14-034",
       "japanese": "いいですよ。",
       "reading": "いいですよ。",
       "romaji": "ii desu yo.",
-      "meaning": ["Sure.", "Certainly."]
+      "meaning": [
+        "Sure.",
+        "Certainly."
+      ]
     },
     {
+      "uid": "ch14-035",
       "japanese": "さあ",
       "reading": "さあ",
       "romaji": "saa",
-      "meaning": ["right (used when encouraging some course of action)"]
+      "meaning": [
+        "right (used when encouraging some course of action)"
+      ]
     },
     {
+      "uid": "ch14-036",
       "japanese": "あれ？",
       "reading": "あれ？",
       "romaji": "are?",
-      "meaning": ["Oh! (in surprise or in wonder)"]
+      "meaning": [
+        "Oh! (in surprise or in wonder)"
+      ]
     },
     {
+      "uid": "ch14-037",
       "japanese": "信号を 右へ 曲がって ください。",
       "reading": "しんごうを みぎへ まがって ください。",
       "romaji": "shingou o migi e magatte kudasai.",
-      "meaning": ["Turn to the right at the signal."]
+      "meaning": [
+        "Turn to the right at the signal."
+      ]
     },
     {
+      "uid": "ch14-038",
       "japanese": "まっすぐ",
       "reading": "まっすぐ",
       "romaji": "massugu",
-      "meaning": ["straight"]
+      "meaning": [
+        "straight"
+      ]
     },
     {
+      "uid": "ch14-039",
       "japanese": "これで お願いします。",
       "reading": "これで おねがいします。",
       "romaji": "kore de onegaishimasu.",
-      "meaning": ["I'd like to pay with this."]
+      "meaning": [
+        "I'd like to pay with this."
+      ]
     },
     {
+      "uid": "ch14-040",
       "japanese": "お釣り",
       "reading": "おつり",
       "romaji": "otsuri",
-      "meaning": ["change"]
+      "meaning": [
+        "change"
+      ]
     },
     {
+      "uid": "ch14-041",
       "japanese": "梅田",
       "reading": "うめだ",
       "romaji": "umeda",
-      "meaning": ["name of a town in Osaka"]
+      "meaning": [
+        "name of a town in Osaka"
+      ]
     }
   ]
 }

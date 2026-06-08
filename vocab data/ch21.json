@@ -3,127 +3,190 @@
   "jlpt": "N5",
   "vocabulary": [
     {
+      "uid": "ch21-001",
       "japanese": "思います",
       "reading": "おもいます",
       "romaji": "omoimasu",
-      "meaning": ["think"],
+      "meaning": [
+        "think"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch21-002",
       "japanese": "言います",
       "reading": "いいます",
       "romaji": "iimasu",
-      "meaning": ["say"],
+      "meaning": [
+        "say"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch21-003",
       "japanese": "足ります",
       "reading": "たります",
       "romaji": "tarimasu",
-      "meaning": ["be enough", "be sufficient"],
+      "meaning": [
+        "be enough",
+        "be sufficient"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch21-004",
       "japanese": "勝ちます",
       "reading": "かちます",
       "romaji": "kachimasu",
-      "meaning": ["win"],
+      "meaning": [
+        "win"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch21-005",
       "japanese": "負けます",
       "reading": "まけます",
       "romaji": "makemasu",
-      "meaning": ["lose", "be beaten"],
+      "meaning": [
+        "lose",
+        "be beaten"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch21-006",
       "japanese": "あります ［お祭りが～］",
       "reading": "あります ［おまつりが～］",
       "romaji": "arimasu [omatsuri ga ~]",
-      "meaning": ["[a festival] be held", "take place"],
+      "meaning": [
+        "[a festival] be held",
+        "take place"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch21-007",
       "japanese": "役に 立ちます",
       "reading": "やくに たちます",
       "romaji": "yaku ni tachimasu",
-      "meaning": ["be useful"],
+      "meaning": [
+        "be useful"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch21-008",
       "japanese": "むだ［な］",
       "reading": "むだ［な］",
       "romaji": "muda [na]",
-      "meaning": ["wasteful"]
+      "meaning": [
+        "wasteful"
+      ]
     },
     {
+      "uid": "ch21-009",
       "japanese": "不便［な］",
       "reading": "ふべん［な］",
       "romaji": "fuben [na]",
-      "meaning": ["inconvenient"]
+      "meaning": [
+        "inconvenient"
+      ]
     },
     {
+      "uid": "ch21-010",
       "japanese": "同じ",
       "reading": "おなじ",
       "romaji": "onaji",
-      "meaning": ["the same"]
+      "meaning": [
+        "the same"
+      ]
     },
     {
+      "uid": "ch21-011",
       "japanese": "すごい",
       "reading": "すごい",
       "romaji": "sugoi",
-      "meaning": ["awful", "great (expresses astonishment or admiration)"]
+      "meaning": [
+        "awful",
+        "great (expresses astonishment or admiration)"
+      ]
     },
     {
+      "uid": "ch21-012",
       "japanese": "首相",
       "reading": "しゅしょう",
       "romaji": "shushou",
-      "meaning": ["prime minister"]
+      "meaning": [
+        "prime minister"
+      ]
     },
     {
+      "uid": "ch21-013",
       "japanese": "大統領",
       "reading": "だいとうりょう",
       "romaji": "daitouryou",
-      "meaning": ["president"]
+      "meaning": [
+        "president"
+      ]
     },
     {
+      "uid": "ch21-014",
       "japanese": "政治",
       "reading": "せいじ",
       "romaji": "seiji",
-      "meaning": ["politics"]
+      "meaning": [
+        "politics"
+      ]
     },
     {
+      "uid": "ch21-015",
       "japanese": "ニュース",
       "reading": "ニュース",
       "romaji": "nyuusu",
-      "meaning": ["news"]
+      "meaning": [
+        "news"
+      ]
     },
     {
+      "uid": "ch21-016",
       "japanese": "スピーチ",
       "reading": "スピーチ",
       "romaji": "supiichi",
-      "meaning": ["speech (～を します: make a speech)"]
+      "meaning": [
+        "speech (～を します: make a speech)"
+      ]
     },
     {
+      "uid": "ch21-017",
       "japanese": "試合",
       "reading": "しあい",
       "romaji": "shiai",
-      "meaning": ["game", "match"]
+      "meaning": [
+        "game",
+        "match"
+      ]
     },
     {
+      "uid": "ch21-018",
       "japanese": "アルバイト",
       "reading": "アルバイト",
       "romaji": "arubaito",
-      "meaning": ["side job (～を します: work part time)"]
+      "meaning": [
+        "side job (～を します: work part time)"
+      ]
     },
     {
+      "uid": "ch21-019",
       "japanese": "意見",
       "reading": "いけん",
       "romaji": "iken",
-      "meaning": ["opinion"]
+      "meaning": [
+        "opinion"
+      ]
     },
     {
+      "uid": "ch21-020",
       "japanese": "［お］話",
       "reading": "［お］はなし",
       "romaji": "[o]hanashi",
@@ -132,78 +195,121 @@
       ]
     },
     {
+      "uid": "ch21-021",
       "japanese": "ユーモア",
       "reading": "ユーモア",
       "romaji": "yuumoa",
-      "meaning": ["humor"]
+      "meaning": [
+        "humor"
+      ]
     },
     {
+      "uid": "ch21-022",
       "japanese": "むだ",
       "reading": "むだ",
       "romaji": "muda",
-      "meaning": ["waste"]
+      "meaning": [
+        "waste"
+      ]
     },
     {
+      "uid": "ch21-023",
       "japanese": "デザイン",
       "reading": "デザイン",
       "romaji": "dezain",
-      "meaning": ["design"]
+      "meaning": [
+        "design"
+      ]
     },
     {
+      "uid": "ch21-024",
       "japanese": "交通",
       "reading": "こうつう",
       "romaji": "koutsuu",
-      "meaning": ["transportation", "traffic"]
+      "meaning": [
+        "transportation",
+        "traffic"
+      ]
     },
     {
+      "uid": "ch21-025",
       "japanese": "ラッシュ",
       "reading": "ラッシュ",
       "romaji": "rasshu",
-      "meaning": ["rush hour"]
+      "meaning": [
+        "rush hour"
+      ]
     },
     {
+      "uid": "ch21-026",
       "japanese": "最近",
       "reading": "さいきん",
       "romaji": "saikin",
-      "meaning": ["recently", "these days"]
+      "meaning": [
+        "recently",
+        "these days"
+      ]
     },
     {
+      "uid": "ch21-027",
       "japanese": "たぶん",
       "reading": "たぶん",
       "romaji": "tabun",
-      "meaning": ["probably", "perhaps", "maybe"]
+      "meaning": [
+        "probably",
+        "perhaps",
+        "maybe"
+      ]
     },
     {
+      "uid": "ch21-028",
       "japanese": "きっと",
       "reading": "きっと",
       "romaji": "kitto",
-      "meaning": ["surely"]
+      "meaning": [
+        "surely"
+      ]
     },
     {
+      "uid": "ch21-029",
       "japanese": "ほんとうに",
       "reading": "ほんとうに",
       "romaji": "hontouni",
-      "meaning": ["really"]
+      "meaning": [
+        "really"
+      ]
     },
     {
+      "uid": "ch21-030",
       "japanese": "そんなに",
       "reading": "そんなに",
       "romaji": "sonnani",
-      "meaning": ["not so much (used with negatives)"]
+      "meaning": [
+        "not so much (used with negatives)"
+      ]
     },
     {
+      "uid": "ch21-031",
       "japanese": "～に ついて",
       "reading": "～に ついて",
       "romaji": "~ni tsuite",
-      "meaning": ["about ～", "concerning ～"]
+      "meaning": [
+        "about ～",
+        "concerning ～"
+      ]
     },
     {
+      "uid": "ch21-032",
       "japanese": "しかたが ありません。",
       "reading": "しかたが ありません。",
       "romaji": "shikata ga arimasen.",
-      "meaning": ["There is no other choice.", "It can't be helped."]
+      "meaning": [
+        "There is no other choice.",
+        "It can't be helped."
+      ]
     },
     {
+      "uid": "ch21-033",
       "japanese": "しばらくですね。",
       "reading": "しばらくですね。",
       "romaji": "shibaraku desu ne.",
@@ -213,34 +319,49 @@
       ]
     },
     {
+      "uid": "ch21-034",
       "japanese": "～でも 飲みませんか。",
       "reading": "～でも のみませんか。",
       "romaji": "~demo nomimasen ka.",
-      "meaning": ["How about drinking ～ or something?"]
+      "meaning": [
+        "How about drinking ～ or something?"
+      ]
     },
     {
+      "uid": "ch21-035",
       "japanese": "見ないと……。",
       "reading": "みないと……。",
       "romaji": "minaito......",
-      "meaning": ["I've got to watch it."]
+      "meaning": [
+        "I've got to watch it."
+      ]
     },
     {
+      "uid": "ch21-036",
       "japanese": "もちろん",
       "reading": "もちろん",
       "romaji": "mochiron",
-      "meaning": ["of course"]
+      "meaning": [
+        "of course"
+      ]
     },
     {
+      "uid": "ch21-037",
       "japanese": "カンガルー",
       "reading": "カンガルー",
       "romaji": "kangaruu",
-      "meaning": ["kangaroo"]
+      "meaning": [
+        "kangaroo"
+      ]
     },
     {
+      "uid": "ch21-038",
       "japanese": "キャプテン・クック",
       "reading": "キャプテン・クック",
       "romaji": "kyaputen kukku",
-      "meaning": ["Captain James Cook (1728 - 79)"]
+      "meaning": [
+        "Captain James Cook (1728 - 79)"
+      ]
     }
   ]
 }

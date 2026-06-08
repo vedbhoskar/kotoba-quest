@@ -3,197 +3,289 @@
   "jlpt": "N5",
   "vocabulary": [
     {
+      "uid": "ch23-001",
       "japanese": "聞きます ［先生に～］",
       "reading": "ききます ［せんせいに～］",
       "romaji": "kikimasu [sensei ni ~]",
-      "meaning": ["ask [the teacher]"],
+      "meaning": [
+        "ask [the teacher]"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch23-002",
       "japanese": "回します",
       "reading": "まわします",
       "romaji": "mawashimasu",
-      "meaning": ["turn"],
+      "meaning": [
+        "turn"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch23-003",
       "japanese": "引きます",
       "reading": "ひきます",
       "romaji": "hikimasu",
-      "meaning": ["pull"],
+      "meaning": [
+        "pull"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch23-004",
       "japanese": "変えます",
       "reading": "かえます",
       "romaji": "kaemasu",
-      "meaning": ["change"],
+      "meaning": [
+        "change"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch23-005",
       "japanese": "触ります ［ドアに～］",
       "reading": "さわります ［ドアに～］",
       "romaji": "sawarimasu [doa ni ~]",
-      "meaning": ["touch [a door]"],
+      "meaning": [
+        "touch [a door]"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch23-006",
       "japanese": "出ます ［お釣りが～］",
       "reading": "でます ［おつりが～］",
       "romaji": "demasu [otsuri ga ~]",
-      "meaning": ["[change] come out"],
+      "meaning": [
+        "[change] come out"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch23-007",
       "japanese": "動きます ［時計が～］",
       "reading": "うごきます ［とけいが～］",
       "romaji": "ugokimasu [tokei ga ~]",
-      "meaning": ["[a watch] move, work"],
+      "meaning": [
+        "[a watch] move, work"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch23-008",
       "japanese": "歩きます ［道を～］",
       "reading": "あるきます ［みちを～］",
       "romaji": "arukimasu [michi o ~]",
-      "meaning": ["walk [along a road]"],
+      "meaning": [
+        "walk [along a road]"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch23-009",
       "japanese": "渡ります ［橋を～］",
       "reading": "わたります ［はしを～］",
       "romaji": "watarimasu [hashi o ~]",
-      "meaning": ["cross [a bridge]"],
+      "meaning": [
+        "cross [a bridge]"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch23-010",
       "japanese": "気を つけます ［車に～］",
       "reading": "きを つけます ［くるまに～］",
       "romaji": "ki o tsukemasu [kuruma ni ~]",
-      "meaning": ["pay attention [to cars]", "take care"],
+      "meaning": [
+        "pay attention [to cars]",
+        "take care"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch23-011",
       "japanese": "引っ越しします",
       "reading": "ひっこしします",
       "romaji": "hikkoshishimasu",
-      "meaning": ["move (house)"],
+      "meaning": [
+        "move (house)"
+      ],
       "verb_group": "III"
     },
     {
+      "uid": "ch23-012",
       "japanese": "電気屋",
       "reading": "でんきや",
       "romaji": "denkiya",
-      "meaning": ["electrician"]
+      "meaning": [
+        "electrician"
+      ]
     },
     {
+      "uid": "ch23-013",
       "japanese": "～屋",
       "reading": "～や",
       "romaji": "~ya",
-      "meaning": ["person of ~ shop"]
+      "meaning": [
+        "person of ~ shop"
+      ]
     },
     {
+      "uid": "ch23-014",
       "japanese": "サイズ",
       "reading": "サイズ",
       "romaji": "saizu",
-      "meaning": ["size"]
+      "meaning": [
+        "size"
+      ]
     },
     {
+      "uid": "ch23-015",
       "japanese": "音",
       "reading": "おと",
       "romaji": "oto",
-      "meaning": ["sound"]
+      "meaning": [
+        "sound"
+      ]
     },
     {
+      "uid": "ch23-016",
       "japanese": "機械",
       "reading": "きかい",
       "romaji": "kikai",
-      "meaning": ["machine"]
+      "meaning": [
+        "machine"
+      ]
     },
     {
+      "uid": "ch23-017",
       "japanese": "つまみ",
       "reading": "つまみ",
       "romaji": "tsumami",
-      "meaning": ["knob"]
+      "meaning": [
+        "knob"
+      ]
     },
     {
+      "uid": "ch23-018",
       "japanese": "故障",
       "reading": "こしょう",
       "romaji": "koshou",
-      "meaning": ["breakdown (～します: break down)"]
+      "meaning": [
+        "breakdown (～します: break down)"
+      ]
     },
     {
+      "uid": "ch23-019",
       "japanese": "道",
       "reading": "みち",
       "romaji": "michi",
-      "meaning": ["road, way"]
+      "meaning": [
+        "road, way"
+      ]
     },
     {
+      "uid": "ch23-020",
       "japanese": "交差点",
       "reading": "こうさてん",
       "romaji": "kousaten",
-      "meaning": ["crossroad"]
+      "meaning": [
+        "crossroad"
+      ]
     },
     {
+      "uid": "ch23-021",
       "japanese": "信号",
       "reading": "しんごう",
       "romaji": "shingou",
-      "meaning": ["traffic light"]
+      "meaning": [
+        "traffic light"
+      ]
     },
     {
+      "uid": "ch23-022",
       "japanese": "角",
       "reading": "かど",
       "romaji": "kado",
-      "meaning": ["corner"]
+      "meaning": [
+        "corner"
+      ]
     },
     {
+      "uid": "ch23-023",
       "japanese": "橋",
       "reading": "はし",
       "romaji": "hashi",
-      "meaning": ["bridge"]
+      "meaning": [
+        "bridge"
+      ]
     },
     {
+      "uid": "ch23-024",
       "japanese": "駐車場",
       "reading": "ちゅうしゃじょう",
       "romaji": "chuushajou",
-      "meaning": ["parking lot, car park"]
+      "meaning": [
+        "parking lot, car park"
+      ]
     },
     {
+      "uid": "ch23-025",
       "japanese": "ー目",
       "reading": "ーめ",
       "romaji": "-me",
-      "meaning": ["the -th (indicating order)"]
+      "meaning": [
+        "the -th (indicating order)"
+      ]
     },
     {
+      "uid": "ch23-026",
       "japanese": "［お］正月",
       "reading": "［お］しょうがつ",
       "romaji": "[o]shougatsu",
-      "meaning": ["New Year's Day"]
+      "meaning": [
+        "New Year's Day"
+      ]
     },
     {
+      "uid": "ch23-027",
       "japanese": "ごちそうさま［でした］。",
       "reading": "ごちそうさま［でした］。",
       "romaji": "gochisousama [deshita].",
-      "meaning": ["That was delicious. (said after eating or drinking)"]
+      "meaning": [
+        "That was delicious. (said after eating or drinking)"
+      ]
     },
     {
+      "uid": "ch23-028",
       "japanese": "建物",
       "reading": "たてもの",
       "romaji": "tatemono",
-      "meaning": ["building"]
+      "meaning": [
+        "building"
+      ]
     },
     {
+      "uid": "ch23-029",
       "japanese": "外国人登録証",
       "reading": "がいこくじんとうろくしょう",
       "romaji": "gaikokujin tourokushou",
-      "meaning": ["alien registration card"]
+      "meaning": [
+        "alien registration card"
+      ]
     },
     {
+      "uid": "ch23-030",
       "japanese": "聖徳太子",
       "reading": "しょうとくたいし",
       "romaji": "shoutokutaishi",
-      "meaning": ["Prince Shotoku (574 - 622)"]
+      "meaning": [
+        "Prince Shotoku (574 - 622)"
+      ]
     },
     {
+      "uid": "ch23-031",
       "japanese": "法隆寺",
       "reading": "ほうりゅうじ",
       "romaji": "houryuuji",
@@ -202,22 +294,31 @@
       ]
     },
     {
+      "uid": "ch23-032",
       "japanese": "元気茶",
       "reading": "げんきちゃ",
       "romaji": "genkicha",
-      "meaning": ["fictitious tea"]
+      "meaning": [
+        "fictitious tea"
+      ]
     },
     {
+      "uid": "ch23-033",
       "japanese": "本田駅",
       "reading": "ほんだえき",
       "romaji": "honda eki",
-      "meaning": ["fictitious station"]
+      "meaning": [
+        "fictitious station"
+      ]
     },
     {
+      "uid": "ch23-034",
       "japanese": "図書館前",
       "reading": "としょかんまえ",
       "romaji": "toshokan mae",
-      "meaning": ["fictitious bus stop"]
+      "meaning": [
+        "fictitious bus stop"
+      ]
     }
   ]
 }

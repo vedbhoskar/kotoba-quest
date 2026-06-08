@@ -3,328 +3,488 @@
   "jlpt": "N5",
   "vocabulary": [
     {
+      "uid": "ch11-001",
       "japanese": "います ［子どもが～］",
       "reading": "います ［こどもが～］",
       "romaji": "imasu [kodomo ga ~]",
-      "meaning": ["have [a child]"],
+      "meaning": [
+        "have [a child]"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch11-002",
       "japanese": "います ［日本に～］",
       "reading": "います ［にほんに～］",
       "romaji": "imasu [nihon ni ~]",
-      "meaning": ["stay, be [in Japan]"],
+      "meaning": [
+        "stay, be [in Japan]"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch11-003",
       "japanese": "かかります",
       "reading": "かかります",
       "romaji": "kakarimasu",
-      "meaning": ["take (referring to time or money)"],
+      "meaning": [
+        "take (referring to time or money)"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch11-004",
       "japanese": "休みます ［会社を～］",
       "reading": "やすみます ［かいしゃを～］",
       "romaji": "yasumimasu [kaisha o ~]",
-      "meaning": ["take a day off [work]"],
+      "meaning": [
+        "take a day off [work]"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch11-005",
       "japanese": "１つ",
       "reading": "ひとつ",
       "romaji": "hitotsu",
-      "meaning": ["one (used when counting things)"]
+      "meaning": [
+        "one (used when counting things)"
+      ]
     },
     {
+      "uid": "ch11-006",
       "japanese": "２つ",
       "reading": "ふたつ",
       "romaji": "futatsu",
-      "meaning": ["two"]
+      "meaning": [
+        "two"
+      ]
     },
     {
+      "uid": "ch11-007",
       "japanese": "３つ",
       "reading": "みっつ",
       "romaji": "mittsu",
-      "meaning": ["three"]
+      "meaning": [
+        "three"
+      ]
     },
     {
+      "uid": "ch11-008",
       "japanese": "４つ",
       "reading": "よっつ",
       "romaji": "yottsu",
-      "meaning": ["four"]
+      "meaning": [
+        "four"
+      ]
     },
     {
+      "uid": "ch11-009",
       "japanese": "５つ",
       "reading": "いつつ",
       "romaji": "itsutsu",
-      "meaning": ["five"]
+      "meaning": [
+        "five"
+      ]
     },
     {
+      "uid": "ch11-010",
       "japanese": "６つ",
       "reading": "むっつ",
       "romaji": "muttsu",
-      "meaning": ["six"]
+      "meaning": [
+        "six"
+      ]
     },
     {
+      "uid": "ch11-011",
       "japanese": "７つ",
       "reading": "ななつ",
       "romaji": "nanatsu",
-      "meaning": ["seven"]
+      "meaning": [
+        "seven"
+      ]
     },
     {
+      "uid": "ch11-012",
       "japanese": "８つ",
       "reading": "やっつ",
       "romaji": "yattsu",
-      "meaning": ["eight"]
+      "meaning": [
+        "eight"
+      ]
     },
     {
+      "uid": "ch11-013",
       "japanese": "９つ",
       "reading": "ここのつ",
       "romaji": "kokonotsu",
-      "meaning": ["nine"]
+      "meaning": [
+        "nine"
+      ]
     },
     {
+      "uid": "ch11-014",
       "japanese": "10",
       "reading": "とお",
       "romaji": "too",
-      "meaning": ["ten"]
+      "meaning": [
+        "ten"
+      ]
     },
     {
+      "uid": "ch11-015",
       "japanese": "いくつ",
       "reading": "いくつ",
       "romaji": "ikutsu",
-      "meaning": ["how many"]
+      "meaning": [
+        "how many"
+      ]
     },
     {
+      "uid": "ch11-016",
       "japanese": "１人",
       "reading": "ひとり",
       "romaji": "hitori",
-      "meaning": ["one person"]
+      "meaning": [
+        "one person"
+      ]
     },
     {
+      "uid": "ch11-017",
       "japanese": "２人",
       "reading": "ふたり",
       "romaji": "futari",
-      "meaning": ["two persons"]
+      "meaning": [
+        "two persons"
+      ]
     },
     {
+      "uid": "ch11-018",
       "japanese": "ー人",
       "reading": "ーにん",
       "romaji": "-nin",
-      "meaning": ["ー people"]
+      "meaning": [
+        "ー people"
+      ]
     },
     {
+      "uid": "ch11-019",
       "japanese": "ー台",
       "reading": "ーだい",
       "romaji": "-dai",
-      "meaning": ["(counter for machines, cars, etc.)"]
+      "meaning": [
+        "(counter for machines, cars, etc.)"
+      ]
     },
     {
+      "uid": "ch11-020",
       "japanese": "ー枚",
       "reading": "ーまい",
       "romaji": "-mai",
-      "meaning": ["(counter for paper, stamps, etc.)"]
+      "meaning": [
+        "(counter for paper, stamps, etc.)"
+      ]
     },
     {
+      "uid": "ch11-021",
       "japanese": "ー回",
       "reading": "ーかい",
       "romaji": "-kai",
-      "meaning": ["ー times"]
+      "meaning": [
+        "ー times"
+      ]
     },
     {
+      "uid": "ch11-022",
       "japanese": "りんご",
       "reading": "りんご",
       "romaji": "ringo",
-      "meaning": ["apple"]
+      "meaning": [
+        "apple"
+      ]
     },
     {
+      "uid": "ch11-023",
       "japanese": "みかん",
       "reading": "みかん",
       "romaji": "mikan",
-      "meaning": ["mandarin orange"]
+      "meaning": [
+        "mandarin orange"
+      ]
     },
     {
+      "uid": "ch11-024",
       "japanese": "サンドイッチ",
       "reading": "サンドイッチ",
       "romaji": "sandoitchi",
-      "meaning": ["sandwich"]
+      "meaning": [
+        "sandwich"
+      ]
     },
     {
+      "uid": "ch11-025",
       "japanese": "カレー［ライス］",
       "reading": "カレー［ライス］",
       "romaji": "karee [raisu]",
-      "meaning": ["curry [and rice]"]
+      "meaning": [
+        "curry [and rice]"
+      ]
     },
     {
+      "uid": "ch11-026",
       "japanese": "アイスクリーム",
       "reading": "アイスクリーム",
       "romaji": "aisukuriimu",
-      "meaning": ["ice cream"]
+      "meaning": [
+        "ice cream"
+      ]
     },
     {
+      "uid": "ch11-027",
       "japanese": "切手",
       "reading": "きって",
       "romaji": "kitte",
-      "meaning": ["postage stamp"]
+      "meaning": [
+        "postage stamp"
+      ]
     },
     {
+      "uid": "ch11-028",
       "japanese": "はがき",
       "reading": "はがき",
       "romaji": "hagaki",
-      "meaning": ["post card"]
+      "meaning": [
+        "post card"
+      ]
     },
     {
+      "uid": "ch11-029",
       "japanese": "封筒",
       "reading": "ふうとう",
       "romaji": "fuutou",
-      "meaning": ["envelope"]
+      "meaning": [
+        "envelope"
+      ]
     },
     {
+      "uid": "ch11-030",
       "japanese": "速達",
       "reading": "そくたつ",
       "romaji": "sokutatsu",
-      "meaning": ["special delivery"]
+      "meaning": [
+        "special delivery"
+      ]
     },
     {
+      "uid": "ch11-031",
       "japanese": "書留",
       "reading": "かきとめ",
       "romaji": "kakitome",
-      "meaning": ["registered mail"]
+      "meaning": [
+        "registered mail"
+      ]
     },
     {
+      "uid": "ch11-032",
       "japanese": "エアメール （航空便）",
       "reading": "エアメール （こうくうびん）",
       "romaji": "eameeru (koukuubin)",
-      "meaning": ["airmail"]
+      "meaning": [
+        "airmail"
+      ]
     },
     {
+      "uid": "ch11-033",
       "japanese": "船便",
       "reading": "ふなびん",
       "romaji": "funabin",
-      "meaning": ["sea mail"]
+      "meaning": [
+        "sea mail"
+      ]
     },
     {
+      "uid": "ch11-034",
       "japanese": "両親",
       "reading": "りょうしん",
       "romaji": "ryoushin",
-      "meaning": ["parents"]
+      "meaning": [
+        "parents"
+      ]
     },
     {
+      "uid": "ch11-035",
       "japanese": "兄弟",
       "reading": "きょうだい",
       "romaji": "kyoudai",
-      "meaning": ["brothers and sisters"]
+      "meaning": [
+        "brothers and sisters"
+      ]
     },
     {
+      "uid": "ch11-036",
       "japanese": "兄",
       "reading": "あに",
       "romaji": "ani",
-      "meaning": ["(my) elder brother"]
+      "meaning": [
+        "(my) elder brother"
+      ]
     },
     {
+      "uid": "ch11-037",
       "japanese": "お兄さん",
       "reading": "おにいさん",
       "romaji": "oniisan",
-      "meaning": ["(someone else's) elder brother"]
+      "meaning": [
+        "(someone else's) elder brother"
+      ]
     },
     {
+      "uid": "ch11-038",
       "japanese": "姉",
       "reading": "あね",
       "romaji": "ane",
-      "meaning": ["(my) elder sister"]
+      "meaning": [
+        "(my) elder sister"
+      ]
     },
     {
+      "uid": "ch11-039",
       "japanese": "お姉さん",
       "reading": "おねえさん",
       "romaji": "oneesan",
-      "meaning": ["(someone else's) elder sister"]
+      "meaning": [
+        "(someone else's) elder sister"
+      ]
     },
     {
+      "uid": "ch11-040",
       "japanese": "弟",
       "reading": "おとうと",
       "romaji": "otouto",
-      "meaning": ["(my) younger brother"]
+      "meaning": [
+        "(my) younger brother"
+      ]
     },
     {
+      "uid": "ch11-041",
       "japanese": "弟さん",
       "reading": "おとうとさん",
       "romaji": "otoutosan",
-      "meaning": ["(someone else's) younger brother"]
+      "meaning": [
+        "(someone else's) younger brother"
+      ]
     },
     {
+      "uid": "ch11-042",
       "japanese": "妹",
       "reading": "いもうと",
       "romaji": "imouto",
-      "meaning": ["(my) younger sister"]
+      "meaning": [
+        "(my) younger sister"
+      ]
     },
     {
+      "uid": "ch11-043",
       "japanese": "妹さん",
       "reading": "いもうとさん",
       "romaji": "imoutosan",
-      "meaning": ["(someone else's) younger sister"]
+      "meaning": [
+        "(someone else's) younger sister"
+      ]
     },
     {
+      "uid": "ch11-044",
       "japanese": "外国",
       "reading": "がいこく",
       "romaji": "gaikoku",
-      "meaning": ["foreign country"]
+      "meaning": [
+        "foreign country"
+      ]
     },
     {
+      "uid": "ch11-045",
       "japanese": "ー時間",
       "reading": "ーじかん",
       "romaji": "-jikan",
-      "meaning": ["ー hours"]
+      "meaning": [
+        "ー hours"
+      ]
     },
     {
+      "uid": "ch11-046",
       "japanese": "ー週間",
       "reading": "ーしゅうかん",
       "romaji": "-shuukan",
-      "meaning": ["ー weeks"]
+      "meaning": [
+        "ー weeks"
+      ]
     },
     {
+      "uid": "ch11-047",
       "japanese": "ーか月",
       "reading": "ーかげつ",
       "romaji": "-kagetsu",
-      "meaning": ["ー months"]
+      "meaning": [
+        "ー months"
+      ]
     },
     {
+      "uid": "ch11-048",
       "japanese": "ー年",
       "reading": "ーねん",
       "romaji": "-nen",
-      "meaning": ["ー years"]
+      "meaning": [
+        "ー years"
+      ]
     },
     {
+      "uid": "ch11-049",
       "japanese": "～ぐらい",
       "reading": "～ぐらい",
       "romaji": "~gurai",
-      "meaning": ["about ~"]
+      "meaning": [
+        "about ~"
+      ]
     },
     {
+      "uid": "ch11-050",
       "japanese": "どのくらい",
       "reading": "どのくらい",
       "romaji": "dono kurai",
-      "meaning": ["how long"]
+      "meaning": [
+        "how long"
+      ]
     },
     {
+      "uid": "ch11-051",
       "japanese": "全部で",
       "reading": "ぜんぶで",
       "romaji": "zenbu de",
-      "meaning": ["in total"]
+      "meaning": [
+        "in total"
+      ]
     },
     {
+      "uid": "ch11-052",
       "japanese": "みんな",
       "reading": "みんな",
       "romaji": "minna",
-      "meaning": ["all, everything"]
+      "meaning": [
+        "all, everything"
+      ]
     },
     {
+      "uid": "ch11-053",
       "japanese": "～だけ",
       "reading": "～だけ",
       "romaji": "~dake",
-      "meaning": ["only ~"]
+      "meaning": [
+        "only ~"
+      ]
     },
     {
+      "uid": "ch11-054",
       "japanese": "いらっしゃいませ。",
       "reading": "いらっしゃいませ。",
       "romaji": "irasshaimase.",
@@ -334,46 +494,67 @@
       ]
     },
     {
+      "uid": "ch11-055",
       "japanese": "いい ［お］天気ですね。",
       "reading": "いい ［お］てんきですね。",
       "romaji": "ii [o]tenki desu ne.",
-      "meaning": ["Nice weather, isn't it?"]
+      "meaning": [
+        "Nice weather, isn't it?"
+      ]
     },
     {
+      "uid": "ch11-056",
       "japanese": "お出かけですか。",
       "reading": "おでかけですか。",
       "romaji": "odekake desu ka.",
-      "meaning": ["Are you going out?"]
+      "meaning": [
+        "Are you going out?"
+      ]
     },
     {
+      "uid": "ch11-057",
       "japanese": "ちょっと ～まで。",
       "reading": "ちょっと ～まで。",
       "romaji": "chotto ~made.",
-      "meaning": ["I'm just going to ~."]
+      "meaning": [
+        "I'm just going to ~."
+      ]
     },
     {
+      "uid": "ch11-058",
       "japanese": "行って いらっしゃい。",
       "reading": "いって いらっしゃい。",
       "romaji": "itte irasshai.",
-      "meaning": ["So long. (lit. Go and come back.)"]
+      "meaning": [
+        "So long. (lit. Go and come back.)"
+      ]
     },
     {
+      "uid": "ch11-059",
       "japanese": "行って まいります。",
       "reading": "いって まいります。",
       "romaji": "itte mairimasu.",
-      "meaning": ["So long. (lit. I'm going and coming back.)"]
+      "meaning": [
+        "So long. (lit. I'm going and coming back.)"
+      ]
     },
     {
+      "uid": "ch11-060",
       "japanese": "それから",
       "reading": "それから",
       "romaji": "sorekara",
-      "meaning": ["and, furthermore"]
+      "meaning": [
+        "and, furthermore"
+      ]
     },
     {
+      "uid": "ch11-061",
       "japanese": "オーストラリア",
       "reading": "オーストラリア",
       "romaji": "oosutoraria",
-      "meaning": ["Australia"]
+      "meaning": [
+        "Australia"
+      ]
     }
   ]
 }

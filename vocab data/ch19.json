@@ -3,138 +3,204 @@
   "jlpt": "N5",
   "vocabulary": [
     {
+      "uid": "ch19-001",
       "japanese": "登ります ［山に～］",
       "reading": "のぼります ［やまに～］",
       "romaji": "noborimasu [yama ni ~]",
-      "meaning": ["climb [a mountain]"],
+      "meaning": [
+        "climb [a mountain]"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch19-002",
       "japanese": "泊まります ［ホテルに～］",
       "reading": "とまります ［ホテルに～］",
       "romaji": "tomarimasu [hoteru ni ~]",
-      "meaning": ["stay [at a hotel]"],
+      "meaning": [
+        "stay [at a hotel]"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch19-003",
       "japanese": "掃除します",
       "reading": "そうじします",
       "romaji": "soujishimasu",
-      "meaning": ["clean (a room)"],
+      "meaning": [
+        "clean (a room)"
+      ],
       "verb_group": "III"
     },
     {
+      "uid": "ch19-004",
       "japanese": "洗濯します",
       "reading": "せんたくします",
       "romaji": "sentakushimasu",
-      "meaning": ["wash (clothes)"],
+      "meaning": [
+        "wash (clothes)"
+      ],
       "verb_group": "III"
     },
     {
+      "uid": "ch19-005",
       "japanese": "練習します",
       "reading": "れんしゅうします",
       "romaji": "renshuushimasu",
-      "meaning": ["practice"],
+      "meaning": [
+        "practice"
+      ],
       "verb_group": "III"
     },
     {
+      "uid": "ch19-006",
       "japanese": "なります",
       "reading": "なります",
       "romaji": "narimasu",
-      "meaning": ["become"],
+      "meaning": [
+        "become"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch19-007",
       "japanese": "眠い",
       "reading": "ねむい",
       "romaji": "nemui",
-      "meaning": ["sleepy"]
+      "meaning": [
+        "sleepy"
+      ]
     },
     {
+      "uid": "ch19-008",
       "japanese": "強い",
       "reading": "つよい",
       "romaji": "tsuyoi",
-      "meaning": ["strong"]
+      "meaning": [
+        "strong"
+      ]
     },
     {
+      "uid": "ch19-009",
       "japanese": "弱い",
       "reading": "よわい",
       "romaji": "yowai",
-      "meaning": ["weak"]
+      "meaning": [
+        "weak"
+      ]
     },
     {
+      "uid": "ch19-010",
       "japanese": "調子が いい",
       "reading": "ちょうしが いい",
       "romaji": "choushi ga ii",
-      "meaning": ["be in good condition"]
+      "meaning": [
+        "be in good condition"
+      ]
     },
     {
+      "uid": "ch19-011",
       "japanese": "調子が 悪い",
       "reading": "ちょうしが わるい",
       "romaji": "choushi ga warui",
-      "meaning": ["be in bad condition"]
+      "meaning": [
+        "be in bad condition"
+      ]
     },
     {
+      "uid": "ch19-012",
       "japanese": "調子",
       "reading": "ちょうし",
       "romaji": "choushi",
-      "meaning": ["condition"]
+      "meaning": [
+        "condition"
+      ]
     },
     {
+      "uid": "ch19-013",
       "japanese": "ゴルフ",
       "reading": "ゴルフ",
       "romaji": "gorufu",
-      "meaning": ["golf (～を します: play golf)"]
+      "meaning": [
+        "golf (～を します: play golf)"
+      ]
     },
     {
+      "uid": "ch19-014",
       "japanese": "相撲",
       "reading": "すもう",
       "romaji": "sumou",
-      "meaning": ["sumo wrestling"]
+      "meaning": [
+        "sumo wrestling"
+      ]
     },
     {
+      "uid": "ch19-015",
       "japanese": "パチンコ",
       "reading": "パチンコ",
       "romaji": "pachinko",
-      "meaning": ["pinball game (～を します: play pachinko)"]
+      "meaning": [
+        "pinball game (～を します: play pachinko)"
+      ]
     },
     {
+      "uid": "ch19-016",
       "japanese": "お茶",
       "reading": "おちゃ",
       "romaji": "ocha",
-      "meaning": ["tea ceremony"]
+      "meaning": [
+        "tea ceremony"
+      ]
     },
     {
+      "uid": "ch19-017",
       "japanese": "日",
       "reading": "ひ",
       "romaji": "hi",
-      "meaning": ["day", "date"]
+      "meaning": [
+        "day",
+        "date"
+      ]
     },
     {
+      "uid": "ch19-018",
       "japanese": "一度",
       "reading": "いちど",
       "romaji": "ichido",
-      "meaning": ["once"]
+      "meaning": [
+        "once"
+      ]
     },
     {
+      "uid": "ch19-019",
       "japanese": "一度も",
       "reading": "いちども",
       "romaji": "ichidomo",
-      "meaning": ["not once", "never (used with negatives)"]
+      "meaning": [
+        "not once",
+        "never (used with negatives)"
+      ]
     },
     {
+      "uid": "ch19-020",
       "japanese": "だんだん",
       "reading": "だんだん",
       "romaji": "dandan",
-      "meaning": ["gradually"]
+      "meaning": [
+        "gradually"
+      ]
     },
     {
+      "uid": "ch19-021",
       "japanese": "もうすぐ",
       "reading": "もうすぐ",
       "romaji": "mousugu",
-      "meaning": ["soon"]
+      "meaning": [
+        "soon"
+      ]
     },
     {
+      "uid": "ch19-022",
       "japanese": "おかげさまで",
       "reading": "おかげさまで",
       "romaji": "okagesamade",
@@ -143,58 +209,89 @@
       ]
     },
     {
+      "uid": "ch19-023",
       "japanese": "乾杯",
       "reading": "かんぱい",
       "romaji": "kanpai",
-      "meaning": ["Bottoms up.", "Cheers!"]
+      "meaning": [
+        "Bottoms up.",
+        "Cheers!"
+      ]
     },
     {
+      "uid": "ch19-024",
       "japanese": "実は",
       "reading": "じつは",
       "romaji": "jitsuwa",
-      "meaning": ["actually", "to tell the truth"]
+      "meaning": [
+        "actually",
+        "to tell the truth"
+      ]
     },
     {
+      "uid": "ch19-025",
       "japanese": "ダイエット",
       "reading": "ダイエット",
       "romaji": "daietto",
-      "meaning": ["diet (～を します: go on a diet)"]
+      "meaning": [
+        "diet (～を します: go on a diet)"
+      ]
     },
     {
+      "uid": "ch19-026",
       "japanese": "何回も",
       "reading": "なんかいも",
       "romaji": "nankaimo",
-      "meaning": ["many times"]
+      "meaning": [
+        "many times"
+      ]
     },
     {
+      "uid": "ch19-027",
       "japanese": "しかし",
       "reading": "しかし",
       "romaji": "shikashi",
-      "meaning": ["but", "however"]
+      "meaning": [
+        "but",
+        "however"
+      ]
     },
     {
+      "uid": "ch19-028",
       "japanese": "無理［な］",
       "reading": "むり［な］",
       "romaji": "muri [na]",
-      "meaning": ["excessive", "impossible"]
+      "meaning": [
+        "excessive",
+        "impossible"
+      ]
     },
     {
+      "uid": "ch19-029",
       "japanese": "体に いい",
       "reading": "からだに いい",
       "romaji": "karada ni ii",
-      "meaning": ["good for one's health"]
+      "meaning": [
+        "good for one's health"
+      ]
     },
     {
+      "uid": "ch19-030",
       "japanese": "ケーキ",
       "reading": "ケーキ",
       "romaji": "keeki",
-      "meaning": ["cake"]
+      "meaning": [
+        "cake"
+      ]
     },
     {
+      "uid": "ch19-031",
       "japanese": "葛飾 北斎",
       "reading": "かつしか ほくさい",
       "romaji": "katsushika hokusai",
-      "meaning": ["famous Edo period wood block artist and painter (1760-1849)"]
+      "meaning": [
+        "famous Edo period wood block artist and painter (1760-1849)"
+      ]
     }
   ]
 }

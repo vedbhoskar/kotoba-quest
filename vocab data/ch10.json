@@ -3,300 +3,461 @@
   "jlpt": "N5",
   "vocabulary": [
     {
+      "uid": "ch10-001",
       "japanese": "います",
       "reading": "います",
       "romaji": "imasu",
-      "meaning": ["exist", "be (referring to animate things)"],
+      "meaning": [
+        "exist",
+        "be (referring to animate things)"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch10-002",
       "japanese": "あります",
       "reading": "あります",
       "romaji": "arimasu",
-      "meaning": ["exist", "be (referring to inanimate things)"],
+      "meaning": [
+        "exist",
+        "be (referring to inanimate things)"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch10-003",
       "japanese": "いろいろ［な］",
       "reading": "いろいろ［な］",
       "romaji": "iroiro [na]",
-      "meaning": ["various"]
+      "meaning": [
+        "various"
+      ]
     },
     {
+      "uid": "ch10-004",
       "japanese": "男の人",
       "reading": "おとこのひと",
       "romaji": "otoko no hito",
-      "meaning": ["man"]
+      "meaning": [
+        "man"
+      ]
     },
     {
+      "uid": "ch10-005",
       "japanese": "女の人",
       "reading": "おんなのひと",
       "romaji": "onna no hito",
-      "meaning": ["woman"]
+      "meaning": [
+        "woman"
+      ]
     },
     {
+      "uid": "ch10-006",
       "japanese": "男の子",
       "reading": "おとこのこ",
       "romaji": "otoko no ko",
-      "meaning": ["boy"]
+      "meaning": [
+        "boy"
+      ]
     },
     {
+      "uid": "ch10-007",
       "japanese": "女の子",
       "reading": "おんなのこ",
       "romaji": "onna no ko",
-      "meaning": ["girl"]
+      "meaning": [
+        "girl"
+      ]
     },
     {
+      "uid": "ch10-008",
       "japanese": "犬",
       "reading": "いぬ",
       "romaji": "inu",
-      "meaning": ["dog"]
+      "meaning": [
+        "dog"
+      ]
     },
     {
+      "uid": "ch10-009",
       "japanese": "猫",
       "reading": "ねこ",
       "romaji": "neko",
-      "meaning": ["cat"]
+      "meaning": [
+        "cat"
+      ]
     },
     {
+      "uid": "ch10-010",
       "japanese": "木",
       "reading": "き",
       "romaji": "ki",
-      "meaning": ["tree", "wood"]
+      "meaning": [
+        "tree",
+        "wood"
+      ]
     },
     {
+      "uid": "ch10-011",
       "japanese": "物",
       "reading": "もの",
       "romaji": "mono",
-      "meaning": ["thing"]
+      "meaning": [
+        "thing"
+      ]
     },
     {
+      "uid": "ch10-012",
       "japanese": "フィルム",
       "reading": "フィルム",
       "romaji": "firumu",
-      "meaning": ["film"]
+      "meaning": [
+        "film"
+      ]
     },
     {
+      "uid": "ch10-013",
       "japanese": "電池",
       "reading": "でんち",
       "romaji": "denchi",
-      "meaning": ["battery"]
+      "meaning": [
+        "battery"
+      ]
     },
     {
+      "uid": "ch10-014",
       "japanese": "箱",
       "reading": "はこ",
       "romaji": "hako",
-      "meaning": ["box"]
+      "meaning": [
+        "box"
+      ]
     },
     {
+      "uid": "ch10-015",
       "japanese": "スイッチ",
       "reading": "スイッチ",
       "romaji": "suitchi",
-      "meaning": ["switch"]
+      "meaning": [
+        "switch"
+      ]
     },
     {
+      "uid": "ch10-016",
       "japanese": "冷蔵庫",
       "reading": "れいぞうこ",
       "romaji": "reizouko",
-      "meaning": ["refrigerator"]
+      "meaning": [
+        "refrigerator"
+      ]
     },
     {
+      "uid": "ch10-017",
       "japanese": "テーブル",
       "reading": "テーブル",
       "romaji": "teeburu",
-      "meaning": ["table"]
+      "meaning": [
+        "table"
+      ]
     },
     {
+      "uid": "ch10-018",
       "japanese": "ベッド",
       "reading": "ベッド",
       "romaji": "beddo",
-      "meaning": ["bed"]
+      "meaning": [
+        "bed"
+      ]
     },
     {
+      "uid": "ch10-019",
       "japanese": "棚",
       "reading": "たな",
       "romaji": "tana",
-      "meaning": ["shelf"]
+      "meaning": [
+        "shelf"
+      ]
     },
     {
+      "uid": "ch10-020",
       "japanese": "ドア",
       "reading": "ドア",
       "romaji": "doa",
-      "meaning": ["door"]
+      "meaning": [
+        "door"
+      ]
     },
     {
+      "uid": "ch10-021",
       "japanese": "窓",
       "reading": "まど",
       "romaji": "mado",
-      "meaning": ["window"]
+      "meaning": [
+        "window"
+      ]
     },
     {
+      "uid": "ch10-022",
       "japanese": "ポスト",
       "reading": "ポスト",
       "romaji": "posuto",
-      "meaning": ["mailbox", "postbox"]
+      "meaning": [
+        "mailbox",
+        "postbox"
+      ]
     },
     {
+      "uid": "ch10-023",
       "japanese": "ビル",
       "reading": "ビル",
       "romaji": "biru",
-      "meaning": ["building"]
+      "meaning": [
+        "building"
+      ]
     },
     {
+      "uid": "ch10-024",
       "japanese": "公園",
       "reading": "こうえん",
       "romaji": "kouen",
-      "meaning": ["park"]
+      "meaning": [
+        "park"
+      ]
     },
     {
+      "uid": "ch10-025",
       "japanese": "喫茶店",
       "reading": "きっさてん",
       "romaji": "kissaten",
-      "meaning": ["coffee shop"]
+      "meaning": [
+        "coffee shop"
+      ]
     },
     {
+      "uid": "ch10-026",
       "japanese": "本屋",
       "reading": "ほんや",
       "romaji": "honya",
-      "meaning": ["bookstore"]
+      "meaning": [
+        "bookstore"
+      ]
     },
     {
+      "uid": "ch10-027",
       "japanese": "～屋",
       "reading": "～や",
       "romaji": "~ya",
-      "meaning": ["~ store"]
+      "meaning": [
+        "~ store"
+      ]
     },
     {
+      "uid": "ch10-028",
       "japanese": "乗り場",
       "reading": "のりば",
       "romaji": "noriba",
-      "meaning": ["a fixed place to catch taxis, trains, etc."]
+      "meaning": [
+        "a fixed place to catch taxis, trains, etc."
+      ]
     },
     {
+      "uid": "ch10-029",
       "japanese": "県",
       "reading": "けん",
       "romaji": "ken",
-      "meaning": ["prefecture"]
+      "meaning": [
+        "prefecture"
+      ]
     },
     {
+      "uid": "ch10-030",
       "japanese": "上",
       "reading": "うえ",
       "romaji": "ue",
-      "meaning": ["on", "above", "over"]
+      "meaning": [
+        "on",
+        "above",
+        "over"
+      ]
     },
     {
+      "uid": "ch10-031",
       "japanese": "下",
       "reading": "した",
       "romaji": "shita",
-      "meaning": ["under", "below", "beneath"]
+      "meaning": [
+        "under",
+        "below",
+        "beneath"
+      ]
     },
     {
+      "uid": "ch10-032",
       "japanese": "前",
       "reading": "まえ",
       "romaji": "mae",
-      "meaning": ["front", "before"]
+      "meaning": [
+        "front",
+        "before"
+      ]
     },
     {
+      "uid": "ch10-033",
       "japanese": "うしろ",
       "reading": "うしろ",
       "romaji": "ushiro",
-      "meaning": ["back", "behind"]
+      "meaning": [
+        "back",
+        "behind"
+      ]
     },
     {
+      "uid": "ch10-034",
       "japanese": "右",
       "reading": "みぎ",
       "romaji": "migi",
-      "meaning": ["right [side]"]
+      "meaning": [
+        "right [side]"
+      ]
     },
     {
+      "uid": "ch10-035",
       "japanese": "左",
       "reading": "ひだり",
       "romaji": "hidari",
-      "meaning": ["left [side]"]
+      "meaning": [
+        "left [side]"
+      ]
     },
     {
+      "uid": "ch10-036",
       "japanese": "中",
       "reading": "なか",
       "romaji": "naka",
-      "meaning": ["in", "inside"]
+      "meaning": [
+        "in",
+        "inside"
+      ]
     },
     {
+      "uid": "ch10-037",
       "japanese": "外",
       "reading": "そと",
       "romaji": "soto",
-      "meaning": ["outside"]
+      "meaning": [
+        "outside"
+      ]
     },
     {
+      "uid": "ch10-038",
       "japanese": "隣",
       "reading": "となり",
       "romaji": "tonari",
-      "meaning": ["next", "next door"]
+      "meaning": [
+        "next",
+        "next door"
+      ]
     },
     {
+      "uid": "ch10-039",
       "japanese": "近く",
       "reading": "ちかく",
       "romaji": "chikaku",
-      "meaning": ["near", "vicinity"]
+      "meaning": [
+        "near",
+        "vicinity"
+      ]
     },
     {
+      "uid": "ch10-040",
       "japanese": "間",
       "reading": "あいだ",
       "romaji": "aida",
-      "meaning": ["between", "among"]
+      "meaning": [
+        "between",
+        "among"
+      ]
     },
     {
+      "uid": "ch10-041",
       "japanese": "～や ～［など］",
       "reading": "～や ～［など］",
       "romaji": "~ya ~[nado]",
-      "meaning": ["~, ~, and so on"]
+      "meaning": [
+        "~, ~, and so on"
+      ]
     },
     {
+      "uid": "ch10-042",
       "japanese": "いちばん ～",
       "reading": "いちばん ～",
       "romaji": "ichiban ~",
-      "meaning": ["the most ~ (いちばん うえ: the top)"]
+      "meaning": [
+        "the most ~ (いちばん うえ: the top)"
+      ]
     },
     {
+      "uid": "ch10-043",
       "japanese": "ー段目",
       "reading": "ーだんめ",
       "romaji": "-danme",
-      "meaning": ["the -th shelf (だん is the counter for shelves)"]
+      "meaning": [
+        "the -th shelf (だん is the counter for shelves)"
+      ]
     },
     {
+      "uid": "ch10-044",
       "japanese": "［どうも］すみません。",
       "reading": "［どうも］すみません。",
       "romaji": "[doumo] sumimasen.",
-      "meaning": ["Thank you."]
+      "meaning": [
+        "Thank you."
+      ]
     },
     {
+      "uid": "ch10-045",
       "japanese": "チリソース",
       "reading": "チリソース",
       "romaji": "chiri soosu",
-      "meaning": ["chili sauce"]
+      "meaning": [
+        "chili sauce"
+      ]
     },
     {
+      "uid": "ch10-046",
       "japanese": "奥",
       "reading": "おく",
       "romaji": "oku",
-      "meaning": ["the back"]
+      "meaning": [
+        "the back"
+      ]
     },
     {
+      "uid": "ch10-047",
       "japanese": "スパイス・コーナー",
       "reading": "スパイス・コーナー",
       "romaji": "supaisu koonaa",
-      "meaning": ["spice corner"]
+      "meaning": [
+        "spice corner"
+      ]
     },
     {
+      "uid": "ch10-048",
       "japanese": "東京ディズニーランド",
       "reading": "とうきょうディズニーランド",
       "romaji": "toukyou dizuniirando",
-      "meaning": ["Tokyo Disneyland"]
+      "meaning": [
+        "Tokyo Disneyland"
+      ]
     },
     {
+      "uid": "ch10-049",
       "japanese": "ユニーヤ・ストア",
       "reading": "ユニーヤ・ストア",
       "romaji": "yuniiya sutoa",
-      "meaning": ["fictitious supermarket"]
+      "meaning": [
+        "fictitious supermarket"
+      ]
     }
   ]
 }

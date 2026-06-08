@@ -3,376 +3,575 @@
   "jlpt": "N5",
   "vocabulary": [
     {
+      "uid": "ch09-001",
       "japanese": "ハンサム［な］",
       "reading": "ハンサム［な］",
       "romaji": "hansamu [na]",
-      "meaning": ["handsome"]
+      "meaning": [
+        "handsome"
+      ]
     },
     {
+      "uid": "ch09-002",
       "japanese": "きれい［な］",
       "reading": "きれい［な］",
       "romaji": "kirei [na]",
-      "meaning": ["beautiful", "clean"]
+      "meaning": [
+        "beautiful",
+        "clean"
+      ]
     },
     {
+      "uid": "ch09-003",
       "japanese": "静か［な］",
       "reading": "しずか［な］",
       "romaji": "shizuka [na]",
-      "meaning": ["quiet"]
+      "meaning": [
+        "quiet"
+      ]
     },
     {
+      "uid": "ch09-004",
       "japanese": "にぎやか［な］",
       "reading": "にぎやか［な］",
       "romaji": "nigiyaka [na]",
-      "meaning": ["lively"]
+      "meaning": [
+        "lively"
+      ]
     },
     {
+      "uid": "ch09-005",
       "japanese": "有名［な］",
       "reading": "ゆうめい［な］",
       "romaji": "yuumei [na]",
-      "meaning": ["famous"]
+      "meaning": [
+        "famous"
+      ]
     },
     {
+      "uid": "ch09-006",
       "japanese": "親切［な］",
       "reading": "しんせつ［な］",
       "romaji": "shinsetsu [na]",
-      "meaning": ["kind"]
+      "meaning": [
+        "kind"
+      ]
     },
     {
+      "uid": "ch09-007",
       "japanese": "元気［な］",
       "reading": "げんき［な］",
       "romaji": "genki [na]",
-      "meaning": ["healthy", "sound", "cheerful"]
+      "meaning": [
+        "healthy",
+        "sound",
+        "cheerful"
+      ]
     },
     {
+      "uid": "ch09-008",
       "japanese": "暇［な］",
       "reading": "ひま［な］",
       "romaji": "hima [na]",
-      "meaning": ["free (time)"]
+      "meaning": [
+        "free (time)"
+      ]
     },
     {
+      "uid": "ch09-009",
       "japanese": "便利［な］",
       "reading": "べんり［な］",
       "romaji": "benri [na]",
-      "meaning": ["convenient"]
+      "meaning": [
+        "convenient"
+      ]
     },
     {
+      "uid": "ch09-010",
       "japanese": "すてき［な］",
       "reading": "すてき［な］",
       "romaji": "suteki [na]",
-      "meaning": ["fine", "nice", "wonderful"]
+      "meaning": [
+        "fine",
+        "nice",
+        "wonderful"
+      ]
     },
     {
+      "uid": "ch09-011",
       "japanese": "大きい",
       "reading": "おおきい",
       "romaji": "ookii",
-      "meaning": ["big", "large"]
+      "meaning": [
+        "big",
+        "large"
+      ]
     },
     {
+      "uid": "ch09-012",
       "japanese": "小さい",
       "reading": "ちいさい",
       "romaji": "chiisai",
-      "meaning": ["small", "little"]
+      "meaning": [
+        "small",
+        "little"
+      ]
     },
     {
+      "uid": "ch09-013",
       "japanese": "新しい",
       "reading": "あたらしい",
       "romaji": "atarashii",
-      "meaning": ["new"]
+      "meaning": [
+        "new"
+      ]
     },
     {
+      "uid": "ch09-014",
       "japanese": "古い",
       "reading": "ふるい",
       "romaji": "furui",
-      "meaning": ["old (not of age)"]
+      "meaning": [
+        "old (not of age)"
+      ]
     },
     {
+      "uid": "ch09-015",
       "japanese": "いい（よい）",
       "reading": "いい（よい）",
       "romaji": "ii (yoi)",
-      "meaning": ["good"]
+      "meaning": [
+        "good"
+      ]
     },
     {
+      "uid": "ch09-016",
       "japanese": "悪い",
       "reading": "わるい",
       "romaji": "warui",
-      "meaning": ["bad"]
+      "meaning": [
+        "bad"
+      ]
     },
     {
+      "uid": "ch09-017",
       "japanese": "暑い、熱い",
       "reading": "あつい",
       "romaji": "atsui",
-      "meaning": ["hot"]
+      "meaning": [
+        "hot"
+      ]
     },
     {
+      "uid": "ch09-018",
       "japanese": "寒い",
       "reading": "さむい",
       "romaji": "samui",
-      "meaning": ["cold (referring to temperature)"]
+      "meaning": [
+        "cold (referring to temperature)"
+      ]
     },
     {
+      "uid": "ch09-019",
       "japanese": "冷たい",
       "reading": "つめたい",
       "romaji": "tsumetai",
-      "meaning": ["cold (referring to touch)"]
+      "meaning": [
+        "cold (referring to touch)"
+      ]
     },
     {
+      "uid": "ch09-020",
       "japanese": "難しい",
       "reading": "むずかしい",
       "romaji": "muzukashii",
-      "meaning": ["difficult"]
+      "meaning": [
+        "difficult"
+      ]
     },
     {
+      "uid": "ch09-021",
       "japanese": "易しい",
       "reading": "やさしい",
       "romaji": "yasashii",
-      "meaning": ["easy"]
+      "meaning": [
+        "easy"
+      ]
     },
     {
+      "uid": "ch09-022",
       "japanese": "高い",
       "reading": "たかい",
       "romaji": "takai",
-      "meaning": ["expensive", "tall", "high"]
+      "meaning": [
+        "expensive",
+        "tall",
+        "high"
+      ]
     },
     {
+      "uid": "ch09-023",
       "japanese": "安い",
       "reading": "やすい",
       "romaji": "yasui",
-      "meaning": ["inexpensive"]
+      "meaning": [
+        "inexpensive"
+      ]
     },
     {
+      "uid": "ch09-024",
       "japanese": "低い",
       "reading": "ひくい",
       "romaji": "hikui",
-      "meaning": ["low"]
+      "meaning": [
+        "low"
+      ]
     },
     {
+      "uid": "ch09-025",
       "japanese": "おもしろい",
       "reading": "おもしろい",
       "romaji": "omoshiroi",
-      "meaning": ["interesting"]
+      "meaning": [
+        "interesting"
+      ]
     },
     {
+      "uid": "ch09-026",
       "japanese": "おいしい",
       "reading": "おいしい",
       "romaji": "oishii",
-      "meaning": ["delicious", "tasty"]
+      "meaning": [
+        "delicious",
+        "tasty"
+      ]
     },
     {
+      "uid": "ch09-027",
       "japanese": "忙しい",
       "reading": "いそがしい",
       "romaji": "isogashii",
-      "meaning": ["busy"]
+      "meaning": [
+        "busy"
+      ]
     },
     {
+      "uid": "ch09-028",
       "japanese": "楽しい",
       "reading": "たのしい",
       "romaji": "tanoshii",
-      "meaning": ["enjoyable"]
+      "meaning": [
+        "enjoyable"
+      ]
     },
     {
+      "uid": "ch09-029",
       "japanese": "白い",
       "reading": "しろい",
       "romaji": "shiroi",
-      "meaning": ["white"]
+      "meaning": [
+        "white"
+      ]
     },
     {
+      "uid": "ch09-030",
       "japanese": "黒い",
       "reading": "くろい",
       "romaji": "kuroi",
-      "meaning": ["black"]
+      "meaning": [
+        "black"
+      ]
     },
     {
+      "uid": "ch09-031",
       "japanese": "赤い",
       "reading": "あかい",
       "romaji": "akai",
-      "meaning": ["red"]
+      "meaning": [
+        "red"
+      ]
     },
     {
+      "uid": "ch09-032",
       "japanese": "青い",
       "reading": "あおい",
       "romaji": "aoi",
-      "meaning": ["blue"]
+      "meaning": [
+        "blue"
+      ]
     },
     {
+      "uid": "ch09-033",
       "japanese": "桜",
       "reading": "さくら",
       "romaji": "sakura",
-      "meaning": ["cherry (blossom)"]
+      "meaning": [
+        "cherry (blossom)"
+      ]
     },
     {
+      "uid": "ch09-034",
       "japanese": "山",
       "reading": "やま",
       "romaji": "yama",
-      "meaning": ["mountain"]
+      "meaning": [
+        "mountain"
+      ]
     },
     {
+      "uid": "ch09-035",
       "japanese": "町",
       "reading": "まち",
       "romaji": "machi",
-      "meaning": ["town", "city"]
+      "meaning": [
+        "town",
+        "city"
+      ]
     },
     {
+      "uid": "ch09-036",
       "japanese": "食べ物",
       "reading": "たべもの",
       "romaji": "tabemono",
-      "meaning": ["food"]
+      "meaning": [
+        "food"
+      ]
     },
     {
+      "uid": "ch09-037",
       "japanese": "車",
       "reading": "くるま",
       "romaji": "kuruma",
-      "meaning": ["car", "vehicle"]
+      "meaning": [
+        "car",
+        "vehicle"
+      ]
     },
     {
+      "uid": "ch09-038",
       "japanese": "所",
       "reading": "ところ",
       "romaji": "tokoro",
-      "meaning": ["place"]
+      "meaning": [
+        "place"
+      ]
     },
     {
+      "uid": "ch09-039",
       "japanese": "寮",
       "reading": "りょう",
       "romaji": "ryou",
-      "meaning": ["dormitory"]
+      "meaning": [
+        "dormitory"
+      ]
     },
     {
+      "uid": "ch09-040",
       "japanese": "勉強",
       "reading": "べんきょう",
       "romaji": "benkyou",
-      "meaning": ["study"]
+      "meaning": [
+        "study"
+      ]
     },
     {
+      "uid": "ch09-041",
       "japanese": "生活",
       "reading": "せいかつ",
       "romaji": "seikatsu",
-      "meaning": ["life"]
+      "meaning": [
+        "life"
+      ]
     },
     {
+      "uid": "ch09-042",
       "japanese": "［お］仕事",
       "reading": "［お］しごと",
       "romaji": "[o]shigoto",
-      "meaning": ["work", "business"]
+      "meaning": [
+        "work",
+        "business"
+      ]
     },
     {
+      "uid": "ch09-043",
       "japanese": "どう",
       "reading": "どう",
       "romaji": "dou",
-      "meaning": ["how"]
+      "meaning": [
+        "how"
+      ]
     },
     {
+      "uid": "ch09-044",
       "japanese": "どんな～",
       "reading": "どんな～",
       "romaji": "donna~",
-      "meaning": ["what kind of ~"]
+      "meaning": [
+        "what kind of ~"
+      ]
     },
     {
+      "uid": "ch09-045",
       "japanese": "どれ",
       "reading": "どれ",
       "romaji": "dore",
-      "meaning": ["which one (of three or more)"]
+      "meaning": [
+        "which one (of three or more)"
+      ]
     },
     {
+      "uid": "ch09-046",
       "japanese": "とても",
       "reading": "とても",
       "romaji": "totemo",
-      "meaning": ["very"]
+      "meaning": [
+        "very"
+      ]
     },
     {
+      "uid": "ch09-047",
       "japanese": "あまり",
       "reading": "あまり",
       "romaji": "amari",
-      "meaning": ["not so (used with negatives)"]
+      "meaning": [
+        "not so (used with negatives)"
+      ]
     },
     {
+      "uid": "ch09-048",
       "japanese": "そして",
       "reading": "そして",
       "romaji": "soshite",
-      "meaning": ["and (used to connect sentences)"]
+      "meaning": [
+        "and (used to connect sentences)"
+      ]
     },
     {
+      "uid": "ch09-049",
       "japanese": "～が、～",
       "reading": "～が、～",
       "romaji": "~ga, ~",
-      "meaning": ["~, but ~"]
+      "meaning": [
+        "~, but ~"
+      ]
     },
     {
+      "uid": "ch09-050",
       "japanese": "お元気ですか。",
       "reading": "おげんきですか。",
       "romaji": "ogenki desu ka.",
-      "meaning": ["How are you?"]
+      "meaning": [
+        "How are you?"
+      ]
     },
     {
+      "uid": "ch09-051",
       "japanese": "そうですね。",
       "reading": "そうですね。",
       "romaji": "sou desu ne.",
-      "meaning": ["Well let me see. (pausing)"]
+      "meaning": [
+        "Well let me see. (pausing)"
+      ]
     },
     {
+      "uid": "ch09-052",
       "japanese": "日本の 生活に 慣れましたか。",
       "reading": "にほんの せいかつに なれましたか。",
       "romaji": "nihon no seikatsu ni naremashita ka.",
-      "meaning": ["Have you got used to the life in Japan?"]
+      "meaning": [
+        "Have you got used to the life in Japan?"
+      ]
     },
     {
+      "uid": "ch09-053",
       "japanese": "［～、］もう 一杯 いかがですか。",
       "reading": "［～、］もう いっぱい いかがですか。",
       "romaji": "[~,] mou ippai ikaga desu ka.",
-      "meaning": ["Won't you have another cup of [~]?"]
+      "meaning": [
+        "Won't you have another cup of [~]?"
+      ]
     },
     {
+      "uid": "ch09-054",
       "japanese": "いいえ、けっこうです。",
       "reading": "いいえ、けっこうです。",
       "romaji": "iie, kekkou desu.",
-      "meaning": ["No, thank you."]
+      "meaning": [
+        "No, thank you."
+      ]
     },
     {
+      "uid": "ch09-055",
       "japanese": "もう ～です［ね］。",
       "reading": "もう ～です［ね］。",
       "romaji": "mou ~desu [ne].",
-      "meaning": ["It's already ~[, isn't it?]."]
+      "meaning": [
+        "It's already ~[, isn't it?]."
+      ]
     },
     {
+      "uid": "ch09-056",
       "japanese": "そろそろ 失礼します。",
       "reading": "そろそろ しつれいします。",
       "romaji": "sorosoro shitsureishimasu.",
-      "meaning": ["It's almost time to leave now."]
+      "meaning": [
+        "It's almost time to leave now."
+      ]
     },
     {
+      "uid": "ch09-057",
       "japanese": "また いらっしゃって ください。",
       "reading": "また いらっしゃって ください。",
       "romaji": "mata irasshatte kudasai.",
-      "meaning": ["Please come again."]
+      "meaning": [
+        "Please come again."
+      ]
     },
     {
+      "uid": "ch09-058",
       "japanese": "富士山",
       "reading": "ふじさん",
       "romaji": "fujisan",
-      "meaning": ["Mt. Fuji, the highest mountain in Japan"]
+      "meaning": [
+        "Mt. Fuji, the highest mountain in Japan"
+      ]
     },
     {
+      "uid": "ch09-059",
       "japanese": "琵琶湖",
       "reading": "びわこ",
       "romaji": "biwako",
-      "meaning": ["Lake Biwa, the biggest lake in Japan"]
+      "meaning": [
+        "Lake Biwa, the biggest lake in Japan"
+      ]
     },
     {
+      "uid": "ch09-060",
       "japanese": "シャンハイ",
       "reading": "シャンハイ",
       "romaji": "shanhai",
-      "meaning": ["Shanghai (上海)"]
+      "meaning": [
+        "Shanghai (上海)"
+      ]
     },
     {
+      "uid": "ch09-061",
       "japanese": "「七人の侍」",
       "reading": "「しちにんのさむらい」",
       "romaji": "\"shichinin no samurai\"",
-      "meaning": ["\"The Seven Samurai,\" a classic movie by Akira Kurosawa"]
+      "meaning": [
+        "\"The Seven Samurai,\" a classic movie by Akira Kurosawa"
+      ]
     },
     {
+      "uid": "ch09-062",
       "japanese": "金閣寺",
       "reading": "きんかくじ",
       "romaji": "kinkakuji",
-      "meaning": ["Kinkakuji Temple (the Golden Pavilion)"]
+      "meaning": [
+        "Kinkakuji Temple (the Golden Pavilion)"
+      ]
     }
   ]
 }

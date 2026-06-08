@@ -3,394 +3,598 @@
   "jlpt": "N5",
   "vocabulary": [
     {
+      "uid": "ch04-001",
       "japanese": "起きます",
       "reading": "おきます",
       "romaji": "okimasu",
-      "meaning": ["get up", "wake up"],
+      "meaning": [
+        "get up",
+        "wake up"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch04-002",
       "japanese": "寝ます",
       "reading": "ねます",
       "romaji": "nemasu",
-      "meaning": ["sleep", "go to bed"],
+      "meaning": [
+        "sleep",
+        "go to bed"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch04-003",
       "japanese": "働きます",
       "reading": "はたらきます",
       "romaji": "hatarakimasu",
-      "meaning": ["work"],
+      "meaning": [
+        "work"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch04-004",
       "japanese": "休みます",
       "reading": "やすみます",
       "romaji": "yasumimasu",
-      "meaning": ["take a rest", "take a holiday"],
+      "meaning": [
+        "take a rest",
+        "take a holiday"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch04-005",
       "japanese": "勉強します",
       "reading": "べんきょうします",
       "romaji": "benkyoushimasu",
-      "meaning": ["study"],
+      "meaning": [
+        "study"
+      ],
       "verb_group": "III"
     },
     {
+      "uid": "ch04-006",
       "japanese": "終わります",
       "reading": "おわります",
       "romaji": "owarimasu",
-      "meaning": ["finish"],
+      "meaning": [
+        "finish"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch04-007",
       "japanese": "デパート",
       "reading": "デパート",
       "romaji": "depaato",
-      "meaning": ["department store"]
+      "meaning": [
+        "department store"
+      ]
     },
     {
+      "uid": "ch04-008",
       "japanese": "銀行",
       "reading": "ぎんこう",
       "romaji": "ginkou",
-      "meaning": ["bank"]
+      "meaning": [
+        "bank"
+      ]
     },
     {
+      "uid": "ch04-009",
       "japanese": "郵便局",
       "reading": "ゆうびんきょく",
       "romaji": "yuubinkyoku",
-      "meaning": ["post office"]
+      "meaning": [
+        "post office"
+      ]
     },
     {
+      "uid": "ch04-010",
       "japanese": "図書館",
       "reading": "としょかん",
       "romaji": "toshokan",
-      "meaning": ["library"]
+      "meaning": [
+        "library"
+      ]
     },
     {
+      "uid": "ch04-011",
       "japanese": "美術館",
       "reading": "びじゅつかん",
       "romaji": "bijutsukan",
-      "meaning": ["art museum"]
+      "meaning": [
+        "art museum"
+      ]
     },
     {
+      "uid": "ch04-012",
       "japanese": "今",
       "reading": "いま",
       "romaji": "ima",
-      "meaning": ["now"]
+      "meaning": [
+        "now"
+      ]
     },
     {
+      "uid": "ch04-013",
       "japanese": "ー時",
       "reading": "ーじ",
       "romaji": "-ji",
-      "meaning": ["ー o'clock"]
+      "meaning": [
+        "ー o'clock"
+      ]
     },
     {
+      "uid": "ch04-014",
       "japanese": "ー分",
       "reading": "ーふん (ーぷん)",
       "romaji": "-fun (-pun)",
-      "meaning": ["ー minute"]
+      "meaning": [
+        "ー minute"
+      ]
     },
     {
+      "uid": "ch04-015",
       "japanese": "半",
       "reading": "はん",
       "romaji": "han",
-      "meaning": ["half"]
+      "meaning": [
+        "half"
+      ]
     },
     {
+      "uid": "ch04-016",
       "japanese": "何時",
       "reading": "なんじ",
       "romaji": "nanji",
-      "meaning": ["what time"]
+      "meaning": [
+        "what time"
+      ]
     },
     {
+      "uid": "ch04-017",
       "japanese": "何分",
       "reading": "なんぷん",
       "romaji": "nanpun",
-      "meaning": ["what minute"]
+      "meaning": [
+        "what minute"
+      ]
     },
     {
+      "uid": "ch04-018",
       "japanese": "午前",
       "reading": "ごぜん",
       "romaji": "gozen",
-      "meaning": ["a.m.", "morning"]
+      "meaning": [
+        "a.m.",
+        "morning"
+      ]
     },
     {
+      "uid": "ch04-019",
       "japanese": "午後",
       "reading": "ごご",
       "romaji": "gogo",
-      "meaning": ["p.m.", "afternoon"]
+      "meaning": [
+        "p.m.",
+        "afternoon"
+      ]
     },
     {
+      "uid": "ch04-020",
       "japanese": "朝",
       "reading": "あさ",
       "romaji": "asa",
-      "meaning": ["morning"]
+      "meaning": [
+        "morning"
+      ]
     },
     {
+      "uid": "ch04-021",
       "japanese": "昼",
       "reading": "ひる",
       "romaji": "hiru",
-      "meaning": ["daytime", "noon"]
+      "meaning": [
+        "daytime",
+        "noon"
+      ]
     },
     {
+      "uid": "ch04-022",
       "japanese": "晩 (夜)",
       "reading": "ばん (よる)",
       "romaji": "ban (yoru)",
-      "meaning": ["night", "evening"]
+      "meaning": [
+        "night",
+        "evening"
+      ]
     },
     {
+      "uid": "ch04-023",
       "japanese": "おととい",
       "reading": "おととい",
       "romaji": "ototoi",
-      "meaning": ["the day before yesterday"]
+      "meaning": [
+        "the day before yesterday"
+      ]
     },
     {
+      "uid": "ch04-024",
       "japanese": "きのう",
       "reading": "きのう",
       "romaji": "kinou",
-      "meaning": ["yesterday"]
+      "meaning": [
+        "yesterday"
+      ]
     },
     {
+      "uid": "ch04-025",
       "japanese": "きょう",
       "reading": "きょう",
       "romaji": "kyou",
-      "meaning": ["today"]
+      "meaning": [
+        "today"
+      ]
     },
     {
+      "uid": "ch04-026",
       "japanese": "あした",
       "reading": "あした",
       "romaji": "ashita",
-      "meaning": ["tomorrow"]
+      "meaning": [
+        "tomorrow"
+      ]
     },
     {
+      "uid": "ch04-027",
       "japanese": "あさって",
       "reading": "あさって",
       "romaji": "asatte",
-      "meaning": ["the day after tomorrow"]
+      "meaning": [
+        "the day after tomorrow"
+      ]
     },
     {
+      "uid": "ch04-028",
       "japanese": "けさ",
       "reading": "けさ",
       "romaji": "kesa",
-      "meaning": ["this morning"]
+      "meaning": [
+        "this morning"
+      ]
     },
     {
+      "uid": "ch04-029",
       "japanese": "今晩",
       "reading": "こんばん",
       "romaji": "konban",
-      "meaning": ["this evening", "tonight"]
+      "meaning": [
+        "this evening",
+        "tonight"
+      ]
     },
     {
+      "uid": "ch04-030",
       "japanese": "休み",
       "reading": "やすみ",
       "romaji": "yasumi",
-      "meaning": ["rest", "a holiday", "a day off"]
+      "meaning": [
+        "rest",
+        "a holiday",
+        "a day off"
+      ]
     },
     {
+      "uid": "ch04-031",
       "japanese": "昼休み",
       "reading": "ひるやすみ",
       "romaji": "hiruyasumi",
-      "meaning": ["lunchtime"]
+      "meaning": [
+        "lunchtime"
+      ]
     },
     {
+      "uid": "ch04-032",
       "japanese": "毎朝",
       "reading": "まいあさ",
       "romaji": "maiasa",
-      "meaning": ["every morning"]
+      "meaning": [
+        "every morning"
+      ]
     },
     {
+      "uid": "ch04-033",
       "japanese": "毎晩",
       "reading": "まいばん",
       "romaji": "maiban",
-      "meaning": ["every night"]
+      "meaning": [
+        "every night"
+      ]
     },
     {
+      "uid": "ch04-034",
       "japanese": "毎日",
       "reading": "まいにち",
       "romaji": "mainichi",
-      "meaning": ["every day"]
+      "meaning": [
+        "every day"
+      ]
     },
     {
+      "uid": "ch04-035",
       "japanese": "月曜日",
       "reading": "げつようび",
       "romaji": "getsuyoubi",
-      "meaning": ["Monday"]
+      "meaning": [
+        "Monday"
+      ]
     },
     {
+      "uid": "ch04-036",
       "japanese": "火曜日",
       "reading": "かようび",
       "romaji": "kayoubi",
-      "meaning": ["Tuesday"]
+      "meaning": [
+        "Tuesday"
+      ]
     },
     {
+      "uid": "ch04-037",
       "japanese": "水曜日",
       "reading": "すいようび",
       "romaji": "suiyoubi",
-      "meaning": ["Wednesday"]
+      "meaning": [
+        "Wednesday"
+      ]
     },
     {
+      "uid": "ch04-038",
       "japanese": "木曜日",
       "reading": "もくようび",
       "romaji": "mokuyoubi",
-      "meaning": ["Thursday"]
+      "meaning": [
+        "Thursday"
+      ]
     },
     {
+      "uid": "ch04-039",
       "japanese": "金曜日",
       "reading": "きんようび",
       "romaji": "kinyoubi",
-      "meaning": ["Friday"]
+      "meaning": [
+        "Friday"
+      ]
     },
     {
+      "uid": "ch04-040",
       "japanese": "土曜日",
       "reading": "どようび",
       "romaji": "doyoubi",
-      "meaning": ["Saturday"]
+      "meaning": [
+        "Saturday"
+      ]
     },
     {
+      "uid": "ch04-041",
       "japanese": "日曜日",
       "reading": "にちようび",
       "romaji": "nichiyoubi",
-      "meaning": ["Sunday"]
+      "meaning": [
+        "Sunday"
+      ]
     },
     {
+      "uid": "ch04-042",
       "japanese": "何曜日",
       "reading": "なんようび",
       "romaji": "nanyoubi",
-      "meaning": ["what day of the week"]
+      "meaning": [
+        "what day of the week"
+      ]
     },
     {
+      "uid": "ch04-043",
       "japanese": "番号",
       "reading": "ばんごう",
       "romaji": "bangou",
-      "meaning": ["number"]
+      "meaning": [
+        "number"
+      ]
     },
     {
+      "uid": "ch04-044",
       "japanese": "何番",
       "reading": "なんばん",
       "romaji": "nanban",
-      "meaning": ["what number"]
+      "meaning": [
+        "what number"
+      ]
     },
     {
+      "uid": "ch04-045",
       "japanese": "〜から",
       "reading": "〜から",
       "romaji": "~kara",
-      "meaning": ["from 〜"]
+      "meaning": [
+        "from 〜"
+      ]
     },
     {
+      "uid": "ch04-046",
       "japanese": "〜まで",
       "reading": "〜まで",
       "romaji": "~made",
-      "meaning": ["up to 〜", "until 〜"]
+      "meaning": [
+        "up to 〜",
+        "until 〜"
+      ]
     },
     {
+      "uid": "ch04-047",
       "japanese": "〜と〜",
       "reading": "〜と〜",
       "romaji": "~to~",
-      "meaning": ["and (used to connect nouns)"]
+      "meaning": [
+        "and (used to connect nouns)"
+      ]
     },
     {
+      "uid": "ch04-048",
       "japanese": "そちら",
       "reading": "そちら",
       "romaji": "sochira",
-      "meaning": ["your place"]
+      "meaning": [
+        "your place"
+      ]
     },
     {
+      "uid": "ch04-049",
       "japanese": "大変ですね。",
       "reading": "たいへんですね。",
       "romaji": "taihen desu ne.",
-      "meaning": ["That's tough, isn't it? (used when expressing sympathy)"]
+      "meaning": [
+        "That's tough, isn't it? (used when expressing sympathy)"
+      ]
     },
     {
+      "uid": "ch04-050",
       "japanese": "えーと",
       "reading": "えーと",
       "romaji": "eeto",
-      "meaning": ["well, let me see"]
+      "meaning": [
+        "well, let me see"
+      ]
     },
     {
+      "uid": "ch04-051",
       "japanese": "104",
       "reading": "104",
       "romaji": "104",
-      "meaning": ["information", "directory assistance"]
+      "meaning": [
+        "information",
+        "directory assistance"
+      ]
     },
     {
+      "uid": "ch04-052",
       "japanese": "お願いします。",
       "reading": "おねがいします。",
       "romaji": "onegaishimasu.",
-      "meaning": ["Please. (lit. ask for a favor)"]
+      "meaning": [
+        "Please. (lit. ask for a favor)"
+      ]
     },
     {
+      "uid": "ch04-053",
       "japanese": "かしこまりました。",
       "reading": "かしこまりました。",
       "romaji": "kashikomarimashita.",
-      "meaning": ["Certainly (sir, madam)"]
+      "meaning": [
+        "Certainly (sir, madam)"
+      ]
     },
     {
+      "uid": "ch04-054",
       "japanese": "お問い合わせの番号",
       "reading": "おといあわせのばんごう",
       "romaji": "otoiawase no bangou",
-      "meaning": ["the number being inquired about"]
+      "meaning": [
+        "the number being inquired about"
+      ]
     },
     {
+      "uid": "ch04-055",
       "japanese": "［どうも］ありがとうございました。",
       "reading": "［どうも］ありがとうございました。",
       "romaji": "[doumo] arigatou gozaimashita.",
-      "meaning": ["Thank you very much."]
+      "meaning": [
+        "Thank you very much."
+      ]
     },
     {
+      "uid": "ch04-056",
       "japanese": "ニューヨーク",
       "reading": "ニューヨーク",
       "romaji": "nyuuyooku",
-      "meaning": ["New York"]
+      "meaning": [
+        "New York"
+      ]
     },
     {
+      "uid": "ch04-057",
       "japanese": "ペキン",
       "reading": "ペキン",
       "romaji": "pekin",
-      "meaning": ["Beijing (北京)"]
+      "meaning": [
+        "Beijing (北京)"
+      ]
     },
     {
+      "uid": "ch04-058",
       "japanese": "ロンドン",
       "reading": "ロンドン",
       "romaji": "rondon",
-      "meaning": ["London"]
+      "meaning": [
+        "London"
+      ]
     },
     {
+      "uid": "ch04-059",
       "japanese": "バンコク",
       "reading": "バンコク",
       "romaji": "bankoku",
-      "meaning": ["Bangkok"]
+      "meaning": [
+        "Bangkok"
+      ]
     },
     {
+      "uid": "ch04-060",
       "japanese": "ロサンゼルス",
       "reading": "ロサンゼルス",
       "romaji": "rosanzerusu",
-      "meaning": ["Los Angeles"]
+      "meaning": [
+        "Los Angeles"
+      ]
     },
     {
+      "uid": "ch04-061",
       "japanese": "やまと美術館",
       "reading": "やまとびじゅつかん",
       "romaji": "yamato bijutsukan",
-      "meaning": ["fictitious art museum"]
+      "meaning": [
+        "fictitious art museum"
+      ]
     },
     {
+      "uid": "ch04-062",
       "japanese": "大阪デパート",
       "reading": "おおさかデパート",
       "romaji": "oosaka depaato",
-      "meaning": ["fictitious department store"]
+      "meaning": [
+        "fictitious department store"
+      ]
     },
     {
+      "uid": "ch04-063",
       "japanese": "みどり図書館",
       "reading": "みどりとしょかん",
       "romaji": "midori toshokan",
-      "meaning": ["fictitious library"]
+      "meaning": [
+        "fictitious library"
+      ]
     },
     {
+      "uid": "ch04-064",
       "japanese": "アップル銀行",
       "reading": "アップルぎんこう",
       "romaji": "appuru ginkou",
-      "meaning": ["fictitious bank"]
+      "meaning": [
+        "fictitious bank"
+      ]
     }
   ]
 }

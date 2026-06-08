@@ -3,77 +3,111 @@
   "jlpt": "N5",
   "vocabulary": [
     {
+      "uid": "ch22-001",
       "japanese": "着ます ［シャツを～］",
       "reading": "きます ［シャツを～］",
       "romaji": "kimasu [shatsu o ~]",
-      "meaning": ["put on [a shirt, etc.]"],
+      "meaning": [
+        "put on [a shirt, etc.]"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch22-002",
       "japanese": "はきます ［靴を～］",
       "reading": "はきます ［くつを～］",
       "romaji": "hakimasu [kutsu o ~]",
-      "meaning": ["put on [shoes, trousers, etc.]"],
+      "meaning": [
+        "put on [shoes, trousers, etc.]"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch22-003",
       "japanese": "かぶります ［帽子を～］",
       "reading": "かぶります ［ぼうしを～］",
       "romaji": "kaburimasu [boushi o ~]",
-      "meaning": ["put on [a hat, etc.]"],
+      "meaning": [
+        "put on [a hat, etc.]"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch22-004",
       "japanese": "かけます ［眼鏡を～］",
       "reading": "かけます ［めがねを～］",
       "romaji": "kakemasu [megane o ~]",
-      "meaning": ["put on [glasses]"],
+      "meaning": [
+        "put on [glasses]"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch22-005",
       "japanese": "生まれます",
       "reading": "うまれます",
       "romaji": "umaremasu",
-      "meaning": ["be born"],
+      "meaning": [
+        "be born"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch22-006",
       "japanese": "コート",
       "reading": "コート",
       "romaji": "kooto",
-      "meaning": ["coat"]
+      "meaning": [
+        "coat"
+      ]
     },
     {
+      "uid": "ch22-007",
       "japanese": "スーツ",
       "reading": "スーツ",
       "romaji": "suutsu",
-      "meaning": ["suit"]
+      "meaning": [
+        "suit"
+      ]
     },
     {
+      "uid": "ch22-008",
       "japanese": "セーター",
       "reading": "セーター",
       "romaji": "seetaa",
-      "meaning": ["sweater"]
+      "meaning": [
+        "sweater"
+      ]
     },
     {
+      "uid": "ch22-009",
       "japanese": "帽子",
       "reading": "ぼうし",
       "romaji": "boushi",
-      "meaning": ["hat, cap"]
+      "meaning": [
+        "hat, cap"
+      ]
     },
     {
+      "uid": "ch22-010",
       "japanese": "眼鏡",
       "reading": "めがね",
       "romaji": "megane",
-      "meaning": ["glasses"]
+      "meaning": [
+        "glasses"
+      ]
     },
     {
+      "uid": "ch22-011",
       "japanese": "よく",
       "reading": "よく",
       "romaji": "yoku",
-      "meaning": ["often"]
+      "meaning": [
+        "often"
+      ]
     },
     {
+      "uid": "ch22-012",
       "japanese": "おめでとう ございます。",
       "reading": "おめでとう ございます。",
       "romaji": "omedetou gozaimasu.",
@@ -82,76 +116,112 @@
       ]
     },
     {
+      "uid": "ch22-013",
       "japanese": "こちら",
       "reading": "こちら",
       "romaji": "kochira",
-      "meaning": ["this (polite equivalent of これ)"]
+      "meaning": [
+        "this (polite equivalent of これ)"
+      ]
     },
     {
+      "uid": "ch22-014",
       "japanese": "家賃",
       "reading": "やちん",
       "romaji": "yachin",
-      "meaning": ["house rent"]
+      "meaning": [
+        "house rent"
+      ]
     },
     {
+      "uid": "ch22-015",
       "japanese": "うーん。",
       "reading": "うーん。",
       "romaji": "uun.",
-      "meaning": ["Let me see."]
+      "meaning": [
+        "Let me see."
+      ]
     },
     {
+      "uid": "ch22-016",
       "japanese": "ダイニングキチン",
       "reading": "ダイニングキチン",
       "romaji": "dainingukichin",
-      "meaning": ["kitchen with a dining area"]
+      "meaning": [
+        "kitchen with a dining area"
+      ]
     },
     {
+      "uid": "ch22-017",
       "japanese": "和室",
       "reading": "わしつ",
       "romaji": "washitsu",
-      "meaning": ["Japanese-style room"]
+      "meaning": [
+        "Japanese-style room"
+      ]
     },
     {
+      "uid": "ch22-018",
       "japanese": "押し入れ",
       "reading": "おしいれ",
       "romaji": "oshiire",
-      "meaning": ["Japanese-style closet"]
+      "meaning": [
+        "Japanese-style closet"
+      ]
     },
     {
+      "uid": "ch22-019",
       "japanese": "布団",
       "reading": "ふとん",
       "romaji": "futon",
-      "meaning": ["Japanese-style mattress and quilt"]
+      "meaning": [
+        "Japanese-style mattress and quilt"
+      ]
     },
     {
+      "uid": "ch22-020",
       "japanese": "アパート",
       "reading": "アパート",
       "romaji": "apaato",
-      "meaning": ["apartment"]
+      "meaning": [
+        "apartment"
+      ]
     },
     {
+      "uid": "ch22-021",
       "japanese": "パリ",
       "reading": "パリ",
       "romaji": "pari",
-      "meaning": ["Paris"]
+      "meaning": [
+        "Paris"
+      ]
     },
     {
+      "uid": "ch22-022",
       "japanese": "万里の長城",
       "reading": "ばんりのちょうじょう",
       "romaji": "banri no choujou",
-      "meaning": ["the Great Wall of China"]
+      "meaning": [
+        "the Great Wall of China"
+      ]
     },
     {
+      "uid": "ch22-023",
       "japanese": "余暇開発センター",
       "reading": "よかかいはつセンター",
       "romaji": "yokakaihatsu sentaa",
-      "meaning": ["Center for Developing Leisure Activities"]
+      "meaning": [
+        "Center for Developing Leisure Activities"
+      ]
     },
     {
+      "uid": "ch22-024",
       "japanese": "レジャー白書",
       "reading": "レジャーはくしょ",
       "romaji": "rejaa hakusho",
-      "meaning": ["white paper on leisure"]
+      "meaning": [
+        "white paper on leisure"
+      ]
     }
   ]
 }

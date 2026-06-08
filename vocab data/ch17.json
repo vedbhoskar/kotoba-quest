@@ -3,247 +3,361 @@
   "jlpt": "N5",
   "vocabulary": [
     {
+      "uid": "ch17-001",
       "japanese": "覚えます",
       "reading": "おぼえます",
       "romaji": "oboemasu",
-      "meaning": ["memorize"],
+      "meaning": [
+        "memorize"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch17-002",
       "japanese": "忘れます",
       "reading": "わすれます",
       "romaji": "wasuremasu",
-      "meaning": ["forget"],
+      "meaning": [
+        "forget"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch17-003",
       "japanese": "なくします",
       "reading": "なくします",
       "romaji": "nakushimasu",
-      "meaning": ["lose"],
+      "meaning": [
+        "lose"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch17-004",
       "japanese": "出します ［レポートを～］",
       "reading": "だします ［レポートを～］",
       "romaji": "dashimasu [repooto o ~]",
-      "meaning": ["hand in [a report]"],
+      "meaning": [
+        "hand in [a report]"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch17-005",
       "japanese": "払います",
       "reading": "はらいます",
       "romaji": "haraimasu",
-      "meaning": ["pay"],
+      "meaning": [
+        "pay"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch17-006",
       "japanese": "返します",
       "reading": "かえします",
       "romaji": "kaeshimasu",
-      "meaning": ["give back, return"],
+      "meaning": [
+        "give back, return"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch17-007",
       "japanese": "出かけます",
       "reading": "でかけます",
       "romaji": "dekakemasu",
-      "meaning": ["go out"],
+      "meaning": [
+        "go out"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch17-008",
       "japanese": "脱ぎます",
       "reading": "ぬぎます",
       "romaji": "nugimasu",
-      "meaning": ["take off (clothes, shoes, etc.)"],
+      "meaning": [
+        "take off (clothes, shoes, etc.)"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch17-009",
       "japanese": "持って行きます",
       "reading": "もっていきます",
       "romaji": "motte ikimasu",
-      "meaning": ["take (something)"],
+      "meaning": [
+        "take (something)"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch17-010",
       "japanese": "持って来ます",
       "reading": "もってきます",
       "romaji": "motte kimasu",
-      "meaning": ["bring (something)"],
+      "meaning": [
+        "bring (something)"
+      ],
       "verb_group": "III"
     },
     {
+      "uid": "ch17-011",
       "japanese": "心配します",
       "reading": "しんぱいします",
       "romaji": "shinpaishimasu",
-      "meaning": ["worry"],
+      "meaning": [
+        "worry"
+      ],
       "verb_group": "III"
     },
     {
+      "uid": "ch17-012",
       "japanese": "残業します",
       "reading": "ざんぎょうします",
       "romaji": "zangyoushimasu",
-      "meaning": ["work overtime"],
+      "meaning": [
+        "work overtime"
+      ],
       "verb_group": "III"
     },
     {
+      "uid": "ch17-013",
       "japanese": "出張します",
       "reading": "しゅっちょうします",
       "romaji": "shucchoushimasu",
-      "meaning": ["go on a business trip"],
+      "meaning": [
+        "go on a business trip"
+      ],
       "verb_group": "III"
     },
     {
+      "uid": "ch17-014",
       "japanese": "飲みます ［薬を～］",
       "reading": "のみます ［くすりを～］",
       "romaji": "nomimasu [kusuri o ~]",
-      "meaning": ["take [medicine]"],
+      "meaning": [
+        "take [medicine]"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch17-015",
       "japanese": "入ります ［おふろに～］",
       "reading": "はいります ［おふろに～］",
       "romaji": "hairimasu [ofuro ni ~]",
-      "meaning": ["take [a bath]"],
+      "meaning": [
+        "take [a bath]"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch17-016",
       "japanese": "大切［な］",
       "reading": "たいせつ［な］",
       "romaji": "taisetsu [na]",
-      "meaning": ["important, precious"]
+      "meaning": [
+        "important, precious"
+      ]
     },
     {
+      "uid": "ch17-017",
       "japanese": "大丈夫［な］",
       "reading": "だいじょうぶ［な］",
       "romaji": "daijoubu [na]",
-      "meaning": ["all right"]
+      "meaning": [
+        "all right"
+      ]
     },
     {
+      "uid": "ch17-018",
       "japanese": "危ない",
       "reading": "あぶない",
       "romaji": "abunai",
-      "meaning": ["dangerous"]
+      "meaning": [
+        "dangerous"
+      ]
     },
     {
+      "uid": "ch17-019",
       "japanese": "問題",
       "reading": "もんだい",
       "romaji": "mondai",
-      "meaning": ["question, problem, trouble"]
+      "meaning": [
+        "question, problem, trouble"
+      ]
     },
     {
+      "uid": "ch17-020",
       "japanese": "答え",
       "reading": "こたえ",
       "romaji": "kotae",
-      "meaning": ["answer"]
+      "meaning": [
+        "answer"
+      ]
     },
     {
+      "uid": "ch17-021",
       "japanese": "禁煙",
       "reading": "きんえん",
       "romaji": "kin'en",
-      "meaning": ["no smoking"]
+      "meaning": [
+        "no smoking"
+      ]
     },
     {
+      "uid": "ch17-022",
       "japanese": "［健康］保険証",
       "reading": "［けんこう］ほけんしょう",
       "romaji": "[kenkou] hokenshou",
-      "meaning": ["[health] insurance card"]
+      "meaning": [
+        "[health] insurance card"
+      ]
     },
     {
+      "uid": "ch17-023",
       "japanese": "かぜ",
       "reading": "かぜ",
       "romaji": "kaze",
-      "meaning": ["cold, flu"]
+      "meaning": [
+        "cold, flu"
+      ]
     },
     {
+      "uid": "ch17-024",
       "japanese": "熱",
       "reading": "ねつ",
       "romaji": "netsu",
-      "meaning": ["fever"]
+      "meaning": [
+        "fever"
+      ]
     },
     {
+      "uid": "ch17-025",
       "japanese": "病気",
       "reading": "びょうき",
       "romaji": "byouki",
-      "meaning": ["illness, disease"]
+      "meaning": [
+        "illness, disease"
+      ]
     },
     {
+      "uid": "ch17-026",
       "japanese": "薬",
       "reading": "くすり",
       "romaji": "kusuri",
-      "meaning": ["medicine"]
+      "meaning": [
+        "medicine"
+      ]
     },
     {
+      "uid": "ch17-027",
       "japanese": "［お］ふろ",
       "reading": "［お］ふろ",
       "romaji": "[o]furo",
-      "meaning": ["bath"]
+      "meaning": [
+        "bath"
+      ]
     },
     {
+      "uid": "ch17-028",
       "japanese": "上着",
       "reading": "うわぎ",
       "romaji": "uwagi",
-      "meaning": ["jacket, outerwear"]
+      "meaning": [
+        "jacket, outerwear"
+      ]
     },
     {
+      "uid": "ch17-029",
       "japanese": "下着",
       "reading": "したぎ",
       "romaji": "shitagi",
-      "meaning": ["underwear"]
+      "meaning": [
+        "underwear"
+      ]
     },
     {
+      "uid": "ch17-030",
       "japanese": "先生",
       "reading": "せんせい",
       "romaji": "sensei",
-      "meaning": ["doctor (used when addressing a medical doctor)"]
+      "meaning": [
+        "doctor (used when addressing a medical doctor)"
+      ]
     },
     {
+      "uid": "ch17-031",
       "japanese": "２、３日",
       "reading": "２、３にち",
       "romaji": "ni, san nichi",
-      "meaning": ["a few days"]
+      "meaning": [
+        "a few days"
+      ]
     },
     {
+      "uid": "ch17-032",
       "japanese": "２、３～",
       "reading": "２、３～",
       "romaji": "ni, san ~",
-      "meaning": ["a few ~ (~ is a counter suffix)"]
+      "meaning": [
+        "a few ~ (~ is a counter suffix)"
+      ]
     },
     {
+      "uid": "ch17-033",
       "japanese": "～までに",
       "reading": "～までに",
       "romaji": "~made ni",
-      "meaning": ["before ~, by ~ (indicating time limit)"]
+      "meaning": [
+        "before ~, by ~ (indicating time limit)"
+      ]
     },
     {
+      "uid": "ch17-034",
       "japanese": "ですから",
       "reading": "ですから",
       "romaji": "desukara",
-      "meaning": ["therefore, so"]
+      "meaning": [
+        "therefore, so"
+      ]
     },
     {
+      "uid": "ch17-035",
       "japanese": "どう しましたか。",
       "reading": "どう しましたか。",
       "romaji": "dou shimashita ka.",
-      "meaning": ["What's the matter?"]
+      "meaning": [
+        "What's the matter?"
+      ]
     },
     {
+      "uid": "ch17-036",
       "japanese": "［～が］痛いです。",
       "reading": "［～が］いたいです。",
       "romaji": "[~ga] itai desu.",
-      "meaning": ["(I) have a pain [in my ~]."]
+      "meaning": [
+        "(I) have a pain [in my ~]."
+      ]
     },
     {
+      "uid": "ch17-037",
       "japanese": "のど",
       "reading": "のど",
       "romaji": "nodo",
-      "meaning": ["throat"]
+      "meaning": [
+        "throat"
+      ]
     },
     {
+      "uid": "ch17-038",
       "japanese": "お大事に。",
       "reading": "おだいじに。",
       "romaji": "odaiji ni.",
-      "meaning": ["Take care of yourself. (said to people who are ill)"]
+      "meaning": [
+        "Take care of yourself. (said to people who are ill)"
+      ]
     }
   ]
 }

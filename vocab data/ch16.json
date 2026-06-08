@@ -3,338 +3,513 @@
   "jlpt": "N5",
   "vocabulary": [
     {
+      "uid": "ch16-001",
       "japanese": "乗ります ［電車に～］",
       "reading": "のります ［でんしゃに～］",
       "romaji": "norimasu [densha ni ~]",
-      "meaning": ["ride", "get on [a train]"],
+      "meaning": [
+        "ride",
+        "get on [a train]"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch16-002",
       "japanese": "降ります ［電車を～］",
       "reading": "おります ［でんしゃを～］",
       "romaji": "orimasu [densha o ~]",
-      "meaning": ["get off [a train]"],
+      "meaning": [
+        "get off [a train]"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch16-003",
       "japanese": "乗り換えます",
       "reading": "のりかえます",
       "romaji": "norikaemasu",
-      "meaning": ["change (trains, etc.)"],
+      "meaning": [
+        "change (trains, etc.)"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch16-004",
       "japanese": "浴びます ［シャワーを～］",
       "reading": "あびます ［シャワーを～］",
       "romaji": "abimasu [shawaa o ~]",
-      "meaning": ["take [a shower]"],
+      "meaning": [
+        "take [a shower]"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch16-005",
       "japanese": "入れます",
       "reading": "いれます",
       "romaji": "iremasu",
-      "meaning": ["put in", "insert"],
+      "meaning": [
+        "put in",
+        "insert"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch16-006",
       "japanese": "出します",
       "reading": "だします",
       "romaji": "dashimasu",
-      "meaning": ["take out", "withdraw"],
+      "meaning": [
+        "take out",
+        "withdraw"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch16-007",
       "japanese": "入ります ［大学に～］",
       "reading": "はいります ［だいがくに～］",
       "romaji": "hairimasu [daigaku ni ~]",
-      "meaning": ["enter [university]"],
+      "meaning": [
+        "enter [university]"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch16-008",
       "japanese": "出ます ［大学を～］",
       "reading": "でます ［だいがくを～］",
       "romaji": "demasu [daigaku o ~]",
-      "meaning": ["graduate from [university]"],
+      "meaning": [
+        "graduate from [university]"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch16-009",
       "japanese": "やめます ［会社を～］",
       "reading": "やめます ［かいしゃを～］",
       "romaji": "yamemasu [kaisha o ~]",
-      "meaning": ["quit or retire from [a company]", "stop", "give up"],
+      "meaning": [
+        "quit or retire from [a company]",
+        "stop",
+        "give up"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch16-010",
       "japanese": "押します",
       "reading": "おします",
       "romaji": "oshimasu",
-      "meaning": ["push", "press"],
+      "meaning": [
+        "push",
+        "press"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch16-011",
       "japanese": "若い",
       "reading": "わかい",
       "romaji": "wakai",
-      "meaning": ["young"]
+      "meaning": [
+        "young"
+      ]
     },
     {
+      "uid": "ch16-012",
       "japanese": "長い",
       "reading": "ながい",
       "romaji": "nagai",
-      "meaning": ["long"]
+      "meaning": [
+        "long"
+      ]
     },
     {
+      "uid": "ch16-013",
       "japanese": "短い",
       "reading": "みじかい",
       "romaji": "mijikai",
-      "meaning": ["short"]
+      "meaning": [
+        "short"
+      ]
     },
     {
+      "uid": "ch16-014",
       "japanese": "明るい",
       "reading": "あかるい",
       "romaji": "akarui",
-      "meaning": ["bright", "light"]
+      "meaning": [
+        "bright",
+        "light"
+      ]
     },
     {
+      "uid": "ch16-015",
       "japanese": "暗い",
       "reading": "くらい",
       "romaji": "kurai",
-      "meaning": ["dark"]
+      "meaning": [
+        "dark"
+      ]
     },
     {
+      "uid": "ch16-016",
       "japanese": "背が 高い",
       "reading": "せが たかい",
       "romaji": "se ga takai",
-      "meaning": ["tall (referring to person)"]
+      "meaning": [
+        "tall (referring to person)"
+      ]
     },
     {
+      "uid": "ch16-017",
       "japanese": "頭が いい",
       "reading": "あたまが いい",
       "romaji": "atama ga ii",
-      "meaning": ["clever", "smart"]
+      "meaning": [
+        "clever",
+        "smart"
+      ]
     },
     {
+      "uid": "ch16-018",
       "japanese": "体",
       "reading": "からだ",
       "romaji": "karada",
-      "meaning": ["body"]
+      "meaning": [
+        "body"
+      ]
     },
     {
+      "uid": "ch16-019",
       "japanese": "頭",
       "reading": "あたま",
       "romaji": "atama",
-      "meaning": ["head"]
+      "meaning": [
+        "head"
+      ]
     },
     {
+      "uid": "ch16-020",
       "japanese": "髪",
       "reading": "かみ",
       "romaji": "kami",
-      "meaning": ["hair"]
+      "meaning": [
+        "hair"
+      ]
     },
     {
+      "uid": "ch16-021",
       "japanese": "顔",
       "reading": "かお",
       "romaji": "kao",
-      "meaning": ["face"]
+      "meaning": [
+        "face"
+      ]
     },
     {
+      "uid": "ch16-022",
       "japanese": "目",
       "reading": "め",
       "romaji": "me",
-      "meaning": ["eye"]
+      "meaning": [
+        "eye"
+      ]
     },
     {
+      "uid": "ch16-023",
       "japanese": "耳",
       "reading": "みみ",
       "romaji": "mimi",
-      "meaning": ["ear"]
+      "meaning": [
+        "ear"
+      ]
     },
     {
+      "uid": "ch16-024",
       "japanese": "口",
       "reading": "くち",
       "romaji": "kuchi",
-      "meaning": ["mouth"]
+      "meaning": [
+        "mouth"
+      ]
     },
     {
+      "uid": "ch16-025",
       "japanese": "歯",
       "reading": "は",
       "romaji": "ha",
-      "meaning": ["tooth"]
+      "meaning": [
+        "tooth"
+      ]
     },
     {
+      "uid": "ch16-026",
       "japanese": "おなか",
       "reading": "おなか",
       "romaji": "onaka",
-      "meaning": ["stomach"]
+      "meaning": [
+        "stomach"
+      ]
     },
     {
+      "uid": "ch16-027",
       "japanese": "足",
       "reading": "あし",
       "romaji": "ashi",
-      "meaning": ["leg", "foot"]
+      "meaning": [
+        "leg",
+        "foot"
+      ]
     },
     {
+      "uid": "ch16-028",
       "japanese": "サービス",
       "reading": "サービス",
       "romaji": "saabisu",
-      "meaning": ["service"]
+      "meaning": [
+        "service"
+      ]
     },
     {
+      "uid": "ch16-029",
       "japanese": "ジョギング",
       "reading": "ジョギング",
       "romaji": "jogingu",
-      "meaning": ["jogging (～を します: jog)"]
+      "meaning": [
+        "jogging (～を します: jog)"
+      ]
     },
     {
+      "uid": "ch16-030",
       "japanese": "シャワー",
       "reading": "シャワー",
       "romaji": "shawaa",
-      "meaning": ["shower"]
+      "meaning": [
+        "shower"
+      ]
     },
     {
+      "uid": "ch16-031",
       "japanese": "緑",
       "reading": "みどり",
       "romaji": "midori",
-      "meaning": ["green", "greenery"]
+      "meaning": [
+        "green",
+        "greenery"
+      ]
     },
     {
+      "uid": "ch16-032",
       "japanese": "［お］寺",
       "reading": "［お］てら",
       "romaji": "[o]tera",
-      "meaning": ["Buddhist temple"]
+      "meaning": [
+        "Buddhist temple"
+      ]
     },
     {
+      "uid": "ch16-033",
       "japanese": "神社",
       "reading": "じんじゃ",
       "romaji": "jinja",
-      "meaning": ["Shinto shrine"]
+      "meaning": [
+        "Shinto shrine"
+      ]
     },
     {
+      "uid": "ch16-034",
       "japanese": "留学生",
       "reading": "りゅうがくせい",
       "romaji": "ryuugakusei",
-      "meaning": ["foreign student"]
+      "meaning": [
+        "foreign student"
+      ]
     },
     {
+      "uid": "ch16-035",
       "japanese": "ー番",
       "reading": "ーばん",
       "romaji": "-ban",
-      "meaning": ["number ー"]
+      "meaning": [
+        "number ー"
+      ]
     },
     {
+      "uid": "ch16-036",
       "japanese": "どうやって",
       "reading": "どうやって",
       "romaji": "douyatte",
-      "meaning": ["in what way", "how"]
+      "meaning": [
+        "in what way",
+        "how"
+      ]
     },
     {
+      "uid": "ch16-037",
       "japanese": "どの～",
       "reading": "どの～",
       "romaji": "dono~",
-      "meaning": ["which ~ (used for three or more)"]
+      "meaning": [
+        "which ~ (used for three or more)"
+      ]
     },
     {
+      "uid": "ch16-038",
       "japanese": "［いいえ、］まだまだです。",
       "reading": "［いいえ、］まだまだです。",
       "romaji": "[iie,] madamada desu.",
-      "meaning": ["[No,] I still have a long way to go."]
+      "meaning": [
+        "[No,] I still have a long way to go."
+      ]
     },
     {
+      "uid": "ch16-039",
       "japanese": "お引き出しですか。",
       "reading": "おひきだしですか。",
       "romaji": "ohikidashi desu ka.",
-      "meaning": ["Are you making a withdrawal?"]
+      "meaning": [
+        "Are you making a withdrawal?"
+      ]
     },
     {
+      "uid": "ch16-040",
       "japanese": "まず",
       "reading": "まず",
       "romaji": "mazu",
-      "meaning": ["first of all"]
+      "meaning": [
+        "first of all"
+      ]
     },
     {
+      "uid": "ch16-041",
       "japanese": "キャッシュカード",
       "reading": "キャッシュカード",
       "romaji": "kyasshukaado",
-      "meaning": ["cash dispensing card"]
+      "meaning": [
+        "cash dispensing card"
+      ]
     },
     {
+      "uid": "ch16-042",
       "japanese": "暗証番号",
       "reading": "あんしょうばんごう",
       "romaji": "anshoubangou",
-      "meaning": ["personal identification number", "PIN"]
+      "meaning": [
+        "personal identification number",
+        "PIN"
+      ]
     },
     {
+      "uid": "ch16-043",
       "japanese": "次に",
       "reading": "つぎに",
       "romaji": "tsugini",
-      "meaning": ["next", "as a next step"]
+      "meaning": [
+        "next",
+        "as a next step"
+      ]
     },
     {
+      "uid": "ch16-044",
       "japanese": "金額",
       "reading": "きんがく",
       "romaji": "kingaku",
-      "meaning": ["amount of money"]
+      "meaning": [
+        "amount of money"
+      ]
     },
     {
+      "uid": "ch16-045",
       "japanese": "確認",
       "reading": "かくにん",
       "romaji": "kakunin",
-      "meaning": ["confirmation (～ します: confirm)"]
+      "meaning": [
+        "confirmation (～ します: confirm)"
+      ]
     },
     {
+      "uid": "ch16-046",
       "japanese": "ボタン",
       "reading": "ボタン",
       "romaji": "botan",
-      "meaning": ["button"]
+      "meaning": [
+        "button"
+      ]
     },
     {
+      "uid": "ch16-047",
       "japanese": "ＪＲ",
       "reading": "ＪＲ",
       "romaji": "JR",
-      "meaning": ["Japan Railway"]
+      "meaning": [
+        "Japan Railway"
+      ]
     },
     {
+      "uid": "ch16-048",
       "japanese": "アジア",
       "reading": "アジア",
       "romaji": "ajia",
-      "meaning": ["Asia"]
+      "meaning": [
+        "Asia"
+      ]
     },
     {
+      "uid": "ch16-049",
       "japanese": "バンドン",
       "reading": "バンドン",
       "romaji": "bandon",
-      "meaning": ["Bandung (in Indonesia)"]
+      "meaning": [
+        "Bandung (in Indonesia)"
+      ]
     },
     {
+      "uid": "ch16-050",
       "japanese": "ベラクルス",
       "reading": "ベラクルス",
       "romaji": "berakurusu",
-      "meaning": ["Veracruz (in Mexico)"]
+      "meaning": [
+        "Veracruz (in Mexico)"
+      ]
     },
     {
+      "uid": "ch16-051",
       "japanese": "フランケン",
       "reading": "フランケン",
       "romaji": "furanken",
-      "meaning": ["Franken (in Germany)"]
+      "meaning": [
+        "Franken (in Germany)"
+      ]
     },
     {
+      "uid": "ch16-052",
       "japanese": "ベトナム",
       "reading": "ベトナム",
       "romaji": "betonamu",
-      "meaning": ["Vietnam"]
+      "meaning": [
+        "Vietnam"
+      ]
     },
     {
+      "uid": "ch16-053",
       "japanese": "フエ",
       "reading": "フエ",
       "romaji": "fue",
-      "meaning": ["Hue (in Vietnam)"]
+      "meaning": [
+        "Hue (in Vietnam)"
+      ]
     },
     {
+      "uid": "ch16-054",
       "japanese": "大学前",
       "reading": "だいがくまえ",
       "romaji": "daigakumae",
-      "meaning": ["fictitious bus stop"]
+      "meaning": [
+        "fictitious bus stop"
+      ]
     }
   ]
 }

@@ -3,42 +3,66 @@
   "jlpt": "N5",
   "vocabulary": [
     {
+      "uid": "ch03-001",
       "japanese": "ここ",
       "reading": "ここ",
       "romaji": "koko",
-      "meaning": ["here", "this place"]
+      "meaning": [
+        "here",
+        "this place"
+      ]
     },
     {
+      "uid": "ch03-002",
       "japanese": "そこ",
       "reading": "そこ",
       "romaji": "soko",
-      "meaning": ["there", "that place near you"]
+      "meaning": [
+        "there",
+        "that place near you"
+      ]
     },
     {
+      "uid": "ch03-003",
       "japanese": "あそこ",
       "reading": "あそこ",
       "romaji": "asoko",
-      "meaning": ["that place over there"]
+      "meaning": [
+        "that place over there"
+      ]
     },
     {
+      "uid": "ch03-004",
       "japanese": "どこ",
       "reading": "どこ",
       "romaji": "doko",
-      "meaning": ["where", "what place"]
+      "meaning": [
+        "where",
+        "what place"
+      ]
     },
     {
+      "uid": "ch03-005",
       "japanese": "こちら",
       "reading": "こちら",
       "romaji": "kochira",
-      "meaning": ["this way", "this place (polite equivalent of ここ)"]
+      "meaning": [
+        "this way",
+        "this place (polite equivalent of ここ)"
+      ]
     },
     {
+      "uid": "ch03-006",
       "japanese": "そちら",
       "reading": "そちら",
       "romaji": "sochira",
-      "meaning": ["that way", "that place near you (polite equivalent of そこ)"]
+      "meaning": [
+        "that way",
+        "that place near you (polite equivalent of そこ)"
+      ]
     },
     {
+      "uid": "ch03-007",
       "japanese": "あちら",
       "reading": "あちら",
       "romaji": "achira",
@@ -48,232 +72,355 @@
       ]
     },
     {
+      "uid": "ch03-008",
       "japanese": "どちら",
       "reading": "どちら",
       "romaji": "dochira",
-      "meaning": ["which way", "where (polite equivalent of どこ)"]
+      "meaning": [
+        "which way",
+        "where (polite equivalent of どこ)"
+      ]
     },
     {
+      "uid": "ch03-009",
       "japanese": "教室",
       "reading": "きょうしつ",
       "romaji": "kyoushitsu",
-      "meaning": ["classroom"]
+      "meaning": [
+        "classroom"
+      ]
     },
     {
+      "uid": "ch03-010",
       "japanese": "食堂",
       "reading": "しょくどう",
       "romaji": "shokudou",
-      "meaning": ["dining hall", "canteen"]
+      "meaning": [
+        "dining hall",
+        "canteen"
+      ]
     },
     {
+      "uid": "ch03-011",
       "japanese": "事務所",
       "reading": "じむしょ",
       "romaji": "jimusho",
-      "meaning": ["office"]
+      "meaning": [
+        "office"
+      ]
     },
     {
+      "uid": "ch03-012",
       "japanese": "会議室",
       "reading": "かいぎしつ",
       "romaji": "kaigishitsu",
-      "meaning": ["conference room", "assembly room"]
+      "meaning": [
+        "conference room",
+        "assembly room"
+      ]
     },
     {
+      "uid": "ch03-013",
       "japanese": "受付",
       "reading": "うけつけ",
       "romaji": "uketsuke",
-      "meaning": ["reception desk"]
+      "meaning": [
+        "reception desk"
+      ]
     },
     {
+      "uid": "ch03-014",
       "japanese": "ロビー",
       "reading": "ロビー",
       "romaji": "robii",
-      "meaning": ["lobby"]
+      "meaning": [
+        "lobby"
+      ]
     },
     {
+      "uid": "ch03-015",
       "japanese": "部屋",
       "reading": "へや",
       "romaji": "heya",
-      "meaning": ["room"]
+      "meaning": [
+        "room"
+      ]
     },
     {
+      "uid": "ch03-016",
       "japanese": "トイレ (お手洗い)",
       "reading": "トイレ (おてあらい)",
       "romaji": "toire (otearai)",
-      "meaning": ["toilet", "rest room"]
+      "meaning": [
+        "toilet",
+        "rest room"
+      ]
     },
     {
+      "uid": "ch03-017",
       "japanese": "階段",
       "reading": "かいだん",
       "romaji": "kaidan",
-      "meaning": ["staircase"]
+      "meaning": [
+        "staircase"
+      ]
     },
     {
+      "uid": "ch03-018",
       "japanese": "エレベーター",
       "reading": "エレベーター",
       "romaji": "erebeetaa",
-      "meaning": ["elevator", "lift"]
+      "meaning": [
+        "elevator",
+        "lift"
+      ]
     },
     {
+      "uid": "ch03-019",
       "japanese": "エスカレーター",
       "reading": "エスカレーター",
       "romaji": "esukareetaa",
-      "meaning": ["escalator"]
+      "meaning": [
+        "escalator"
+      ]
     },
     {
+      "uid": "ch03-020",
       "japanese": "[お]国",
       "reading": "[お]くに",
       "romaji": "[o]kuni",
-      "meaning": ["country"]
+      "meaning": [
+        "country"
+      ]
     },
     {
+      "uid": "ch03-021",
       "japanese": "会社",
       "reading": "かいしゃ",
       "romaji": "kaisha",
-      "meaning": ["company"]
+      "meaning": [
+        "company"
+      ]
     },
     {
+      "uid": "ch03-022",
       "japanese": "うち",
       "reading": "うち",
       "romaji": "uchi",
-      "meaning": ["house", "home"]
+      "meaning": [
+        "house",
+        "home"
+      ]
     },
     {
+      "uid": "ch03-023",
       "japanese": "電話",
       "reading": "でんわ",
       "romaji": "denwa",
-      "meaning": ["telephone", "telephone call"]
+      "meaning": [
+        "telephone",
+        "telephone call"
+      ]
     },
     {
+      "uid": "ch03-024",
       "japanese": "靴",
       "reading": "くつ",
       "romaji": "kutsu",
-      "meaning": ["shoes"]
+      "meaning": [
+        "shoes"
+      ]
     },
     {
+      "uid": "ch03-025",
       "japanese": "ネクタイ",
       "reading": "ネクタイ",
       "romaji": "nekutai",
-      "meaning": ["necktie"]
+      "meaning": [
+        "necktie"
+      ]
     },
     {
+      "uid": "ch03-026",
       "japanese": "ワイン",
       "reading": "ワイン",
       "romaji": "wain",
-      "meaning": ["wine"]
+      "meaning": [
+        "wine"
+      ]
     },
     {
+      "uid": "ch03-027",
       "japanese": "たばこ",
       "reading": "たばこ",
       "romaji": "tabako",
-      "meaning": ["tobacco", "cigarette"]
+      "meaning": [
+        "tobacco",
+        "cigarette"
+      ]
     },
     {
+      "uid": "ch03-028",
       "japanese": "売り場",
       "reading": "うりば",
       "romaji": "uriba",
-      "meaning": ["department", "counter (in a department store)"]
+      "meaning": [
+        "department",
+        "counter (in a department store)"
+      ]
     },
     {
+      "uid": "ch03-029",
       "japanese": "地下",
       "reading": "ちか",
       "romaji": "chika",
-      "meaning": ["basement"]
+      "meaning": [
+        "basement"
+      ]
     },
     {
+      "uid": "ch03-030",
       "japanese": "ー階",
       "reading": "ーかい (ーがい)",
       "romaji": "-kai (-gai)",
-      "meaning": ["-th floor"]
+      "meaning": [
+        "-th floor"
+      ]
     },
     {
+      "uid": "ch03-031",
       "japanese": "何階",
       "reading": "なんがい",
       "romaji": "nangai",
-      "meaning": ["what floor"]
+      "meaning": [
+        "what floor"
+      ]
     },
     {
+      "uid": "ch03-032",
       "japanese": "ー円",
       "reading": "ーえん",
       "romaji": "-en",
-      "meaning": ["ー yen"]
+      "meaning": [
+        "ー yen"
+      ]
     },
     {
+      "uid": "ch03-033",
       "japanese": "いくら",
       "reading": "いくら",
       "romaji": "ikura",
-      "meaning": ["how much"]
+      "meaning": [
+        "how much"
+      ]
     },
     {
+      "uid": "ch03-034",
       "japanese": "百",
       "reading": "ひゃく",
       "romaji": "hyaku",
-      "meaning": ["hundred"]
+      "meaning": [
+        "hundred"
+      ]
     },
     {
+      "uid": "ch03-035",
       "japanese": "千",
       "reading": "せん",
       "romaji": "sen",
-      "meaning": ["thousand"]
+      "meaning": [
+        "thousand"
+      ]
     },
     {
+      "uid": "ch03-036",
       "japanese": "万",
       "reading": "まん",
       "romaji": "man",
-      "meaning": ["ten thousand"]
+      "meaning": [
+        "ten thousand"
+      ]
     },
     {
+      "uid": "ch03-037",
       "japanese": "すみません。",
       "reading": "すみません。",
       "romaji": "sumimasen.",
-      "meaning": ["Excuse me."]
+      "meaning": [
+        "Excuse me."
+      ]
     },
     {
+      "uid": "ch03-038",
       "japanese": "〜で ございます。",
       "reading": "〜で ございます。",
       "romaji": "~de gozaimasu.",
-      "meaning": ["(polite equivalent of です)"]
+      "meaning": [
+        "(polite equivalent of です)"
+      ]
     },
     {
+      "uid": "ch03-039",
       "japanese": "[〜を] 見せて ください。",
       "reading": "[〜を] みせて ください。",
       "romaji": "[~o] misete kudasai.",
-      "meaning": ["Please show me [~]."]
+      "meaning": [
+        "Please show me [~]."
+      ]
     },
     {
+      "uid": "ch03-040",
       "japanese": "じゃ",
       "reading": "じゃ",
       "romaji": "ja",
-      "meaning": ["well, then, in that case"]
+      "meaning": [
+        "well, then, in that case"
+      ]
     },
     {
+      "uid": "ch03-041",
       "japanese": "[〜を] ください。",
       "reading": "[〜を] ください。",
       "romaji": "[~o] kudasai.",
-      "meaning": ["Give me [~], please."]
+      "meaning": [
+        "Give me [~], please."
+      ]
     },
     {
+      "uid": "ch03-042",
       "japanese": "新大阪",
       "reading": "しんおおさか",
       "romaji": "shin-oosaka",
-      "meaning": ["name of a station in Osaka"]
+      "meaning": [
+        "name of a station in Osaka"
+      ]
     },
     {
+      "uid": "ch03-043",
       "japanese": "イタリア",
       "reading": "イタリア",
       "romaji": "itaria",
-      "meaning": ["Italy"]
+      "meaning": [
+        "Italy"
+      ]
     },
     {
+      "uid": "ch03-044",
       "japanese": "スイス",
       "reading": "スイス",
       "romaji": "suisu",
-      "meaning": ["Switzerland"]
+      "meaning": [
+        "Switzerland"
+      ]
     },
     {
+      "uid": "ch03-045",
       "japanese": "MT / ヨーネン / アキックス",
       "reading": "MT / ヨーネン / アキックス",
       "romaji": "MT / yoonen / akikkusu",
-      "meaning": ["fictitious companies"]
+      "meaning": [
+        "fictitious companies"
+      ]
     }
   ]
 }

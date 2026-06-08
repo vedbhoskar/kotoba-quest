@@ -3,188 +3,280 @@
   "jlpt": "N5",
   "vocabulary": [
     {
+      "uid": "ch18-001",
       "japanese": "できます",
       "reading": "できます",
       "romaji": "dekimasu",
-      "meaning": ["be able to", "can"],
+      "meaning": [
+        "be able to",
+        "can"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch18-002",
       "japanese": "洗います",
       "reading": "あらいます",
       "romaji": "araimasu",
-      "meaning": ["wash"],
+      "meaning": [
+        "wash"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch18-003",
       "japanese": "弾きます",
       "reading": "ひきます",
       "romaji": "hikimasu",
-      "meaning": ["play (stringed instrument or piano, etc.)"],
+      "meaning": [
+        "play (stringed instrument or piano, etc.)"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch18-004",
       "japanese": "歌います",
       "reading": "うたいます",
       "romaji": "utaimasu",
-      "meaning": ["sing"],
+      "meaning": [
+        "sing"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch18-005",
       "japanese": "集めます",
       "reading": "あつめます",
       "romaji": "atsumemasu",
-      "meaning": ["collect", "gather"],
+      "meaning": [
+        "collect",
+        "gather"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch18-006",
       "japanese": "捨てます",
       "reading": "すてます",
       "romaji": "sutemasu",
-      "meaning": ["throw away"],
+      "meaning": [
+        "throw away"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch18-007",
       "japanese": "換えます",
       "reading": "かえます",
       "romaji": "kaemasu",
-      "meaning": ["exchange", "change"],
+      "meaning": [
+        "exchange",
+        "change"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch18-008",
       "japanese": "運転します",
       "reading": "うんてんします",
       "romaji": "untenshimasu",
-      "meaning": ["drive"],
+      "meaning": [
+        "drive"
+      ],
       "verb_group": "III"
     },
     {
+      "uid": "ch18-009",
       "japanese": "予約します",
       "reading": "よやくします",
       "romaji": "yoyakushimasu",
-      "meaning": ["reserve", "book"],
+      "meaning": [
+        "reserve",
+        "book"
+      ],
       "verb_group": "III"
     },
     {
+      "uid": "ch18-010",
       "japanese": "見学します",
       "reading": "けんがくします",
       "romaji": "kengakushimasu",
-      "meaning": ["visit some place for study"],
+      "meaning": [
+        "visit some place for study"
+      ],
       "verb_group": "III"
     },
     {
+      "uid": "ch18-011",
       "japanese": "ピアノ",
       "reading": "ピアノ",
       "romaji": "piano",
-      "meaning": ["piano"]
+      "meaning": [
+        "piano"
+      ]
     },
     {
+      "uid": "ch18-012",
       "japanese": "－メートル",
       "reading": "－メートル",
       "romaji": "-meetoru",
-      "meaning": ["－ meter"]
+      "meaning": [
+        "－ meter"
+      ]
     },
     {
+      "uid": "ch18-013",
       "japanese": "国際～",
       "reading": "こくさい～",
       "romaji": "kokusai~",
-      "meaning": ["international ～"]
+      "meaning": [
+        "international ～"
+      ]
     },
     {
+      "uid": "ch18-014",
       "japanese": "現金",
       "reading": "げんきん",
       "romaji": "genkin",
-      "meaning": ["cash"]
+      "meaning": [
+        "cash"
+      ]
     },
     {
+      "uid": "ch18-015",
       "japanese": "趣味",
       "reading": "しゅみ",
       "romaji": "shumi",
-      "meaning": ["hobby"]
+      "meaning": [
+        "hobby"
+      ]
     },
     {
+      "uid": "ch18-016",
       "japanese": "日記",
       "reading": "にっき",
       "romaji": "nikki",
-      "meaning": ["diary"]
+      "meaning": [
+        "diary"
+      ]
     },
     {
+      "uid": "ch18-017",
       "japanese": "［お］祈り",
       "reading": "［お］いのり",
       "romaji": "[o]inori",
-      "meaning": ["prayer (～を します: pray)"]
+      "meaning": [
+        "prayer (～を します: pray)"
+      ]
     },
     {
+      "uid": "ch18-018",
       "japanese": "課長",
       "reading": "かちょう",
       "romaji": "kachou",
-      "meaning": ["section chief"]
+      "meaning": [
+        "section chief"
+      ]
     },
     {
+      "uid": "ch18-019",
       "japanese": "部長",
       "reading": "ぶちょう",
       "romaji": "buchou",
-      "meaning": ["department chief"]
+      "meaning": [
+        "department chief"
+      ]
     },
     {
+      "uid": "ch18-020",
       "japanese": "社長",
       "reading": "しゃちょう",
       "romaji": "shachou",
-      "meaning": ["president of a company"]
+      "meaning": [
+        "president of a company"
+      ]
     },
     {
+      "uid": "ch18-021",
       "japanese": "動物",
       "reading": "どうぶつ",
       "romaji": "doubutsu",
-      "meaning": ["animal"]
+      "meaning": [
+        "animal"
+      ]
     },
     {
+      "uid": "ch18-022",
       "japanese": "馬",
       "reading": "うま",
       "romaji": "uma",
-      "meaning": ["horse"]
+      "meaning": [
+        "horse"
+      ]
     },
     {
+      "uid": "ch18-023",
       "japanese": "へえ",
       "reading": "へえ",
       "romaji": "hee",
-      "meaning": ["Really! (used when expressing surprise)"]
+      "meaning": [
+        "Really! (used when expressing surprise)"
+      ]
     },
     {
+      "uid": "ch18-024",
       "japanese": "それは おもしろいですね。",
       "reading": "それは おもしろいですね。",
       "romaji": "sore wa omoshiroi desu ne.",
-      "meaning": ["That must be interesting."]
+      "meaning": [
+        "That must be interesting."
+      ]
     },
     {
+      "uid": "ch18-025",
       "japanese": "なかなか",
       "reading": "なかなか",
       "romaji": "nakanaka",
-      "meaning": ["not easily (used with negatives)"]
+      "meaning": [
+        "not easily (used with negatives)"
+      ]
     },
     {
+      "uid": "ch18-026",
       "japanese": "牧場",
       "reading": "ぼくじょう",
       "romaji": "bokujou",
-      "meaning": ["ranch", "stock farm"]
+      "meaning": [
+        "ranch",
+        "stock farm"
+      ]
     },
     {
+      "uid": "ch18-027",
       "japanese": "ほんとうですか。",
       "reading": "ほんとうですか。",
       "romaji": "hontou desu ka.",
-      "meaning": ["Really?"]
+      "meaning": [
+        "Really?"
+      ]
     },
     {
+      "uid": "ch18-028",
       "japanese": "ぜひ",
       "reading": "ぜひ",
       "romaji": "zehi",
-      "meaning": ["by all means"]
+      "meaning": [
+        "by all means"
+      ]
     },
     {
+      "uid": "ch18-029",
       "japanese": "ビートルズ",
       "reading": "ビートルズ",
       "romaji": "biitoruzu",
-      "meaning": ["the Beatles, famous British music group"]
+      "meaning": [
+        "the Beatles, famous British music group"
+      ]
     }
   ]
 }

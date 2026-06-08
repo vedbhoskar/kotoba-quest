@@ -3,126 +3,188 @@
   "jlpt": "N5",
   "vocabulary": [
     {
+      "uid": "ch24-001",
       "japanese": "くれます",
       "reading": "くれます",
       "romaji": "kuremasu",
-      "meaning": ["give (me)"],
+      "meaning": [
+        "give (me)"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch24-002",
       "japanese": "連れて行きます",
       "reading": "つれていきます",
       "romaji": "tsurete ikimasu",
-      "meaning": ["take (someone)"],
+      "meaning": [
+        "take (someone)"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch24-003",
       "japanese": "連れて来ます",
       "reading": "つれてきます",
       "romaji": "tsurete kimasu",
-      "meaning": ["bring (someone)"],
+      "meaning": [
+        "bring (someone)"
+      ],
       "verb_group": "III"
     },
     {
+      "uid": "ch24-004",
       "japanese": "送ります ［人を～］",
       "reading": "おくります ［ひとを～］",
       "romaji": "okurimasu [hito o ~]",
-      "meaning": ["escort [someone]", "go with"],
+      "meaning": [
+        "escort [someone]",
+        "go with"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch24-005",
       "japanese": "紹介します",
       "reading": "しょうかいします",
       "romaji": "shoukaishimasu",
-      "meaning": ["introduce"],
+      "meaning": [
+        "introduce"
+      ],
       "verb_group": "III"
     },
     {
+      "uid": "ch24-006",
       "japanese": "案内します",
       "reading": "あんないします",
       "romaji": "annaishimasu",
-      "meaning": ["show around", "show the way"],
+      "meaning": [
+        "show around",
+        "show the way"
+      ],
       "verb_group": "III"
     },
     {
+      "uid": "ch24-007",
       "japanese": "説明します",
       "reading": "せつめいします",
       "romaji": "setsumeishimasu",
-      "meaning": ["explain"],
+      "meaning": [
+        "explain"
+      ],
       "verb_group": "III"
     },
     {
+      "uid": "ch24-008",
       "japanese": "いれます ［コーヒーを～］",
       "reading": "いれます ［コーヒーを～］",
       "romaji": "iremasu [koohii o ~]",
-      "meaning": ["make [coffee]"],
+      "meaning": [
+        "make [coffee]"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch24-009",
       "japanese": "おじいさん／おじいちゃん",
       "reading": "おじいさん／おじいちゃん",
       "romaji": "ojiisan / ojiichan",
-      "meaning": ["grandfather", "old man"]
+      "meaning": [
+        "grandfather",
+        "old man"
+      ]
     },
     {
+      "uid": "ch24-010",
       "japanese": "おばあさん／おばあちゃん",
       "reading": "おばあさん／おばあちゃん",
       "romaji": "obaasan / obaachan",
-      "meaning": ["grandmother", "old woman"]
+      "meaning": [
+        "grandmother",
+        "old woman"
+      ]
     },
     {
+      "uid": "ch24-011",
       "japanese": "準備",
       "reading": "じゅんび",
       "romaji": "junbi",
-      "meaning": ["preparation (～ します: prepare)"]
+      "meaning": [
+        "preparation (～ します: prepare)"
+      ]
     },
     {
+      "uid": "ch24-012",
       "japanese": "意味",
       "reading": "いみ",
       "romaji": "imi",
-      "meaning": ["meaning"]
+      "meaning": [
+        "meaning"
+      ]
     },
     {
+      "uid": "ch24-013",
       "japanese": "［お］菓子",
       "reading": "［お］かし",
       "romaji": "[o]kashi",
-      "meaning": ["sweets", "snacks"]
+      "meaning": [
+        "sweets",
+        "snacks"
+      ]
     },
     {
+      "uid": "ch24-014",
       "japanese": "全部",
       "reading": "ぜんぶ",
       "romaji": "zenbu",
-      "meaning": ["all"]
+      "meaning": [
+        "all"
+      ]
     },
     {
+      "uid": "ch24-015",
       "japanese": "自分で",
       "reading": "じぶんで",
       "romaji": "jibun de",
-      "meaning": ["by oneself"]
+      "meaning": [
+        "by oneself"
+      ]
     },
     {
+      "uid": "ch24-016",
       "japanese": "ほかに",
       "reading": "ほかに",
       "romaji": "hokani",
-      "meaning": ["besides"]
+      "meaning": [
+        "besides"
+      ]
     },
     {
+      "uid": "ch24-017",
       "japanese": "ワゴン車",
       "reading": "ワゴンしゃ",
       "romaji": "wagonsha",
-      "meaning": ["station wagon"]
+      "meaning": [
+        "station wagon"
+      ]
     },
     {
+      "uid": "ch24-018",
       "japanese": "［お］弁当",
       "reading": "［お］べんとう",
       "romaji": "[o]bentou",
-      "meaning": ["box lunch"]
+      "meaning": [
+        "box lunch"
+      ]
     },
     {
+      "uid": "ch24-019",
       "japanese": "母の日",
       "reading": "ははのひ",
       "romaji": "haha no hi",
-      "meaning": ["Mother's Day"]
+      "meaning": [
+        "Mother's Day"
+      ]
     }
   ]
 }

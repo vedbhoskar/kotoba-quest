@@ -3,258 +3,388 @@
   "jlpt": "N5",
   "vocabulary": [
     {
+      "uid": "ch02-001",
       "japanese": "これ",
       "reading": "これ",
       "romaji": "kore",
-      "meaning": ["this (thing here)"]
+      "meaning": [
+        "this (thing here)"
+      ]
     },
     {
+      "uid": "ch02-002",
       "japanese": "それ",
       "reading": "それ",
       "romaji": "sore",
-      "meaning": ["that (thing near you)"]
+      "meaning": [
+        "that (thing near you)"
+      ]
     },
     {
+      "uid": "ch02-003",
       "japanese": "あれ",
       "reading": "あれ",
       "romaji": "are",
-      "meaning": ["that (thing over there)"]
+      "meaning": [
+        "that (thing over there)"
+      ]
     },
     {
+      "uid": "ch02-004",
       "japanese": "この～",
       "reading": "この～",
       "romaji": "kono~",
-      "meaning": ["this ~, this ~ here"]
+      "meaning": [
+        "this ~, this ~ here"
+      ]
     },
     {
+      "uid": "ch02-005",
       "japanese": "その～",
       "reading": "その～",
       "romaji": "sono~",
-      "meaning": ["that ~, that ~ near you"]
+      "meaning": [
+        "that ~, that ~ near you"
+      ]
     },
     {
+      "uid": "ch02-006",
       "japanese": "あの～",
       "reading": "あの～",
       "romaji": "ano~",
-      "meaning": ["that ~, that ~ over there"]
+      "meaning": [
+        "that ~, that ~ over there"
+      ]
     },
     {
+      "uid": "ch02-007",
       "japanese": "本",
       "reading": "ほん",
       "romaji": "hon",
-      "meaning": ["book"]
+      "meaning": [
+        "book"
+      ]
     },
     {
+      "uid": "ch02-008",
       "japanese": "辞書",
       "reading": "じしょ",
       "romaji": "jisho",
-      "meaning": ["dictionary"]
+      "meaning": [
+        "dictionary"
+      ]
     },
     {
+      "uid": "ch02-009",
       "japanese": "雑誌",
       "reading": "ざっし",
       "romaji": "zasshi",
-      "meaning": ["magazine"]
+      "meaning": [
+        "magazine"
+      ]
     },
     {
+      "uid": "ch02-010",
       "japanese": "新聞",
       "reading": "しんぶん",
       "romaji": "shinbun",
-      "meaning": ["newspaper"]
+      "meaning": [
+        "newspaper"
+      ]
     },
     {
+      "uid": "ch02-011",
       "japanese": "ノート",
       "reading": "ノート",
       "romaji": "nooto",
-      "meaning": ["notebook"]
+      "meaning": [
+        "notebook"
+      ]
     },
     {
+      "uid": "ch02-012",
       "japanese": "手帳",
       "reading": "てちょう",
       "romaji": "techou",
-      "meaning": ["pocket notebook"]
+      "meaning": [
+        "pocket notebook"
+      ]
     },
     {
+      "uid": "ch02-013",
       "japanese": "名刺",
       "reading": "めいし",
       "romaji": "meishi",
-      "meaning": ["business card"]
+      "meaning": [
+        "business card"
+      ]
     },
     {
+      "uid": "ch02-014",
       "japanese": "カード",
       "reading": "カード",
       "romaji": "kaado",
-      "meaning": ["card"]
+      "meaning": [
+        "card"
+      ]
     },
     {
+      "uid": "ch02-015",
       "japanese": "テレホンカード",
       "reading": "テレホンカード",
       "romaji": "terehonkaado",
-      "meaning": ["telephone card"]
+      "meaning": [
+        "telephone card"
+      ]
     },
     {
+      "uid": "ch02-016",
       "japanese": "鉛筆",
       "reading": "えんぴつ",
       "romaji": "enpitsu",
-      "meaning": ["pencil"]
+      "meaning": [
+        "pencil"
+      ]
     },
     {
+      "uid": "ch02-017",
       "japanese": "ボールペン",
       "reading": "ボールペン",
       "romaji": "boorupen",
-      "meaning": ["ballpoint pen"]
+      "meaning": [
+        "ballpoint pen"
+      ]
     },
     {
+      "uid": "ch02-018",
       "japanese": "シャープペンシル",
       "reading": "シャープペンシル",
       "romaji": "shaapupenshiru",
-      "meaning": ["mechanical pencil, propelling pencil"]
+      "meaning": [
+        "mechanical pencil, propelling pencil"
+      ]
     },
     {
+      "uid": "ch02-019",
       "japanese": "かぎ",
       "reading": "かぎ",
       "romaji": "kagi",
-      "meaning": ["key"]
+      "meaning": [
+        "key"
+      ]
     },
     {
+      "uid": "ch02-020",
       "japanese": "時計",
       "reading": "とけい",
       "romaji": "tokei",
-      "meaning": ["watch, clock"]
+      "meaning": [
+        "watch, clock"
+      ]
     },
     {
+      "uid": "ch02-021",
       "japanese": "傘",
       "reading": "かさ",
       "romaji": "kasa",
-      "meaning": ["umbrella"]
+      "meaning": [
+        "umbrella"
+      ]
     },
     {
+      "uid": "ch02-022",
       "japanese": "かばん",
       "reading": "かばん",
       "romaji": "kaban",
-      "meaning": ["bag, briefcase"]
+      "meaning": [
+        "bag, briefcase"
+      ]
     },
     {
+      "uid": "ch02-023",
       "japanese": "[カセット]テープ",
       "reading": "[カセット]テープ",
       "romaji": "[kasetto]teepu",
-      "meaning": ["[cassette] tape"]
+      "meaning": [
+        "[cassette] tape"
+      ]
     },
     {
+      "uid": "ch02-024",
       "japanese": "テープレコーダー",
       "reading": "テープレコーダー",
       "romaji": "teepurekoodaa",
-      "meaning": ["tape recorder"]
+      "meaning": [
+        "tape recorder"
+      ]
     },
     {
+      "uid": "ch02-025",
       "japanese": "テレビ",
       "reading": "テレビ",
       "romaji": "terebi",
-      "meaning": ["television"]
+      "meaning": [
+        "television"
+      ]
     },
     {
+      "uid": "ch02-026",
       "japanese": "ラジオ",
       "reading": "ラジオ",
       "romaji": "rajio",
-      "meaning": ["radio"]
+      "meaning": [
+        "radio"
+      ]
     },
     {
+      "uid": "ch02-027",
       "japanese": "カメラ",
       "reading": "カメラ",
       "romaji": "kamera",
-      "meaning": ["camera"]
+      "meaning": [
+        "camera"
+      ]
     },
     {
+      "uid": "ch02-028",
       "japanese": "コンピューター",
       "reading": "コンピューター",
       "romaji": "konpyuutaa",
-      "meaning": ["computer"]
+      "meaning": [
+        "computer"
+      ]
     },
     {
+      "uid": "ch02-029",
       "japanese": "自動車",
       "reading": "じどうしゃ",
       "romaji": "jidousha",
-      "meaning": ["automobile, car"]
+      "meaning": [
+        "automobile, car"
+      ]
     },
     {
+      "uid": "ch02-030",
       "japanese": "机",
       "reading": "つくえ",
       "romaji": "tsukue",
-      "meaning": ["desk"]
+      "meaning": [
+        "desk"
+      ]
     },
     {
+      "uid": "ch02-031",
       "japanese": "いす",
       "reading": "いす",
       "romaji": "isu",
-      "meaning": ["chair"]
+      "meaning": [
+        "chair"
+      ]
     },
     {
+      "uid": "ch02-032",
       "japanese": "チョコレート",
       "reading": "チョコレート",
       "romaji": "chokoreeto",
-      "meaning": ["chocolate"]
+      "meaning": [
+        "chocolate"
+      ]
     },
     {
+      "uid": "ch02-033",
       "japanese": "コーヒー",
       "reading": "コーヒー",
       "romaji": "koohii",
-      "meaning": ["coffee"]
+      "meaning": [
+        "coffee"
+      ]
     },
     {
+      "uid": "ch02-034",
       "japanese": "英語",
       "reading": "えいご",
       "romaji": "eigo",
-      "meaning": ["the English language"]
+      "meaning": [
+        "the English language"
+      ]
     },
     {
+      "uid": "ch02-035",
       "japanese": "日本語",
       "reading": "にほんご",
       "romaji": "nihongo",
-      "meaning": ["the Japanese language"]
+      "meaning": [
+        "the Japanese language"
+      ]
     },
     {
+      "uid": "ch02-036",
       "japanese": "～語",
       "reading": "～ご",
       "romaji": "~go",
-      "meaning": ["~ language"]
+      "meaning": [
+        "~ language"
+      ]
     },
     {
+      "uid": "ch02-037",
       "japanese": "何",
       "reading": "なん",
       "romaji": "nan",
-      "meaning": ["what"]
+      "meaning": [
+        "what"
+      ]
     },
     {
+      "uid": "ch02-038",
       "japanese": "そう",
       "reading": "そう",
       "romaji": "sou",
-      "meaning": ["so"]
+      "meaning": [
+        "so"
+      ]
     },
     {
+      "uid": "ch02-039",
       "japanese": "違います。",
       "reading": "ちがいます。",
       "romaji": "chigaimasu.",
-      "meaning": ["No, it isn't.", "You are wrong."]
+      "meaning": [
+        "No, it isn't.",
+        "You are wrong."
+      ]
     },
     {
+      "uid": "ch02-040",
       "japanese": "そうですか。",
       "reading": "そうですか。",
       "romaji": "sou desu ka.",
-      "meaning": ["I see.", "Is that so?"]
+      "meaning": [
+        "I see.",
+        "Is that so?"
+      ]
     },
     {
+      "uid": "ch02-041",
       "japanese": "あのう",
       "reading": "あのう",
       "romaji": "anou",
-      "meaning": ["well (used to show hesitation)"]
+      "meaning": [
+        "well (used to show hesitation)"
+      ]
     },
     {
+      "uid": "ch02-042",
       "japanese": "ほんの気持ちです。",
       "reading": "ほんのきもちです。",
       "romaji": "hon no kimochi desu.",
-      "meaning": ["It's nothing.", "It's a token of my gratitude."]
+      "meaning": [
+        "It's nothing.",
+        "It's a token of my gratitude."
+      ]
     },
     {
+      "uid": "ch02-043",
       "japanese": "どうぞ。",
       "reading": "どうぞ。",
       "romaji": "douzo.",
@@ -264,28 +394,40 @@
       ]
     },
     {
+      "uid": "ch02-044",
       "japanese": "どうも。",
       "reading": "どうも。",
       "romaji": "doumo.",
-      "meaning": ["Well, thanks."]
+      "meaning": [
+        "Well, thanks."
+      ]
     },
     {
+      "uid": "ch02-045",
       "japanese": "［どうも］ありがとう［ございます］。",
       "reading": "［どうも］ありがとう［ございます］。",
       "romaji": "[doumo] arigatou [gozaimasu].",
-      "meaning": ["Thank you [very much]."]
+      "meaning": [
+        "Thank you [very much]."
+      ]
     },
     {
+      "uid": "ch02-046",
       "japanese": "これから お世話になります。",
       "reading": "これから おせわになります。",
       "romaji": "korekara osewa ni narimasu.",
-      "meaning": ["I hope for your kind assistance hereafter."]
+      "meaning": [
+        "I hope for your kind assistance hereafter."
+      ]
     },
     {
+      "uid": "ch02-047",
       "japanese": "こちらこそ よろしく。",
       "reading": "こちらこそ よろしく。",
       "romaji": "kochirakoso yoroshiku.",
-      "meaning": ["I am pleased to meet you. (response to どうぞよろしく)"]
+      "meaning": [
+        "I am pleased to meet you. (response to どうぞよろしく)"
+      ]
     }
   ]
 }

@@ -3,125 +3,183 @@
   "jlpt": "N5",
   "vocabulary": [
     {
+      "uid": "ch20-001",
       "japanese": "要ります ［ビザが～］",
       "reading": "いります ［ビザが～］",
       "romaji": "irimasu [biza ga ~]",
-      "meaning": ["need, require [a visa]"],
+      "meaning": [
+        "need, require [a visa]"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch20-002",
       "japanese": "調べます",
       "reading": "しらべます",
       "romaji": "shirabemasu",
-      "meaning": ["check, investigate"],
+      "meaning": [
+        "check, investigate"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch20-003",
       "japanese": "直します",
       "reading": "なおします",
       "romaji": "naoshimasu",
-      "meaning": ["repair, correct"],
+      "meaning": [
+        "repair, correct"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch20-004",
       "japanese": "修理します",
       "reading": "しゅうりします",
       "romaji": "shuurishimasu",
-      "meaning": ["repair"],
+      "meaning": [
+        "repair"
+      ],
       "verb_group": "III"
     },
     {
+      "uid": "ch20-005",
       "japanese": "電話します",
       "reading": "でんわします",
       "romaji": "denwashimasu",
-      "meaning": ["phone"],
+      "meaning": [
+        "phone"
+      ],
       "verb_group": "III"
     },
     {
+      "uid": "ch20-006",
       "japanese": "僕",
       "reading": "ぼく",
       "romaji": "boku",
-      "meaning": ["I (an informal equivalent of わたし used by men)"]
+      "meaning": [
+        "I (an informal equivalent of わたし used by men)"
+      ]
     },
     {
+      "uid": "ch20-007",
       "japanese": "君",
       "reading": "きみ",
       "romaji": "kimi",
-      "meaning": ["you (an informal equivalent of あなた used by men)"]
+      "meaning": [
+        "you (an informal equivalent of あなた used by men)"
+      ]
     },
     {
+      "uid": "ch20-008",
       "japanese": "～君",
       "reading": "～くん",
       "romaji": "~kun",
-      "meaning": ["Mr. (an informal equivalent of ～さん used by men)"]
+      "meaning": [
+        "Mr. (an informal equivalent of ～さん used by men)"
+      ]
     },
     {
+      "uid": "ch20-009",
       "japanese": "うん",
       "reading": "うん",
       "romaji": "un",
-      "meaning": ["yes (an informal equivalent of はい)"]
+      "meaning": [
+        "yes (an informal equivalent of はい)"
+      ]
     },
     {
+      "uid": "ch20-010",
       "japanese": "ううん",
       "reading": "ううん",
       "romaji": "uun",
-      "meaning": ["no (an informal equivalent of いいえ)"]
+      "meaning": [
+        "no (an informal equivalent of いいえ)"
+      ]
     },
     {
+      "uid": "ch20-011",
       "japanese": "サラリーマン",
       "reading": "サラリーマン",
       "romaji": "sarariiman",
-      "meaning": ["salaried worker, office worker"]
+      "meaning": [
+        "salaried worker, office worker"
+      ]
     },
     {
+      "uid": "ch20-012",
       "japanese": "ことば",
       "reading": "ことば",
       "romaji": "kotoba",
-      "meaning": ["word, language"]
+      "meaning": [
+        "word, language"
+      ]
     },
     {
+      "uid": "ch20-013",
       "japanese": "物価",
       "reading": "ぶっか",
       "romaji": "bukka",
-      "meaning": ["commodity prices"]
+      "meaning": [
+        "commodity prices"
+      ]
     },
     {
+      "uid": "ch20-014",
       "japanese": "着物",
       "reading": "きもの",
       "romaji": "kimono",
-      "meaning": ["kimono (traditional Japanese attire)"]
+      "meaning": [
+        "kimono (traditional Japanese attire)"
+      ]
     },
     {
+      "uid": "ch20-015",
       "japanese": "ビザ",
       "reading": "ビザ",
       "romaji": "biza",
-      "meaning": ["visa"]
+      "meaning": [
+        "visa"
+      ]
     },
     {
+      "uid": "ch20-016",
       "japanese": "初め",
       "reading": "はじめ",
       "romaji": "hajime",
-      "meaning": ["the beginning"]
+      "meaning": [
+        "the beginning"
+      ]
     },
     {
+      "uid": "ch20-017",
       "japanese": "終わり",
       "reading": "おわり",
       "romaji": "owari",
-      "meaning": ["the end"]
+      "meaning": [
+        "the end"
+      ]
     },
     {
+      "uid": "ch20-018",
       "japanese": "こっち",
       "reading": "こっち",
       "romaji": "kotchi",
-      "meaning": ["this way, this place (an informal equivalent of こちら)"]
+      "meaning": [
+        "this way, this place (an informal equivalent of こちら)"
+      ]
     },
     {
+      "uid": "ch20-019",
       "japanese": "そっち",
       "reading": "そっち",
       "romaji": "sotchi",
-      "meaning": ["this way, that place (an informal equivalent of そちら)"]
+      "meaning": [
+        "this way, that place (an informal equivalent of そちら)"
+      ]
     },
     {
+      "uid": "ch20-020",
       "japanese": "あっち",
       "reading": "あっち",
       "romaji": "atchi",
@@ -130,6 +188,7 @@
       ]
     },
     {
+      "uid": "ch20-021",
       "japanese": "どっち",
       "reading": "どっち",
       "romaji": "dotchi",
@@ -138,52 +197,76 @@
       ]
     },
     {
+      "uid": "ch20-022",
       "japanese": "この間",
       "reading": "このあいだ",
       "romaji": "kono aida",
-      "meaning": ["the other day"]
+      "meaning": [
+        "the other day"
+      ]
     },
     {
+      "uid": "ch20-023",
       "japanese": "みんなで",
       "reading": "みんなで",
       "romaji": "minna de",
-      "meaning": ["all together"]
+      "meaning": [
+        "all together"
+      ]
     },
     {
+      "uid": "ch20-024",
       "japanese": "～けど",
       "reading": "～けど",
       "romaji": "~kedo",
-      "meaning": ["～, but (an informal equivalent of が)"]
+      "meaning": [
+        "～, but (an informal equivalent of が)"
+      ]
     },
     {
+      "uid": "ch20-025",
       "japanese": "国へ 帰るの？",
       "reading": "くにへ かえるの？",
       "romaji": "kuni e kaeru no?",
-      "meaning": ["Are you going back to your country?"]
+      "meaning": [
+        "Are you going back to your country?"
+      ]
     },
     {
+      "uid": "ch20-026",
       "japanese": "どう するの？",
       "reading": "どう するの？",
       "romaji": "dou suru no?",
-      "meaning": ["What will you do?"]
+      "meaning": [
+        "What will you do?"
+      ]
     },
     {
+      "uid": "ch20-027",
       "japanese": "どう しようかな。",
       "reading": "どう しようかな。",
       "romaji": "dou shiyou kana.",
-      "meaning": ["What shall I do?"]
+      "meaning": [
+        "What shall I do?"
+      ]
     },
     {
+      "uid": "ch20-028",
       "japanese": "よかったら",
       "reading": "よかったら",
       "romaji": "yokattara",
-      "meaning": ["if you like"]
+      "meaning": [
+        "if you like"
+      ]
     },
     {
+      "uid": "ch20-029",
       "japanese": "いろいろ",
       "reading": "いろいろ",
       "romaji": "iroiro",
-      "meaning": ["various"]
+      "meaning": [
+        "various"
+      ]
     }
   ]
 }

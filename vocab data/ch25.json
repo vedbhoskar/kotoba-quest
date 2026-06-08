@@ -3,111 +3,166 @@
   "jlpt": "N5",
   "vocabulary": [
     {
+      "uid": "ch25-001",
       "japanese": "考えます",
       "reading": "かんがえます",
       "romaji": "kangaemasu",
-      "meaning": ["think", "consider"],
+      "meaning": [
+        "think",
+        "consider"
+      ],
       "verb_group": "II"
     },
     {
+      "uid": "ch25-002",
       "japanese": "着きます ［駅に～］",
       "reading": "つきます ［えきに～］",
       "romaji": "tsukimasu [eki ni ~]",
-      "meaning": ["arrive [at the station]"],
+      "meaning": [
+        "arrive [at the station]"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch25-003",
       "japanese": "留学します",
       "reading": "りゅうがくします",
       "romaji": "ryuugakushimasu",
-      "meaning": ["study abroad"],
+      "meaning": [
+        "study abroad"
+      ],
       "verb_group": "III"
     },
     {
+      "uid": "ch25-004",
       "japanese": "取ります ［年を～］",
       "reading": "とります ［としを～］",
       "romaji": "torimasu [toshi o ~]",
-      "meaning": ["grow old"],
+      "meaning": [
+        "grow old"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch25-005",
       "japanese": "田舎",
       "reading": "いなか",
       "romaji": "inaka",
-      "meaning": ["countryside", "hometown"]
+      "meaning": [
+        "countryside",
+        "hometown"
+      ]
     },
     {
+      "uid": "ch25-006",
       "japanese": "大使館",
       "reading": "たいしかん",
       "romaji": "taishikan",
-      "meaning": ["embassy"]
+      "meaning": [
+        "embassy"
+      ]
     },
     {
+      "uid": "ch25-007",
       "japanese": "グループ",
       "reading": "グループ",
       "romaji": "guruupu",
-      "meaning": ["group"]
+      "meaning": [
+        "group"
+      ]
     },
     {
+      "uid": "ch25-008",
       "japanese": "チャンス",
       "reading": "チャンス",
       "romaji": "chansu",
-      "meaning": ["chance"]
+      "meaning": [
+        "chance"
+      ]
     },
     {
+      "uid": "ch25-009",
       "japanese": "億",
       "reading": "おく",
       "romaji": "oku",
-      "meaning": ["hundred million"]
+      "meaning": [
+        "hundred million"
+      ]
     },
     {
+      "uid": "ch25-010",
       "japanese": "もし ［～たら］",
       "reading": "もし ［～たら］",
       "romaji": "moshi [~tara]",
-      "meaning": ["if ~"]
+      "meaning": [
+        "if ~"
+      ]
     },
     {
+      "uid": "ch25-011",
       "japanese": "いくら ［～ても］",
       "reading": "いくら ［～ても］",
       "romaji": "ikura [~temo]",
-      "meaning": ["however ~", "even if ~"]
+      "meaning": [
+        "however ~",
+        "even if ~"
+      ]
     },
     {
+      "uid": "ch25-012",
       "japanese": "転勤",
       "reading": "てんきん",
       "romaji": "tenkin",
-      "meaning": ["transfer (～ します: be transferred to another office)"]
+      "meaning": [
+        "transfer (～ します: be transferred to another office)"
+      ]
     },
     {
+      "uid": "ch25-013",
       "japanese": "こと",
       "reading": "こと",
       "romaji": "koto",
-      "meaning": ["thing", "matter (～の こと: thing about ～)"]
+      "meaning": [
+        "thing",
+        "matter (～の こと: thing about ～)"
+      ]
     },
     {
+      "uid": "ch25-014",
       "japanese": "一杯 飲みましょう。",
       "reading": "いっぱい のみましょう。",
       "romaji": "ippai nomimashou.",
-      "meaning": ["Let's have a drink together."]
+      "meaning": [
+        "Let's have a drink together."
+      ]
     },
     {
+      "uid": "ch25-015",
       "japanese": "［いろいろ］お世話に なりました。",
       "reading": "［いろいろ］おせわに なりました。",
       "romaji": "[iroiro] osewa ni narimashita.",
-      "meaning": ["Thank you for everything you have done for me."]
+      "meaning": [
+        "Thank you for everything you have done for me."
+      ]
     },
     {
+      "uid": "ch25-016",
       "japanese": "頑張ります",
       "reading": "がんばります",
       "romaji": "ganbarimasu",
-      "meaning": ["do one's best"],
+      "meaning": [
+        "do one's best"
+      ],
       "verb_group": "I"
     },
     {
+      "uid": "ch25-017",
       "japanese": "どうぞ お元気で。",
       "reading": "どうぞ おげんきで。",
       "romaji": "douzo ogenki de.",
-      "meaning": ["Best of luck. (said when expecting a long separation)"]
+      "meaning": [
+        "Best of luck. (said when expecting a long separation)"
+      ]
     }
   ]
 }
