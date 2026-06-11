@@ -29,6 +29,12 @@ During a session, the application displays Japanese words as flashcards. The use
 Words marked as incorrect are placed back into the review queue and appear again naturally later in the session. A session only ends once all selected vocabulary has been answered correctly.
 
 ---
+## 📲 Download APK
+
+The latest Android APK is available from the GitHub Releases page.
+
+➡️ https://github.com/vedbhoskar/kotoba-quest/releases
+---
 
 ## 🎮 How to Use
 
